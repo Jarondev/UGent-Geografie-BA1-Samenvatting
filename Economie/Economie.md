@@ -462,3 +462,20 @@
 	→ vermindert hoeveelheid ingevoerde producten
 	→ brengt binnenlandse markt dichter bij evenwicht
 ## Handelsintegratie
+- **WTO** (World Trade Organization)
+	- **GATT** (General Agreement on Tariffs and Trade):
+		- Na WO2: 40% → 5% douane
+	- **Afspraken** moeten door alle landen worden **nagevolgd**
+		→ Anders: **sancties** bij handelsconflicten
+- **EU** (Europese Unie)
+	- **Regionaal** handelsakkoord
+	- **Douane-unie** met gealigneerde productstandaarden
+	- **Monetaire Unie** (EMU) → Euro
+		- Niet alle lidstaten zijn lid EMU
+## China-shock
+- **Importconcurrentie** zorgt voor jobverlies & vertraagde groei
+- **Doel China**: modern worden & onbetwistbare supermacht
+- **Globalisering 2.0**: Veel **specifieker en individueler**
+	→ specifieke onderdelen of productieprocessen
+
+# 10. Duurzame ontwikkeling
