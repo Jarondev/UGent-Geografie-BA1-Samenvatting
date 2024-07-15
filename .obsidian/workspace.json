@@ -1,0 +1,165 @@
+{
+  "main": {
+    "id": "6f80a50d85bab958",
+    "type": "split",
+    "children": [
+      {
+        "id": "e4310a8c88b5b9ae",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "6765f62f3ae7eb12",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Economie/Economie.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "c05a2bdc87de89e2",
+    "type": "split",
+    "children": [
+      {
+        "id": "1583b14e3636317d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "fd4359023a3f4657",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "d66ff82e122432d3",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "37077f0fc18fb592",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200
+  },
+  "right": {
+    "id": "97e66b02ee2fc326",
+    "type": "split",
+    "children": [
+      {
+        "id": "e019e15ba0437956",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "cf7ae4efd49edb93",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Economie/Economie.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "d006e7d81e398501",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Economie/Economie.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "166e6358eca6f684",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "6b081b86914d18ee",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Economie/Economie.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "6765f62f3ae7eb12",
+  "lastOpenFiles": [
+    "Economie/Pasted image 20240714190644.png",
+    "Economie/Pasted image 20240709165919.png",
+    "Economie/Economie.md",
+    "Pasted image 20240714190625.png",
+    "SEG/Begrippenlijst.md",
+    "SEG/Hoofdstuk 1.md",
+    "SEG/Hoofdstuk 2.md",
+    "SEG/Hoofdstuk 3.md",
+    "Economie/Pasted image 20240710190129.png",
+    "Untitled.md",
+    "SEG",
+    "Economie",
+    "Welcome.md"
+  ]
+}

@@ -1,0 +1,20 @@
+- **Fysisch determinisme**: binden sociale & economische concepten aan fysische geografie
+	- bv: in Afrika is het warm dus mensen zijn lui
+- **Technologisch determinisme**: binden sociale & economische concepten aan technologie
+	- bv: 
+- **MAUP** (modifable areal unit problem): staten of administratieve eenheden niet representatief genoeg in onderscheid maken tussen oecumene/anoecumene wereld
+- **Lorenz-curve**: toont verdeling welvaart
+- **Gini-coefficient**: cijfer tussen 0 en 1 die Lorenz-curve aantoont (0 = perfecte inkomensgelijkheid, 1 = perfecte ongelijkheid)
+- **Oecumene wereld**: bewoonde wereld
+- **Neolithische revolutie**: landbouwrevolutie na laatste glaciaal maximum
+- **Antropoceen**: nieuw geologisch tijdperk die wijst op ongekende invloed mens op aarde
+- **Great-acceleration**: versnelling socio-economische & biofysische trends na 1950
+- **Planetaire verstedelijking**: verstedelijking beïnvloedt hele planeet
+- **OPEC**: Organization of the Petroleum Exporting Countries
+- **Fracking**: schaliegas pompen met water & chemicaliën
+- **Dutch disease**: ontdekking grondstof leidt tot stijging waarde munt van het land, waardoor andere exportsectoren binnen het land duurder worden
+- **GATT** (General Agreement on Tarrifs and Trade): samenwerkingsovereenkomst die na WO2 werd opgericht met oog op regulering wereldhandel
+- **Handelsoverschotten** = export - import
+- **Kondratieffgolven**: economische cycli van 50 a 60 jaar met periodes van innovatie en groei, gevolgd door correctie en neergang
+- **Space-time compression**: technologische vooruitgang en globalisering verminderen betekenis afstands- en tijdsbarrieres tussen plaatsen
+- **Productieregimes**: veranderende organisatie van de economische productie
