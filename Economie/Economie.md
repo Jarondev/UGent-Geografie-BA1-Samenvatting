@@ -453,4 +453,12 @@
 	- Bepaalt wie waarin specialiseert en welke handelsstromen tot stand komen
 - Opportuniteitskost bepaalt handelsstromen
 ## Handelsbelemmeringen en welvaart
-
+- Land wordt **importeur** als het **efficiënter** (goedkoper) is om product aan te kopen **in buitenland** ⇔ anders exporteur
+- **Import/export beïnvloedt winst/verlies van binnenlandse producent/consument**
+	→ bv. import zorgt dat binnenlandse producent verliest, consument wint
+		→ vice-versa voor export 
+- Internationale handel zorgt voor **welvaart in beide landen**
+- **Douaneheffing**: **importbelastingen** voor producten die in eigen land verkocht wordt
+	→ vermindert hoeveelheid ingevoerde producten
+	→ brengt binnenlandse markt dichter bij evenwicht
+## Handelsintegratie
