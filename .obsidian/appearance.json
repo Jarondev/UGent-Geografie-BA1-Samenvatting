@@ -1,5 +1,6 @@
 {
   "accentColor": "",
   "cssTheme": "Typewriter",
-  "nativeMenus": true
+  "nativeMenus": true,
+  "baseFontSize": 14
 }

@@ -1,5 +1,6 @@
 [
   "obsidian-plugin-toc",
   "symbols-prettifier",
-  "obsidian-git"
+  "obsidian-git",
+  "obsidian-to-anki-plugin"
 ]
