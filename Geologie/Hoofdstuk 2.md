@@ -20,4 +20,23 @@
 - Diameter: 200 AU
 - **Toename rotatie** door accretie
 - **Cloudlets**: zelf-graviterende wolken
-- 
+- Overschrijding kritische diameter (100km)
+	- eigen **zwaarteveld**
+	- grotere lichamen groeien **sneller**
+### Fase 3: planetisimalen → protoplaneten
+#### Mogelijkheden
+1. **Heterogene accretie**
+	- trage afkoeling
+	- schaalvorming door fractionatie
+	- opbouw gelijk met condensatieverloop
+	- geen isostatische c
+1. **Homogene accretie**
+	- snelle afkoeling
+	- heterogene opname gecondenseerd materiaal
+	- mengsel van silicaten (Fe, FeO, FeS)
+### Fase 4: accretie van de aarde
+- homogene acretie
+	→ impacten (magma-oceaan)
+		→ ijzer zinkt naar kern
+- maan als getuige: kraters uit Hadeaan (3 Ga)
+	→ ijzer deficit (impact net na hersmelting magma-oceaan)
