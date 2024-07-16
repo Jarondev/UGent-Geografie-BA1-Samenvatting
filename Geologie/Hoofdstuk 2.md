@@ -11,7 +11,7 @@
 ##### 5 belangrijke zones (Temperatuur in Kelvin)
 → Elementen die **binnenste** planeten vormen:
 - 1700-1600: eerste condensaten
-- Metallisch ijzer
+- metallisch ijzer
 - 1400-1300: Mg & Fe silicaten
 → Elementen die **buitenste** planeten vormen:
 - < 700: sulfiden
@@ -30,13 +30,67 @@
 	- schaalvorming door fractionatie
 	- opbouw gelijk met condensatieverloop
 	- geen isostatische c
-1. **Homogene accretie**
+2. **Homogene accretie**
 	- snelle afkoeling
 	- heterogene opname gecondenseerd materiaal
 	- mengsel van silicaten (Fe, FeO, FeS)
 ### Fase 4: accretie van de aarde
-- homogene acretie
+- Homogene acretie
 	→ impacten (magma-oceaan)
 		→ ijzer zinkt naar kern
-- maan als getuige: kraters uit Hadeaan (3 Ga)
-	→ ijzer deficit (impact net na hersmelting magma-oceaan)
+- Maan als getuige: kraters uit Hadeaan (3 Ga)
+	- **ijzer deficit** (impact net na hersmelting magma-oceaan)
+	- **maria**: donkere plekken door stolling oceaan
+	- **terrae**: hoogland
+	- door zwaarte basalt naar ons gericht
+## Meteorieten
+### Stenig
+- **Chondriet**
+	- niet gedifferentieerd
+	- weinig veranderd sinds vorming
+	→ **chondrulen**: (ronde graanvormen)
+		→ **bol** door afwezigheid zwaarteveld
+		→ pyroxeen of olivijn
+		→ oorsprong: **smelt gaswolk**
+- **Achondrieten**
+	- gedifferentieerd
+	- afkomstig van **mantel-korst**
+### Gemengd
+- **Pallasieten**
+	- afkomstig grens **kern-mantel**
+	- ijzer + silicaatkristallen
+		→ trage uitkristallisatie
+- **Mesosiderieten**
+	- **breccie**-structuur (porien)
+	- afkomstig **mantel-korst**
+	- ijzer + basalt
+### Metallisch
+- **Ijzermeteoriet**
+	- bewijs homogene accretie (**kern**)
+	- windmannstatten (figuren)
+		→ geeft vorm voormalige planeet aan
+## Asteroiden
+- **Bron van meteorieten**
+- Asteroidengordel:
+	- **2-4 AU tussen Mars en Jupiter**
+		→ ontbrekende planeet?
+- Veel protoplaneten
+## Kometen
+### Kenmerken
+- Specifieke **baan rond zon**
+- **Staart (stof)**
+	→ stukken breken af, laten spoor achter
+- **Staart (ionen)**
+	→ smal & rechtlijnig
+	→ feller in kleur
+- **Coma**: nevelachtige enveloppe rond kern
+- Onregelmatige vorm
+- Vooral uit water gemaakt (80%)
+	→ ook CO, methaan, ammoniak, polymeren
+### Bron
+- **Oorts wolk**? (sferische wolk buiten zonnestelsel)
+	- theoretisch model
+- **Kuiper gordel**
+	- concentratie ijsobjecten voorbij de baan van Jupiter (**30-50 AU**)
+	- KBO's naar Oort geslingerd?
+## Impacten
