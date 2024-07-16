@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Economie/Economie.md",
+                "file": "Geologie/Hoofdstuk 3.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Economie/Economie.md",
+                "file": "Geologie/Hoofdstuk 3.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Economie/Economie.md",
+                "file": "Geologie/Hoofdstuk 3.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Economie/Economie.md"
+                "file": "Geologie/Hoofdstuk 3.md"
               }
             }
           }
@@ -146,13 +146,13 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "fd4359023a3f4657",
+  "active": "38e041bb36b36c58",
   "lastOpenFiles": [
-    "Geologie/Hoofdstuk 3.md",
     "Geologie/Hoofdstuk 2.md",
+    "Geologie/Hoofdstuk 3.md",
     "Geologie/Hoofdstuk 1.md",
-    "Geologie/Pasted image 20240715190411.png",
     "Economie/Economie.md",
+    "Geologie/Pasted image 20240715190411.png",
     "Economie/Pasted image 20240709165919.png",
     "Geologie",
     "Untitled.canvas",

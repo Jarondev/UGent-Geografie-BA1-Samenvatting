@@ -17,4 +17,4 @@
 - Bron: continue **radiogene**, latente & restwarmte
 - Hoge thermische **geleidbaarheid** (ijzer)
 - **Convectie** in buitenkern
-	→ bron magnetisch dipoolveld
+	→ bron magnetisch dipoolveld 
