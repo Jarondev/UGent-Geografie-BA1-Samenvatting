@@ -17,4 +17,8 @@
 - Bron: continue **radiogene**, latente & restwarmte
 - Hoge thermische **geleidbaarheid** (ijzer)
 - **Convectie** in buitenkern
-	→ bron magnetisch dipoolveld 
+	- bron magnetisch dipoolveld 
+	- niet stabiel, **ompoling**
+### Samenstelling
+- grens binnen-buitenkern: kristallisatie Fe aan grens
+- grens buitenkern-mantel: vloeibaar metaal corrodeert
