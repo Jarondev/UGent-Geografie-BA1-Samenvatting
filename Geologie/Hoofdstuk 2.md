@@ -94,3 +94,28 @@
 	- concentratie ijsobjecten voorbij de baan van Jupiter (**30-50 AU**)
 	- KBO's naar Oort geslingerd?
 ## Impacten
+- RX30 & RF12
+	- 50 miljoen asteroiden
+	- kans op inslag: 1 om de 10 jaar
+- TB145 "Spooky"
+	- 500m diameter
+- Tunguska, Siberia (1908)
+	- 1km diameter
+	- 30-40km afgebroken boomstammen
+- **Shoemaker-Levy 9, Jupiter (1994)**
+	- 21 fragmenten van 2km grootte
+	- eerste live impact
+	- vuurballen zo groot als aarde
+### Paleo-impacten
+- Ries krater, Duitsland (14,5 Ma)
+	- 24km diameter
+	- **coesiet**: "shocked quartz"
+	- **sueviet**: breccies met smeltstructuren
+	- **tektieten**: gesmolten, druppelvormig glas
+		→ in atmosfeer na inslag
+- **Chixculub** (Mexico)
+	- gevolg:
+		- **global cooling**
+		- **nucleaire winter** met zure regen
+	- **200km diameter**
+	- 830m kern
