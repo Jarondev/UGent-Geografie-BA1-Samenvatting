@@ -17,8 +17,29 @@
 - Bron: continue **radiogene**, latente & restwarmte
 - Hoge thermische **geleidbaarheid** (ijzer)
 - **Convectie** in buitenkern
-	- bron magnetisch dipoolveld 
+	- bron **magnetisch dipoolveld** 
 	- niet stabiel, **ompoling**
 ### Samenstelling
-- grens binnen-buitenkern: kristallisatie Fe aan grens
-- grens buitenkern-mantel: vloeibaar metaal corrodeert
+- Grens binnen-buitenkern: **kristallisatie Fe** aan grens
+- Grens buitenkern-mantel: vloeibaar metaal corrodeert
+- Si, S, O
+	→ verklaart deficit Si in chondrieten
+## Mantel
+
+- D" laag en 670km: **ondermantel**
+- 670-400km: **overgangszone**
+- 400km-MOHO: **bovenmantel**
+### CMB (Core Mantle Boundary) 
+- Stijgende **warme plumes**
+	→ Si in vaste toestand
+- Dalende koude lithosfeerplaten
+- Eigen relief (**zuignappen**)
+- Brede welving & hot spots aan geoide
+### Basislaag D" 
+- **Thermische grenslaag** ~200km dik
+- **Stort lithosfeerplaten**
+- Sterk relief, onregelmatige dikte
+- **Onttrekking warmte** buitenkern bedaart convectie
+	→ magnetisch stille periodes
+	→ aan oppervlakte: veel **magma** → Large Igneous Provinces
+- Chemische corrosie ondermantel
