@@ -47,7 +47,27 @@
 	- Aan spreidingsas door rifting
 	- Ondiepe smelt dor drukvermindering
 	- Verdere aandikking door sedimenten
-
+### Aangemaakt door rifting aan spreidingsassen
+#### Pillow lava's
+- Uitvloeiing **lava op zeebodem**
+	1. onmiddelijke afkoeling
+	2. glasachtige kokers 
+	3. pillow lava's
+#### Basaltzuilen
+- Na eruptie:
+	1. stolling lava
+	2. binnen scheuren en breuken
+	3. sheeted dykes
+#### Gabbro's in magmakamer
+- Achterblijfsel uit **magmakamer**
+	1. begin oorspronkelijke smelt
+	2. *trage* uitkristallisatie
+	3. *grotere* kristallen
+#### Peridotiet - serpentiniet
+- Ontstaan in de **mantel**
+	1. gedeeltelijke smelting mantelmateriaal
+	2. *langzame* opstijging en afkoeling
+	3. grote kristallen **olivijn** en **pyroxenen**
 ### Lithosfeer
 - Korst en afgekoelde mantel
 - Basis lithosfeer op 1600K
@@ -55,5 +75,5 @@
 	- Dikte continentale: 100-200km
 ### Asthenosfeer
 - Vervormbaar mantel materiaal
-- Plastische smeerlaag tot 700km
+- **Plastische smeerlaag** tot 700km
 - Horizontale en verticale bewegingen lithosfeer
