@@ -25,7 +25,6 @@
 - Si, S, O
 	→ verklaart deficit Si in chondrieten
 ## Mantel
-
 - D" laag en 670km: **ondermantel**
 - 670-400km: **overgangszone**
 - 400km-MOHO: **bovenmantel**
@@ -43,3 +42,18 @@
 	→ magnetisch stille periodes
 	→ aan oppervlakte: veel **magma** → Large Igneous Provinces
 - Chemische corrosie ondermantel
+## Korst
+- **Differentiatieproduct** mantel
+	- Aan spreidingsas door rifting
+	- Ondiepe smelt dor drukvermindering
+	- Verdere aandikking door sedimenten
+
+### Lithosfeer
+- Korst en afgekoelde mantel
+- Basis lithosfeer op 1600K
+	- Dikte oceanische: 50-100km
+	- Dikte continentale: 100-200km
+### Asthenosfeer
+- Vervormbaar mantel materiaal
+- Plastische smeerlaag tot 700km
+- Horizontale en verticale bewegingen lithosfeer
