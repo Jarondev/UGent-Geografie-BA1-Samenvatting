@@ -20,4 +20,11 @@
 - **Plutonisme**: basalten als vulkanisch gesteente, granieten als stollingsgesteente
 - James Hutton: intrusie & **geologische tijd**
 - **Charles Lyell**: basiswerk Geologie
-- Cuvier: Katastrofisme
+- Cuvier: Katastrofisme, studie fossielen
+### 19e eeuw
+- Challenger cruise: observaties zeebodem, marianentrog
+- Elie de Beaumont: gebergtesystemen
+- Leopold von Buch: vulkanische gesteenten, opheffing gebergten
+- **Afglijdingstektoniek**
+- **Eerste model met horizontale overschuiving**
+- Edward Suess: overschuivingsbreuken in de Alpen
