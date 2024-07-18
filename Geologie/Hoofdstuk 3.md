@@ -80,7 +80,18 @@
 - **Plastische smeerlaag** tot 700km
 - Horizontale en verticale bewegingen lithosfeer
 ### Rol 400 en 600km discontinuiteit
-- 400km: 
+- Mantelgeotherm: normale verloop temperatur met diepte
+- Stabiliteitsdomeinen olivijn-spinel-perovskiet gescheiden door fazegrenzen
+- **400km**: 
 	→ versnelling subductie: **slab pull**
-- 670km:
+	- Overgang olivijn → spinel
+	- **positieve helling** fasegrens (bij hogere temperatuur is hogere druk nodig)
+		→ omzetting bij hogere temperatuur met diepte
+	- spinel is **zwaarder** dan olivijn
+- **670km**:
 	→ vertraging subductie: **ombuiging & vervlakking**
+	- Overgang spinel → perovskiet
+		- **negatieve helling** fasegrens (bij hogere temperatuur is lagere druk nodig)
+			→ omzetting bij lagere temperatuur met diepte
+		- lichtere fractie moet in zware mantel
+		- plaat moet dieper duiken → **remming**
