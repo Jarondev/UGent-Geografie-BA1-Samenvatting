@@ -4,35 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "42e3d23e12ebc901",
+        "id": "f01be7f09e988b3c",
         "type": "tabs",
         "children": [
           {
-            "id": "38e041bb36b36c58",
+            "id": "7110f6ae794ac6b4",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Geologie/Hoofdstuk 3.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "df4088b039015ce8",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Geologie/Hoofdstuk 4.md",
+                "file": "GIS/GIS.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -98,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Geologie/Hoofdstuk 4.md",
+                "file": "GIS/GIS.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Geologie/Hoofdstuk 4.md",
+                "file": "GIS/GIS.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Geologie/Hoofdstuk 4.md"
+                "file": "GIS/GIS.md"
               }
             }
           }
@@ -161,8 +148,11 @@
   },
   "active": "fd4359023a3f4657",
   "lastOpenFiles": [
-    "Geologie/Hoofdstuk 3.md",
+    "GIS/Pasted image 20240718201616.png",
     "Geologie/Hoofdstuk 4.md",
+    "GIS/GIS.md",
+    "GIS",
+    "Geologie/Hoofdstuk 3.md",
     "Geologie/Hoofdstuk 2.md",
     "Geologie/Hoofdstuk 1.md",
     "Economie/Economie.md",

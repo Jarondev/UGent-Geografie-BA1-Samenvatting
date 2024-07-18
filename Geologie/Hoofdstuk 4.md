@@ -27,4 +27,5 @@
 - Leopold von Buch: vulkanische gesteenten, opheffing gebergten
 - **Afglijdingstektoniek**
 - **Eerste model met horizontale overschuiving**
-- Edward Suess: overschuivingsbreuken in de Alpen
+- Edward Suess: overschuivingsbreuken in de Alpen (overschuivingsmodel)
+- 
