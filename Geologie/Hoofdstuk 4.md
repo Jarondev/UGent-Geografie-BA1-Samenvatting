@@ -1,28 +1,23 @@
 ## Onderzoek
 ### Grieks
-| Naam         | Onderzoek           | Kleine uitleg                   |
-| ------------ | ------------------- | ------------------------------- |
-| Herodotus    | Zeevaardersoogpunt  | Zee, overstromingen, sedimenten |
-| Plato        | Vroeg katastrofisme | Aardbevingen en vulkanen        |
-| Aristotles   | Meteorologica       | Regelmatige processen           |
-| Erastothenes | Geomatica           | Afmetingen aarde                |
-| Strabo       | Rerum Geografica    | Mariene fossielen op lamnd      |
+- Zee, overstromingen, sedimenten, aardbevingen, meteorologie, afmetingen aarde,
 ### Latijns
-| Naam             | Onderzoek           | Kleine uitleg                |
-| ---------------- | ------------------- | ---------------------------- |
-| Ovidius          | Matamofrosen        | Gedaanteverwisseling emersie |
-| Plinius de Oude  | Historia Naturalis  | Kennis klasieke oudheid      |
-| Plinius de Jonge | Aarsde Winden       | Vulkanen, Eolische eilanden  |
-| Lucretius        | Genesis & Zondvloed | Koppeling aan geloof         |
+- Geschiedenis tot nu, vulkanen, eolische eilanden, geloof (Genesis)
 ### Middeleeuwen
-| Naam                           | Kleine uitleg                                                  |
-| ------------------------------ | -------------------------------------------------------------- |
-| Broederschap van de Zuiverheid | Grondbeginselen sedimentologie, evolutie sediment -> gesteente |
-| Avicenna                       | Mineralibus, principe superpositie                             |
-| Averroes                       | Verspreiding Aristoteles, Idrisi (geografie Europa)            |
+- Sedimentologie, evolutie sediment → gesteente, mineralen, geografie Europa
 ### Renaissance
 - Boekdrukkunst (Plantin, Moretus)
 - Cartografie (Mercator, Ortelius)
 - Basis exploratie
-- 
-
+- Toename veldwaarnemingen
+	- **Agricola**: De Re Metallica
+	- **Leonardo da Vinci**: Alpijnse fossielen, hydrografische netwerk, ...
+### 17e eeuw
+- Aarde structuur, processen, encyclopedie, stratigrafie (gelaagdheid)
+### 18e eeuw
+- **Geognosie**: beschrijvende analyse van de Aarde
+- **Neptunisme**: oorsprong gesteenten in water (sedimentatie)
+- **Plutonisme**: basalten als vulkanisch gesteente, granieten als stollingsgesteente
+- James Hutton: intrusie & **geologische tijd**
+- **Charles Lyell**: basiswerk Geologie
+- Cuvier: Katastrofisme
