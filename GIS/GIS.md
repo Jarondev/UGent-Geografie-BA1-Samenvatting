@@ -110,3 +110,23 @@
 	- Lijn: van beginpunt naar eindpunt
 	- Polygoon: geordende verzameling punten
 ## Modeling Surfaces
+### DTM
+- Modellen die hoogte zonder objecten weegeven
+- Meestal verkregen door LiDAR of fotogrammetrie
+### Raster
+- Grid van hoogtewaarden
+- Accuraatheid afhankelijk van complexiteit en resolutie
+### Vector
+- **Vector grid**
+	→ nabootsing rasterbenadering
+- **Triangulated irregular network**
+	- Constructie **driehoeken**
+		→ hoekpunten: pieken, depressies
+		→ zijden: kammen, valleien
+		→ oppervlakten: gradient
+	- Veelgebruikt in complex terrein, weinig in vlak
+## Modelling Networks
+**Netwerk**: locaties verbonden door segmenten waar langs transport/communicatie mogelijk is
+- Boomnetwerk (hierarchisch)
+- Circuitnetwerk (gesloten lus)
+- 
