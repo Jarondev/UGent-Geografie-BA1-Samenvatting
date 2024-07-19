@@ -52,4 +52,4 @@
 	- **Topologie**: eigenschappen objecten in de ruimte (geometrische relaties)
 		→ 4-intersection matrix
 		![[Pasted image 20240718201616.png]]
-## 
+## Karakteristiek
