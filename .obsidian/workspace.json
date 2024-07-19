@@ -18,8 +18,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "711bd3bf2c01487e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "GIS/GIS.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -146,10 +159,12 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "7110f6ae794ac6b4",
+  "active": "711bd3bf2c01487e",
   "lastOpenFiles": [
     "Untitled.md",
+    "Pasted image 20240719153659.png",
     "GIS/GIS.md",
+    "GIS/Pasted image 20240719152605.png",
     "GIS/Pasted image 20240718201616.png",
     "Geologie/Hoofdstuk 4.md",
     "GIS",

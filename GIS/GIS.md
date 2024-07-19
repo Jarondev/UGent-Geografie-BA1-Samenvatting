@@ -53,3 +53,60 @@
 		→ 4-intersection matrix
 		![[Pasted image 20240718201616.png]]
 ## Karakteristiek
+### Attributen
+- **Nominaal**: gegevens zonder rangorde of volgorde (bv. geslacht)
+- **Ordinaal**: gegevens met inherente volgorde (bv. rangen in een wedstrijd)
+- **Interval**: gelijke afstanden tussen waarden zonder nulpunt (bv. kalenderdata, temperatuur)
+- **Ratio**: interval met nulpunt (bv. lengte, gewicht)
+### Temporeel
+- Lineair, vertakt, cyclisch
+## Bronnen
+- Volkstellingen en enquetes
+- Luchtfoto's
+	→ verticaal vs obliek
+- Sattelietbeelden
+- GPS
+# Hoofdstuk 3: Spatial Data Modelling
+## Entity Definition
+- Probleem selecteren entiteiten
+	- Wereld is dynamisch en niet statisch
+	- Entiteiten zijn afhankelijk van toepassing
+	- Schaalafhankelijk
+	- Objecten kunnen discreet of continu zijn
+	- Soms vage grenzen
+## Spatial Data Models
+- **Raster**
+	- ruimtelijke eenheid = **pixel**
+	- **celgrootte** bepaalt resolutie
+	- beperkt voor cartografie
+- **Vector**
+	- **reele getallen**
+	- **meeteenheid** bepaalt resolutie
+	- objectgericht
+### Douglas-Peucker algoritme
+- algoritme om een curve te transformeren naar een gelijkaardige curve met minder punten
+![[Pasted image 20240719152605.png]]
+## Spatial Data Structures
+### Raster Data Structures
+- **Run Length Encoding (RLE)**
+	- **Lijn per lijn** opgeslagen
+	- Geen coordinaten nodig
+- **Block Encoding**
+	- RLE in 2 dimensies
+	- Coordinaten zijn nodig
+	- Opgeslagen op **block size** (1, 4, 9,...)
+- **Chain Coding**
+	- Ketting beschrijft grens (boundary)
+	- Geen info over binnenkant entiteit
+- **Quadtree**
+	- Recursieve subdivisies van vierkanten
+		→ oppervlak wordt steeds opgesplits in 4 delen tot nodige resolutie bereikt is
+- **Spaghetti structure**
+	- Opeenvolging van punten
+	- Heeft enkel X,Y opgeslagen
+	- Redundante informatie
+- **Topological data structure**
+	- Punt: een locatie
+	- Lijn: van beginpunt naar eindpunt
+	- Polygoon: geordende verzameling punten
+## Modeling Surfaces
