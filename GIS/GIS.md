@@ -158,4 +158,12 @@
 - Relatie tussen tabellen is de basis
 - Elke rij is **uniek** (in GIS vaak **locatie**)
 - 1 waarde per cel
-- 
+- **Sleutels linken tabellen**
+## Een database maken
+1. Data **onderzoeken**
+2. Data **modelleren**
+	-> maken conceptueel model entiteiten en relaties
+3. Databank **ontwerp**
+	-> Creeren model in specifiek DBMS
+4. **Implementatie**
+5. **Onderhoud**
