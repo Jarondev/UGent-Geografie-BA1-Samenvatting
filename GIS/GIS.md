@@ -167,3 +167,38 @@
 	-> Creeren model in specifiek DBMS
 4. **Implementatie**
 5. **Onderhoud**
+# 5. Data Input and Editing
+## Methods of data input
+- **Keyboard entry**
+	-> manueel, typfouten
+- **Manual digitizing**
+	-> manueel, voor veel data, indien ruimtelijke data topologie moet hebben
+	-> kan fouten hebben afhankelijk van ervaring, schaal, kwaliteit,..
+- **Automatic digitizing**
+	- **Scanning**
+		- **Raster**
+		- Problemen: optische distorties, koffievlekken, kwaliteit,..
+	- **Line-following**
+		- **Vector**
+		- Via image-processing software
+		- Sterk bij contrasterende en eenvoudige lijnen
+- **Electronic Data Transfer**
+	- Data verkregen via GPS, LiDAR, satelliet
+	- Dikwijls **dataconversie nodig** door vele formaten
+## Data Editing
+### Fouten detecteren en corrigeren
+- Fouten zijn afhankelijk van brondata, encodering, data conversie
+### Detecteren
+- **Attribuutdata**
+	- Manueel vergelijken met oorspronkelijke data
+	- Systematisch
+		-> onmogelijke waarden, extreme waarden, consistency check, plots/trends
+- **Ruimtelijke data**
+	- **Visuele vergelijking**
+	- Afhankelijk datamodel (vector vs raster) en acquisitie
+	- Fouten bij **vectordata**:
+		- GIS heeft edit tools om fouten te identificeren en verwijderen
+			-> gevaar fouten 
+	- Fouten bij **rasterdata**:
+		- noise (foute waarden van een pixel)
+		- missing entities
