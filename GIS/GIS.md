@@ -1,4 +1,4 @@
-# Hoofdstuk 1: GIS?
+# 1. GIS?
 ## Definitie
 - Veel definities: afhankelijk van wie
 - GIS is een **computersysteem** dat instaat voor **beheer en analyse** van **geografische gegevens**
@@ -23,7 +23,7 @@
 ## Mensen en GIS
 - 1 tot veel gebruikers
 - **Geograaf klei tussen informaticus en domeinspecialist**
-# Hoofdstuk 2: Spatial Data
+# 2. Spatial Data
 ## Intro
 - Data: ruwe getallen zonder context
 - Informatie: data met betekenis en context
@@ -66,7 +66,7 @@
 	→ verticaal vs obliek
 - Sattelietbeelden
 - GPS
-# Hoofdstuk 3: Spatial Data Modelling
+# 3. Spatial Data Modelling
 ## Entity Definition
 - Probleem selecteren entiteiten
 	- Wereld is dynamisch en niet statisch
@@ -127,6 +127,35 @@
 	- Veelgebruikt in complex terrein, weinig in vlak
 ## Modelling Networks
 **Netwerk**: locaties verbonden door segmenten waar langs transport/communicatie mogelijk is
+→ dikwijls topologisch, aanvullend met afstanden
 - Boomnetwerk (hierarchisch)
 - Circuitnetwerk (gesloten lus)
+## Benaderingen
+- **Laaggebaseerd**
+	→ laag per thema afhankelijk van kenmerk/gebruik
+# 4. Database Management
+## Intro
+**Data**
+- Grote hoeveelheid: veel bronnen, dikwijls automatisch
+- Veel soorten: nummers, tekst, afbeeldingen,...
+**Databank**: georganiseerde verzameling van gegevens
+- Soorten:
+	- Eenvoudig (excel)
+	- Eenvoudig relationeel
+	- Complexe relationeel
+	- Niet-relationeel
+**Ruimtelijke entiteit**: 
+- Ruimtelijke gegevens (waar?)
+- Attribuutgegevens (wat?)
+**DBMS (Database Management System)**: software om databank aan te maken & te onderhouden
+	-> bv. SQL, Oracle
+## Waarom databank?
+- Toegang tot data is **gecontroleerd en gecentraliseerd**
+- Beperkte **redundantie**
+- Data wordt opgeslagen onafhankelijk van toepassing
+- Eenvoudig te **onderhouden** en updaten
+## Relationele Databank
+- Relatie tussen tabellen is de basis
+- Elke rij is **uniek** (in GIS vaak **locatie**)
+- 1 waarde per cel
 - 
