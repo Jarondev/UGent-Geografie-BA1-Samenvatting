@@ -200,5 +200,47 @@
 		- GIS heeft edit tools om fouten te identificeren en verwijderen
 			-> gevaar fouten 
 	- Fouten bij **rasterdata**:
-		- noise (foute waarden van een pixel)
-		- missing entities
+		- Noise (foute waarden van een pixel)
+		- Missing entities
+## Reprojection, transformation, generalization
+- **Herprojectie** naar een gemeenschappelijk projectsysteem
+- **Transformatie** naar een gemeenschappelijk coordinaatsysteem
+	- Translatie
+	- Schaling
+	- Roteren
+- **Generalisatie**
+	- Voor combinatie verschillende schalen
+	- Minder opslag en hogere snelheid
+	- **Lijngeneralisatie** (line thinning) bij vectordata
+		- Verwijdert elk zoveelste punt
+		- Behoudt karakteristieken van de vorm
+	- **Rasterdata**
+		- Aggregatie pixels (geen informatieverlies)
+		- Data compactie
+		- Filteren
+
+## Edge matching and rubber sheeting
+### Edge matching
+- **Randen kaartbladen matchen**
+- Features matchen
+- Topologie herbouwen
+- Verwijderen redundante lijnen
+### Rubber sheeting
+- Typisch bij **herstellen complexe vervorming** of herprojectie met weinig details
+- **Controlepunten**
+	- Goed herkenbaar
+	- Met gekende coordinaat
+- **Moeilijkheden**
+	- Gebrek geschikte controlepunten
+	- Berekeningstijd
+## Geocoding address data
+- Converteren *niet-geografische* beschrijving (adres, kilometerpaal)
+- Gebeurt via geocoders
+- **Complex door onduidelijkheden**:
+	- Spellingsfouten
+	- Afkortingen
+	- Andere talen
+	- Veranderingen
+## Updating and maintaining databases
+- Taak van **national mapping agencies**
+	-> Informatie Vlaanderen (landmeters) voor Grootschalig Referentiebestand Vlaanderen (GRB)
