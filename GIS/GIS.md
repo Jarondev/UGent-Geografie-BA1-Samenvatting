@@ -244,3 +244,27 @@
 ## Updating and maintaining databases
 - Taak van **national mapping agencies**
 	-> Informatie Vlaanderen (landmeters) voor Grootschalig Referentiebestand Vlaanderen (GRB)
+# 6. Data Analysis
+## Measurements
+- **Euclidische afstand**: vogelvlucht
+- **Manhattan afstand**: snelste route genomen door een grid netwerk
+## Queries
+![[Pasted image 20240721120446.png]]
+## Buffering
+- Punt, lijn en polygoon
+- Gebruik: (vb. welke hotels zijn binnen 200m van een hoofdweg?)
+- 1.
+	1. **Maak bufferzone** van al het land binnen 200m rondom de hoofdweg
+	2. Selecteer hotels via functie **point-in-polygon**
+- 2. 
+	1. Meet de afstand van **elk hotel** tot hoofdweg met **functie distance**
+	2. Selecteer hotels die binnen 200m liggen via **functie select**
+## Filters
+- Typisch voor **raster**
+- Iedere cel krijgt **nieuwe waarde** afhankelijk van oorpsronkelijke waarde & waarde omgevende cellen
+- Gebruikte algoritmes: max waarde, meest voorkomende waarde
+- Gebruikte fitlers:
+	- **Smoothing (low-pass filter)**: gemiddelde (pieken verzwakken)
+	- **Edge detection (high-pass filter)**: hoge frequenties doorlaten door te vermenigvuldigen met kernel waarbij som gewichten 0 is
+	->  ![[Pasted image 20240721122906.png]]
+## Map Overlay
