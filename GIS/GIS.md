@@ -85,7 +85,7 @@
 	- objectgericht
 ### Douglas-Peucker algoritme
 - algoritme om een curve te transformeren naar een gelijkaardige curve met minder punten
-![[Pasted image 20240719152605.png]]
+![[Pasted image 20240719152605.png|700]]
 ## Spatial Data Structures
 ### Raster Data Structures
 - **Run Length Encoding (RLE)**
@@ -249,7 +249,7 @@
 - **Euclidische afstand**: vogelvlucht
 - **Manhattan afstand**: snelste route genomen door een grid netwerk
 ## Queries
-![[Pasted image 20240721120446.png]]
+![[Pasted image 20240721120446.png|525]]
 ## Buffering
 - Punt, lijn en polygoon
 - Gebruik: (vb. welke hotels zijn binnen 200m van een hoofdweg?)
@@ -268,3 +268,59 @@
 	- **Edge detection (high-pass filter)**: hoge frequenties doorlaten door te vermenigvuldigen met kernel waarbij som gewichten 0 is
 	->  ![[Pasted image 20240721122906.png]]
 ## Map Overlay
+### Vector Overlay
+- Point-in-polygon
+	-> kijkt welke punten in welke polygoon liggen (bos, veld, stad,..)
+		-> soms probleem (wat als het op de grens ligt?)
+- Line-in-polygon
+	-> splitst lijn in stukken indien nodig afhankelijk van zone waarin het ligt
+- Polygon-on-polygon
+	- **Union** (OR): combineert alle gebieden en behoudt alle attributen
+	- **Erase** (NOT): verwijdert overlappende delen invoerlaag en behoudt niet-overlappende delen
+	- **Intersect** (AND): behoudt alleen overlappende delen invoerlagen en combineert attributen van deze gebieden
+### Raster Overlay
+- **Kaartalgebra** (map algebra)
+	- 1 of meerdere lagen als input
+	- Omzetting punten, lijnen, polygonen naar rasterdata
+	- Herklasseren naar **booleaanse kaart**
+		- 1 als voorwaarde wordt voldaan
+		- 0 als voorwaarde niet wordt voldaan
+- Complexe overlays mogelijk
+- **Aandachtspunten**:
+	- Resoluties (verrekenen na aggregatie bij slechte resolutie)
+	- Verschillende meetschalen
+## Spatial Interpolation
+-> waarden worden **geschat** door bestaande waarnemingen van omliggende gebieden
+
+**Lokaal/globaal**
+**Exact/benaderend**
+**Gradueel/bruusk**
+**Deterministisch/stochastisch**
+
+|          **Naam**          |                       Attributen                       | Afbeelding                                |
+| :------------------------: | :----------------------------------------------------: | ----------------------------------------- |
+|   **Thiessen polygoon**    |     Lokaal <br>exact <br>bruusk<br>deterministisch     | ![[Pasted image 20240721132257.png\|172]] |
+|          **TIN**           |     Lokaal<br>exact<br>gradueel<br>deterministisch     | ![[Pasted image 20240721132314.png\|179]] |
+| **Spatial moving average** | Lokaal <br>benaderend <br>gradueel<br>deterministisch  | ![[Pasted image 20240721132330.png\|175]] |
+|     **Trendoppervlak**     | Globaal <br>benaderend <br>gradueel<br>deterministisch | ![[Pasted image 20240721132402.png]]      |
+## Surface Analysis
+-> oppervlakken van interpolatie kunnen worden geanalyseerd (vaak in 2,5D ipv 3D)
+### Factoren
+- **Helling** (steilte gemeten in graden of %)
+- **Aspect** (richting, gemeten in graden tov noorden)
+### Weergeven van factoren
+- **Analytical hillshading**
+	-> berekening locatie schaduw en hoeveelheid bezonning 
+- **Curvature**
+	-> Beschrijving **verandering helling/aspect**
+	Types:
+	![[Pasted image 20240721135020.png|325]]
+## Visibility Analysis
+- Voor **zichtbaarheid** naar **landschappelijke elementen**
+- Voor **zichtbaarheid** vanuit **uitkijktorens**
+**Viewshed map**: map die laat zien welke gebieden vanaf een specifiek observatiepunt zichtbaar zijn
+-> houdt rekening met ooghoogte
+-> booleaanse kaart
+## Network Analysis
+- Shortest path: oplossing -> **Dijkstra-algoritme**
+- Dubbele vraag: welke **orde** van stops?, welk **pad** tussen twee stops?

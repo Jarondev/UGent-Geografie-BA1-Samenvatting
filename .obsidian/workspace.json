@@ -18,21 +18,8 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "711bd3bf2c01487e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "GIS/GIS.md",
-                "mode": "source",
-                "source": false
-              }
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -93,35 +80,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "cf7ae4efd49edb93",
-            "type": "leaf",
-            "state": {
-              "type": "backlink",
-              "state": {
-                "file": "GIS/GIS.md",
-                "collapseAll": false,
-                "extraContext": false,
-                "sortOrder": "alphabetical",
-                "showSearch": false,
-                "searchQuery": "",
-                "backlinkCollapsed": false,
-                "unlinkedCollapsed": true
-              }
-            }
-          },
-          {
-            "id": "d006e7d81e398501",
-            "type": "leaf",
-            "state": {
-              "type": "outgoing-link",
-              "state": {
-                "file": "GIS/GIS.md",
-                "linksCollapsed": false,
-                "unlinkedCollapsed": true
-              }
-            }
-          },
-          {
             "id": "166e6358eca6f684",
             "type": "leaf",
             "state": {
@@ -131,22 +89,12 @@
                 "useHierarchy": true
               }
             }
-          },
-          {
-            "id": "6b081b86914d18ee",
-            "type": "leaf",
-            "state": {
-              "type": "outline",
-              "state": {
-                "file": "GIS/GIS.md"
-              }
-            }
           }
         ]
       }
     ],
     "direction": "horizontal",
-    "width": 300,
+    "width": 200,
     "collapsed": true
   },
   "left-ribbon": {
@@ -156,36 +104,38 @@
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
-      "command-palette:Open command palette": false
+      "command-palette:Open command palette": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "711bd3bf2c01487e",
+  "active": "fd4359023a3f4657",
   "lastOpenFiles": [
-    "Pasted image 20240721122906.png",
+    "GIS/Pasted image 20240721135020.png",
+    "GIS/Pasted image 20240721132257.png",
+    "GIS/Pasted image 20240721122906.png",
+    "GIS/Pasted image 20240721132330.png",
+    "GIS/Pasted image 20240721132314.png",
+    "GIS/Pasted image 20240718201616.png",
+    "GIS/Pasted image 20240719152605.png",
+    "GIS/GIS.md",
+    "GIS/Pasted image 20240721132402.png",
+    "Pasted image 20240721132211.png",
     "GIS/Pasted image 20240721120446.png",
     "Untitled.md",
     "Pasted image 20240719153659.png",
-    "GIS/GIS.md",
-    "GIS/Pasted image 20240719152605.png",
-    "GIS/Pasted image 20240718201616.png",
     "Geologie/Hoofdstuk 4.md",
     "GIS",
     "Geologie/Hoofdstuk 3.md",
     "Geologie/Hoofdstuk 2.md",
     "Geologie/Hoofdstuk 1.md",
     "Economie/Economie.md",
-    "Geologie/Pasted image 20240715190411.png",
-    "Economie/Pasted image 20240709165919.png",
     "Geologie",
     "Untitled.canvas",
     "README.md",
-    "Economie/Pasted image 20240714190644.png",
-    "Pasted image 20240714190625.png",
     "SEG/Begrippenlijst.md",
     "SEG/Hoofdstuk 1.md",
     "SEG/Hoofdstuk 2.md",
     "SEG/Hoofdstuk 3.md",
-    "Economie/Pasted image 20240710190129.png",
     "SEG",
     "Economie",
     "Welcome.md"
