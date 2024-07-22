@@ -56,9 +56,20 @@
 			-> **gewapende strijd** (Eritrea)
 			-> **verzwakking centrale macht** (Sovjet-Unie)
 			-> **internationale druk** (Tibet)
+### Natie-staat nexus
+
 
 ## Volkeren
 ### Types
 - **Etnieen**: gemeenschappen die men herkent aan een collectieve **naam, afkomst, geheugen, cultuur**, associatie met specifiek gebied,..
 - **Naties**: met territorium geassocieerde gemeenschap die wordt samengehouden door **sterk gevoel van eenheid en solidariteit**
 	-> stelt olitieke eisen en streeft naar politieke soevereiniteit
+	-> naties **bestaan niet**, ze worden gecreeerd & zijn 'immaged communities' (bv. Amerikaanse volk)
+	-> naties **bestaan**, ze hebben een bepaalde werkelkijkheid
+		-> **mythevorming** over ontstaan volk op basis van gebeurtenissen
+		-> **objectieve breuklijn** zoals religie & taal, maar vaak complexer
+- **Beschavingen**: culturele homogeniteit op hogere schaal (bv. godsdienst) -> volgens **Samuel Huntington**
+### Culturele globalisering
+- Bedrijven die uitbreiden en leiden tot conformiteit en uniformiteit (**homogenisering**) van cultuur (bv. Coca-colonization & McDonaldization)
+	-> in praktijk vaak complexe interactie met bestaande culturele patronen (**indeginization**)
+	-> **soms weerstand** (McDonalds in Rusland)
