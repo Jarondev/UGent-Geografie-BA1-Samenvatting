@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "SEG/Hoofdstuk 4.md",
+                "file": "SEG/Hoofdstuk 5.md",
                 "mode": "source",
                 "source": false
               }
@@ -96,7 +96,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "SEG/Hoofdstuk 4.md",
+                "file": "SEG/Hoofdstuk 5.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,7 +113,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "SEG/Hoofdstuk 4.md",
+                "file": "SEG/Hoofdstuk 5.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "SEG/Hoofdstuk 4.md"
+                "file": "SEG/Hoofdstuk 5.md"
               }
             }
           }
@@ -147,12 +147,14 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "fd4359023a3f4657",
+  "active": "7110f6ae794ac6b4",
   "lastOpenFiles": [
-    "Untitled.md",
     "SEG/Hoofdstuk 4.md",
-    "Untitled 1.md",
     "SEG/Hoofdstuk 3.md",
+    "SEG/Hoofdstuk 5.md",
+    "Pasted image 20240722211640.png",
+    "Untitled.md",
+    "Untitled 1.md",
     "SEG/Hoofdstuk 2.md",
     "SEG/Begrippenlijst.md",
     "README.md",
@@ -168,7 +170,6 @@
     "GIS/Pasted image 20240719152605.png",
     "GIS/Pasted image 20240721132402.png",
     "Pasted image 20240721132211.png",
-    "GIS/Pasted image 20240721120446.png",
     "Geologie/Hoofdstuk 4.md",
     "GIS",
     "Geologie/Hoofdstuk 3.md",
