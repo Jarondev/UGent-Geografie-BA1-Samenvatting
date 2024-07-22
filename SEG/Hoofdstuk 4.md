@@ -40,3 +40,6 @@
 	-> gevoel samenhorigheid
 	-> legitimiteit staat word gebouwd op vermeende economische en maatschappelijke verwezenlijkingen ('American Dream')
 	-> sterk leiderschap
+## Staten en naties
+- Staten zijn territoriaal -> politieke grens
+- Naties zijn door cultuur -> begrenzing van een volk

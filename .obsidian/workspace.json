@@ -13,13 +13,24 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "SEG/Hoofdstuk 3.md",
+                "file": "SEG/Hoofdstuk 4.md",
                 "mode": "source",
                 "source": false
               }
             }
+          },
+          {
+            "id": "17960ba1e5b40e86",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.6.7"
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -89,6 +100,45 @@
                 "useHierarchy": true
               }
             }
+          },
+          {
+            "id": "fa21ae11c2673700",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "SEG/Hoofdstuk 4.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "167f0e56c017a3c2",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "SEG/Hoofdstuk 4.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "3b80a0e0aabf2fa4",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "SEG/Hoofdstuk 4.md"
+              }
+            }
           }
         ]
       }
@@ -108,10 +158,10 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "7110f6ae794ac6b4",
+  "active": "17960ba1e5b40e86",
   "lastOpenFiles": [
-    "SEG/Hoofdstuk 4.md",
     "SEG/Hoofdstuk 3.md",
+    "SEG/Hoofdstuk 4.md",
     "SEG/Hoofdstuk 2.md",
     "SEG/Begrippenlijst.md",
     "README.md",
