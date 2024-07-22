@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "SEG/Hoofdstuk 4.md",
+                "file": "SEG/Hoofdstuk 3.md",
                 "mode": "source",
                 "source": false
               }
@@ -110,9 +110,11 @@
   },
   "active": "7110f6ae794ac6b4",
   "lastOpenFiles": [
-    "SEG/Hoofdstuk 3.md",
     "SEG/Hoofdstuk 4.md",
+    "SEG/Hoofdstuk 3.md",
     "SEG/Hoofdstuk 2.md",
+    "SEG/Begrippenlijst.md",
+    "README.md",
     "SEG/Hoofdstuk 1.md",
     "Geologie/Hoofdstuk 1.md",
     "GIS/GIS.md",
@@ -134,8 +136,6 @@
     "Economie/Economie.md",
     "Geologie",
     "Untitled.canvas",
-    "README.md",
-    "SEG/Begrippenlijst.md",
     "SEG",
     "Economie",
     "Welcome.md"
