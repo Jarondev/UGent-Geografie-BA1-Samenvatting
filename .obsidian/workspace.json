@@ -18,19 +18,8 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "17960ba1e5b40e86",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.6.7"
-              }
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -158,10 +147,12 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "17960ba1e5b40e86",
+  "active": "fd4359023a3f4657",
   "lastOpenFiles": [
-    "SEG/Hoofdstuk 3.md",
+    "Untitled.md",
     "SEG/Hoofdstuk 4.md",
+    "Untitled 1.md",
+    "SEG/Hoofdstuk 3.md",
     "SEG/Hoofdstuk 2.md",
     "SEG/Begrippenlijst.md",
     "README.md",
@@ -178,7 +169,6 @@
     "GIS/Pasted image 20240721132402.png",
     "Pasted image 20240721132211.png",
     "GIS/Pasted image 20240721120446.png",
-    "Untitled.md",
     "Geologie/Hoofdstuk 4.md",
     "GIS",
     "Geologie/Hoofdstuk 3.md",

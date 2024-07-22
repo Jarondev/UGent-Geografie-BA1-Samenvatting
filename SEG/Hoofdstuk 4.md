@@ -41,5 +41,24 @@
 	-> legitimiteit staat word gebouwd op vermeende economische en maatschappelijke verwezenlijkingen ('American Dream')
 	-> sterk leiderschap
 ## Staten en naties
-- Staten zijn territoriaal -> politieke grens
-- Naties zijn door cultuur -> begrenzing van een volk
+- Staten zijn territoriaal -> **politieke** grens
+- Naties zijn door **cultuur** -> begrenzing van een volk
+- Staten makkelijker op te sporen omdat:
+	- Sprake continue en dynamische **natievorming**
+	- Mate van **aanvaarding** onder belangrijk deel van de bevolking (bv. Vlamingen & Vlaanderen)
+	- **Superpositie identiteit**
+
+### Natiestaat
+- Staat met 1 dominante natie binnen een soeverein territorium
+- Verwezenlijking basisprincipes **harmonieuze wereldorde** zoals nagestreefd sinds overgang vroeg-moderne naar laat-moderne staat
+	-> **zelfbeschikkingsrecht volkeren**
+		-> maakt kans wanneer een volk **internationale aandacht** kan opeisen
+			-> **gewapende strijd** (Eritrea)
+			-> **verzwakking centrale macht** (Sovjet-Unie)
+			-> **internationale druk** (Tibet)
+
+## Volkeren
+### Types
+- **Etnieen**: gemeenschappen die men herkent aan een collectieve **naam, afkomst, geheugen, cultuur**, associatie met specifiek gebied,..
+- **Naties**: met territorium geassocieerde gemeenschap die wordt samengehouden door **sterk gevoel van eenheid en solidariteit**
+	-> stelt olitieke eisen en streeft naar politieke soevereiniteit
