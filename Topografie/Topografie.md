@@ -27,3 +27,23 @@
 	-> cirkel van 1m diameter op 1km afstand heeft een hoek van 1 mil
 		-> 1m diameter/1km afstand = 1mil
 # Instrumentarium
+## Vizierlijn
+- Richten op:
+	- **punt, prisma, baak, puntkenmerk**
+	=> heeft topografische nagel, fenopalen, klevende tekens, speciale kenmerken
+- Richten met:
+	- **Niet-optisch vizier** -> kruisdraden door gat
+		-> nadeel: blinde hoek, parallax
+	- **Collimatorkijker**
+		- Om richting te benaderen
+		- Glas met signaal
+		- Klein (3cm lang, 5mm diameter)
+	- **Optische kijker**
+		- balans van **gewicht, vergroting en helderheid**
+		- **Lichtsterkte**: (lensdiameter/vergrotingsfactor)^2
+			-> <1: weinig lichtsterkte
+			-> 1-2: gemiddeld
+			-> >2: veel lichtsterkte
+**Auto focus**:
+- Scheidingslens scheidt optische stralen
+- CCD meet verschil
