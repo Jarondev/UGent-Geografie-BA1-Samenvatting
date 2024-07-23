@@ -47,3 +47,5 @@
 **Auto focus**:
 - Scheidingslens scheidt optische stralen
 - CCD meet verschil
+## Kijkers
+### Kepler
