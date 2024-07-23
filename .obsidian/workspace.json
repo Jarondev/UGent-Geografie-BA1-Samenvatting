@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "SEG/Hoofdstuk 5.md",
+                "file": "Topografie/Topografie.md",
                 "mode": "source",
                 "source": false
               }
@@ -96,7 +96,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "SEG/Hoofdstuk 5.md",
+                "file": "Topografie/Topografie.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,7 +113,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "SEG/Hoofdstuk 5.md",
+                "file": "Topografie/Topografie.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "SEG/Hoofdstuk 5.md"
+                "file": "Topografie/Topografie.md"
               }
             }
           }
@@ -149,9 +149,11 @@
   },
   "active": "7110f6ae794ac6b4",
   "lastOpenFiles": [
+    "SEG/Hoofdstuk 5.md",
+    "Topografie/Topografie.md",
+    "Topografie",
     "SEG/Hoofdstuk 4.md",
     "SEG/Hoofdstuk 3.md",
-    "SEG/Hoofdstuk 5.md",
     "Pasted image 20240722211640.png",
     "Untitled.md",
     "Untitled 1.md",
