@@ -49,3 +49,37 @@
 - CCD meet verschil
 ## Kijkers
 ### Kepler
+- Optiek: **convexe** objectieflens & oculairlens
+- Beeld: omgekeerd
+- Vergroting: hoger
+### Wild
+- Optiek: convexe objectieflens & **concave oculairlens**
+- Beeld: rechtopstaand (**omkeerprisma**)
+- Vergroting: lager
+## Onderdelen instrumenten
+- **Vizierlijn**
+- **Horizontale referentierichting**
+	- Astronomisch
+		-> zeer tijdrovend
+	- Kompas
+		-> minder nauwkeurig
+	- Gyroscoop
+		-> lange opsteltijd nodig
+	- GNSS
+		-> werkt **niet ondergronds**
+- **Verticale referentierichting**
+	- Schietlood
+	- Buisniveau (waterpas)
+	- Optisch lood
+	- Laserlood
+	- Compensator
+		- Opto-mechanisch
+		- Electronisch
+- **Stabiele opstelling**
+	- Statief
+		- Stevig
+		- Licht & plooibaar
+			-> verplaatsbaar
+		- Afstelbaar in hoogte en horizontale zin
+- **Energievoorziening: batterijen**
+# Hoogtemetingen
