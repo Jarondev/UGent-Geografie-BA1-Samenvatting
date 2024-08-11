@@ -19,3 +19,6 @@
 ### Principe van de insluitsels
 - Een structuur dat ingesloten is door een andere structuur is altijd ouder
 ### Principe van de opeenvolging van fauna's en flora's
+1. Combinaties fossiele dieren en planten komen in welbepaalde volgorde voor in de aardlagen
+2. Bepaalde periode aardgeschiedenis kan met behulp specifieke fossielen geidentificeerd worden
+- 
