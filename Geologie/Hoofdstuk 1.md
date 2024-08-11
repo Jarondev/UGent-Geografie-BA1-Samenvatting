@@ -43,7 +43,6 @@
 - Grens: **MOHO** (Mohorovic discontinuiteit)
 #### Astenosfeer
 - **Smeerlaag** tussen lithosfeer en binnenmantel
-
 ### Geodynamische interacties
 - Binnenkern - buitenkern
 	→ aandrijving **magnetisch veld** door convectie
