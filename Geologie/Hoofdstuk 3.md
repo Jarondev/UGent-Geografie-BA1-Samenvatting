@@ -52,12 +52,12 @@
 - Uitvloeiing **lava op zeebodem**
 	1. onmiddelijke afkoeling
 	2. glasachtige kokers 
-	3. pillow lava's
+	3. *pillow lava*'s
 #### Basaltzuilen
 - Na eruptie:
 	1. stolling lava
 	2. binnen scheuren en breuken
-	3. sheeted dykes
+	3. *sheeted dykes*
 #### Gabbro's in magmakamer
 - Achterblijfsel uit **magmakamer**
 	1. begin oorspronkelijke smelt
