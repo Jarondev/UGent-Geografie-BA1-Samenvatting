@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Topografie/Topografie.md",
+                "file": "GIS/GIS.md",
                 "mode": "source",
                 "source": false
               }
@@ -96,7 +96,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Topografie/Topografie.md",
+                "file": "GIS/GIS.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,7 +113,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Topografie/Topografie.md",
+                "file": "GIS/GIS.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Topografie/Topografie.md"
+                "file": "GIS/GIS.md"
               }
             }
           }
@@ -149,8 +149,8 @@
   },
   "active": "7110f6ae794ac6b4",
   "lastOpenFiles": [
-    "SEG/Hoofdstuk 5.md",
     "Topografie/Topografie.md",
+    "SEG/Hoofdstuk 5.md",
     "Topografie",
     "SEG/Hoofdstuk 4.md",
     "SEG/Hoofdstuk 3.md",
