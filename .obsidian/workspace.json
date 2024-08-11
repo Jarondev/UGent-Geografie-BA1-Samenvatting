@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "GIS/GIS.md",
+                "file": "Geologie/Hoofdstuk 4.md",
                 "mode": "source",
                 "source": false
               }
@@ -96,7 +96,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "GIS/GIS.md",
+                "file": "Geologie/Hoofdstuk 4.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,7 +113,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "GIS/GIS.md",
+                "file": "Geologie/Hoofdstuk 4.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "GIS/GIS.md"
+                "file": "Geologie/Hoofdstuk 4.md"
               }
             }
           }
@@ -149,6 +149,8 @@
   },
   "active": "7110f6ae794ac6b4",
   "lastOpenFiles": [
+    "Geologie/Hoofdstuk 1.md",
+    "GIS/GIS.md",
     "Topografie/Topografie.md",
     "SEG/Hoofdstuk 5.md",
     "Topografie",
@@ -161,8 +163,6 @@
     "SEG/Begrippenlijst.md",
     "README.md",
     "SEG/Hoofdstuk 1.md",
-    "Geologie/Hoofdstuk 1.md",
-    "GIS/GIS.md",
     "GIS/Pasted image 20240721135020.png",
     "GIS/Pasted image 20240721132257.png",
     "GIS/Pasted image 20240721122906.png",
