@@ -21,4 +21,22 @@
 ### Principe van de opeenvolging van fauna's en flora's
 1. Combinaties fossiele dieren en planten komen in welbepaalde volgorde voor in de aardlagen
 2. Bepaalde periode aardgeschiedenis kan met behulp specifieke fossielen geidentificeerd worden
-- 
+- Criteria voor een goed **gidsfossiel**:
+	1. Niet afhankelijk van milieu
+	2. Snel evoluerend
+	3. Geografisch sterk verbreid
+	4. Veel voorkomend
+	5. Gemakkelijk fossileerbaar
+	6. Probleemloos herkenbaar
+- Oudere fossielen nemen veelal complexere vormen aan dan jongere
+### Nonconformiteiten
+- In meeste gebieden **nonconformiteit**
+	- gesteenten uit verschillende tijdperken of perioden in contact
+	- spoor van **lacunes** in sedimentatie (**hiaten**)
+- Soorten nonconformiteiten:
+	1. (Hoek)**discordinanties**
+		- Hellende lagen zijn bedekt door minder hellende strata
+		- **Siccar Point** (Schotland): bekend voorbeeld van hoekdiscordinantie gemaakt door James Hutton
+	2. Nonconformiteiten op **kristallijn**
+		- Overgang sokkel en jongere strata zonder herkenbare overgang of tijdsperiode
+	3. **Disconformiteiten**
