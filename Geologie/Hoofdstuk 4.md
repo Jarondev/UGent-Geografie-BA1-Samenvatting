@@ -1,6 +1,6 @@
 ## Onderzoek
 ### Grieks
-- Zee, overstromingen, sedimenten, aardbevingen, meteorologie, afmetingen aarde,
+- Zee, overstromingen, sedimenten, aardbevingen, meteorologie, afmetingen aarde
 ### Latijns
 - Geschiedenis tot nu, vulkanen, eolische eilanden, geloof (Genesis)
 ### Middeleeuwen
@@ -22,15 +22,38 @@
 - **Charles Lyell**: basiswerk Geologie
 - Cuvier: Katastrofisme, studie fossielen
 ### 2e helft 19e eeuw: tweede globale tektoniek
-- Challenger cruise: observaties zeebodem, marianentrog
-- Elie de Beaumont: gebergtesystemen
-- Leopold von Buch: vulkanische gesteenten, opheffing gebergten
+- Observaties zeebodem, marianentrog
+- Gebergtesystemen
+- Vulkanische gesteenten, opheffing gebergten
 - **Afglijdingstektoniek**:
-	- schiefers: dichte plooiing boven graniet
-	- afglijden zand- en kalkstenen over schiefers onder eigen gewicht
+	- Schiefers: dichte plooiing boven graniet
+	- Afglijden zand- en kalkstenen over schiefers onder eigen gewicht
 - **Eerste model met horizontale overschuiving**
 - Edward Suess: overschuivingsbreuken in de Alpen (overschuivingsmodel)
 - **Van de alpen naar een wereldbeeld**
-	- continentale SiAl brokken (licht) drijven op SiMa gesteenden (zwaarder)
-	- beginnend idee van Gondwana
-	- 
+	- Continentale SiAl brokken (licht) drijven op SiMa gesteenden (zwaarder)
+	- Beginnend idee van Gondwana
+- Glarus model dubbele liggende plooi
+
+### 20e eeuw
+- Dana & Haug: grote troggen aan rand continenten
+	- **Epirogenetische** beweging
+	- **Ofioliet**: onderzees vulkanisme
+- **Continentendrift**
+	- Oercontinent Pangaea
+	- Thermodynamische theorieen mantel
+	- Subsidentie oude korst
+- Overgang platentektoniek gekoppeld aan technologische sprong
+	-> zwaartekrachtmetingen vanuit duikboot
+	-> sonar metingen
+- Eerste gedetailleerde **kaart Atlantische relief**
+- Eerste versie '**zeebodemspreiding**'
+	- Continent wordt mede met zeebodem gevormd aan spriedingsrug
+- Paleomagnetisch onderzoek: resultaat: **divergentie** (verschuiving) **continenten** met ouderdom
+- Gebruik proto-precessie magnetometers voor detectie duikboten
+- **Geomagnetische tijdschaal**: **zebrapatroon** ompolingen
+	- Datering 4 ompolignen sinds 3,6 Ma
+- Theorie zeebodemspreiding -> platentektoniek
+- Evolutie **lithosfeerplaten** + relatieve snelheid
+
+## Praktische platentektoniek
