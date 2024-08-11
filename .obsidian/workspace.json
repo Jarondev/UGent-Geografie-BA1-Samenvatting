@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Geologie/Hoofdstuk 2.md",
+                "file": "Geologie/Partim S. Louwye.md",
                 "mode": "source",
                 "source": false
               }
@@ -96,7 +96,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Geologie/Hoofdstuk 2.md",
+                "file": "Geologie/Partim S. Louwye.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,7 +113,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Geologie/Hoofdstuk 2.md",
+                "file": "Geologie/Partim S. Louwye.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Geologie/Hoofdstuk 2.md"
+                "file": "Geologie/Partim S. Louwye.md"
               }
             }
           }
@@ -149,12 +149,14 @@
   },
   "active": "7110f6ae794ac6b4",
   "lastOpenFiles": [
-    "Geologie/Hoofdstuk 1.md",
-    "Geologie/Hoofdstuk 2.md",
+    "Geologie/Pasted image 20240715190411.png",
     "Geologie/Begrippenlijst.md",
+    "Geologie/Partim S. Louwye.md",
+    "Geologie/Hoofdstuk 5.md",
+    "Geologie/Hoofdstuk 2.md",
+    "Geologie/Hoofdstuk 1.md",
     "Geologie/Hoofdstuk 4.md",
     "Geologie/Hoofdstuk 3.md",
-    "Geologie/Hoofdstuk 5.md",
     "GIS/GIS.md",
     "Topografie/Topografie.md",
     "SEG/Hoofdstuk 5.md",
@@ -176,7 +178,6 @@
     "GIS/Pasted image 20240718201616.png",
     "GIS/Pasted image 20240719152605.png",
     "GIS/Pasted image 20240721132402.png",
-    "Pasted image 20240721132211.png",
     "GIS",
     "Economie/Economie.md",
     "Geologie",
