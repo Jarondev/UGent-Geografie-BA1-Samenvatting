@@ -13,6 +13,8 @@
 	- **Agricola**: De Re Metallica
 	- **Leonardo da Vinci**: Alpijnse fossielen, hydrografische netwerk, ...
 ### 17e eeuw
+- **Descartes**: eerste theorie aarde
+	-> afgekoelde ster, buitenkorst, vloeibare kern, subsidentie: afkoeling, opheffing: vulkanisme
 - Aarde structuur, processen, encyclopedie, stratigrafie (gelaagdheid)
 ### 18e-19e eeuw: eerste globale tektoniek
 - **Geognosie**: beschrijvende analyse van de Aarde
@@ -29,7 +31,9 @@
 	- Schiefers: dichte plooiing boven graniet
 	- Afglijden zand- en kalkstenen over schiefers onder eigen gewicht
 - **Eerste model met horizontale overschuiving**
-- Edward Suess: overschuivingsbreuken in de Alpen (overschuivingsmodel)
+- Edward **Suess**: overschuivingsbreuken in de Alpen (overschuivingsmodel)
+	- Verwerpen verticale bewegingen
+	- Gebergteketens zijn grote bogen
 - **Van de alpen naar een wereldbeeld**
 	- Continentale SiAl brokken (licht) drijven op SiMa gesteenden (zwaarder)
 	- Beginnend idee van Gondwana
@@ -56,4 +60,20 @@
 - Theorie zeebodemspreiding -> platentektoniek
 - Evolutie **lithosfeerplaten** + relatieve snelheid
 
-## Praktische platentektoniek
+## Samengevat:
+- **Eerste theorie** werking aarde door **Descartes** (17e eeuw):
+	-> afgekoelde ster, buitenkorst, vloeibare kern, subsidentie: afkoeling, opheffing: vulkanisme
+- Lange tijd enkel processen door geosynclinalen (horizontale beweging)
+	-> grote troggen, aan de rand continenten
+	-> gebergtevorming door inversie
+	-> epirogenetische beweging
+	-> ofioliet: onderzees vulkanisme
+- Sleutel platentektoniek in Alpen (**Suess**) en oceanen
+- Doorbraak door geofysica: seismiek, magnetisme, gravimetrie
+	-> zwaartekrachtmetingen duikboot
+	-> sonar metingen
+- 3 types plaatgrenzen:
+	- Troggen (**Convergentie**)
+	- Ruggen (**Divergentie**)
+	- **Transforme** breuk
+		-> documenteert bewegingsrichting
