@@ -24,3 +24,4 @@
 | Tektiet                                              | Glasachtige donkere objecten, ontstaan door hoge temperatuur en druk meteorietinslag die aardoppervlak heeft gesmolten                            |
 | Terrae                                               | Hoogland                                                                                                                                          |
 | Uniformitarianisme/ actualisme/ actualiteitsprincipe | Concept dat de mechanismen die in het verleden de aarde hebben gemoddeleerd dezelfde zijn die vandaag werkzaam zijn                               |
+| Halveringstijd                                       | Hoelang tot helft atomen in radioactieve stof is vervallen                                                                                        |

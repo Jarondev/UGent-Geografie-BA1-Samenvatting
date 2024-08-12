@@ -45,3 +45,16 @@
 		- Liggen parallel aan elkaar, gescheiden door periode erosie of niet-afzetting (stilstand)
 ## Absolute datering
 ### Radiometrische methodes
+**Radioactiviteit**: onstabiele elementen desintegreren -> ander element
+### Alfa-deeltjes
+- Positief geladen bestaande uit 2 protonen & neutronen
+	-> *atoomnummer -2*
+	-> *massa -4*
+### Beta-deeltjes
+- Overgang neutron -> proton
+	-> *atoomnummer +1*
+	-> massa onveranderd
+### Electron capture
+- Proton vangt een elektron -> +1 neutron
+	-> *atoomnummer -1*
+	-> massa onveranderd
