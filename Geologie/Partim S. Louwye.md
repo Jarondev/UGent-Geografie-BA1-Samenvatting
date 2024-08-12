@@ -151,12 +151,13 @@ BELANGRIJK: systeem tijdens verval gesloten -> **juiste data**
 	3. stijging temperatuur: proteinoiden gemaakt
 	4. afkoeling: **microsferen**
 	5. voeden zich op **black smokers**: chemosynthese
-#### Paleoarcheaan
-- **3,2 - 3,6 Ga**
+#### Paleoarcheaan, mesoarcheaan & neoarcheaan
+- Paleo: **3,2 - 3,6 Ga**
+- Meso: **2,8 - 3,2 Ga**
+- Neo: **2,5 - 2,8 Ga**
 - Introductie *moderne plaatbeweging en sedimentatie*
-- 
-#### Mesoarcheaan
-- **2,8 - 3,2 Ga**
-#### Neoarcheaan
-- **2,5 - 2,8 Ga**
+- Komatiitische lavastromen op oppervlak
+- Continenten vergroten door sedimentatie en vulkanisme
+- Vorming gneisachtige gesteente & groenstenen
+	- Door hoge druk en temperatuur van lavastromen op oppervlak
 ### Proterozoicum
