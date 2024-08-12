@@ -39,4 +39,7 @@
 		- **Siccar Point** (Schotland): bekend voorbeeld van hoekdiscordinantie gemaakt door James Hutton
 	2. Nonconformiteiten op **kristallijn**
 		- Overgang sokkel en jongere strata zonder herkenbare overgang of tijdsperiode
+		- Lange periode erosie en blootstelling kristallijne basement, gevolgd door afzetting sediment
 	3. **Disconformiteiten**
+		- *Evenwijdig en gelijksoortige* strata boven & onder
+		- Liggen parallel aan elkaar, gescheiden door periode erosie of niet-afzetting (stilstand)
