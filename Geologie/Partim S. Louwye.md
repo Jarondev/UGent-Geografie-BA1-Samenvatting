@@ -232,8 +232,11 @@ BELANGRIJK: systeem tijdens verval gesloten -> **juiste data**
 			-> verklaart grote verspreiding
 - **Cephalopoda** (koppotigen)
 - Graptolieten (geschreven steen): planktonisch, heel verspreid
-- Koralen, zeelelies, slakken, wormen, ...
+- Crinoiden: globale verspreiding, skelet uit calcietplaatjes -> veel en grote afzettingen
+- Koralen: calcietskelet of argonietskelet, vormen riffen, leven in symbiose met algen
+- **Burgess Shale** onderzoek: antwoord op vroege radiatie en evolutionaire geschiedenis van de organismen; veel beperkt en komen niet voor in jongere afzettingen ->  bewijs *diversiteit tijdens cambrium*
 - Eerste **landplanten**
+- **Placodermen**: eerste vertebraten, kaakloze vissen, geen vinnen, kraakbeenskelet dat niet fossileert, bedekt met benige platen die wel fossileren
 - 
 #### Laat-paleozoicum (Devoon, Carboon, Perm)
 - Orogeneses:
@@ -242,6 +245,14 @@ BELANGRIJK: systeem tijdens verval gesloten -> **juiste data**
 		-> resultaat botsing Gondwana en Laurussia
 	- Alleghaniaanse (Oosten Noord-Amerika)
 	- Oeraliaanse
+- Evolutie vissen vanuit placodermen:
+	- **Kraakbeenvissen**: voorlopers moderne haaien en roggen
+	- **Beenvissen**
+		- *Straalvinnigen*: voorlopers moderne beenvissen
+		- *Kwastvinnigen*: voorlopers *tetrapoden*
+- Eerste planten met **wortels** aan land
+	-> ontwikkeling grote bossen
+
 
 ### Mesozoicum (**252 - 66 Ma**)
 ### Cenozoicum (**66 Ma - nu**)
