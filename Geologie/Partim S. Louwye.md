@@ -46,15 +46,58 @@
 ## Absolute datering
 ### Radiometrische methodes
 **Radioactiviteit**: onstabiele elementen desintegreren -> ander element
-### Alfa-deeltjes
+#### Alfa-deeltjes
 - Positief geladen bestaande uit 2 protonen & neutronen
 	-> *atoomnummer -2*
 	-> *massa -4*
-### Beta-deeltjes
+#### Beta-deeltjes
 - Overgang neutron -> proton
 	-> *atoomnummer +1*
 	-> massa onveranderd
-### Electron capture
+#### Electron capture
 - Proton vangt een elektron -> +1 neutron
 	-> *atoomnummer -1*
 	-> massa onveranderd
+
+#### Types
+- Kristallisering in **magma**; meest betrouwbaar
+	-> na uitkristallisatie start de klok
+- Vorming mineraalkorrel; (bijna) nooit betrouwbaar
+	-> **40Ar** handig om te weten **minimum ouderdom**: *Glaconiet* voorbeeld
+- Na verhitten + lek
+	-> moeder-of dochterisotopen verlaten mineraal
+
+BELANGRIJK: systeem tijdens verval gesloten -> **juiste data**
+#### Methodes
+
+| Methode            | Moeder | Dochter | Halflife | Bereik       | Toepassingen                                                                   |
+| ------------------ | ------ | ------- | -------- | ------------ | ------------------------------------------------------------------------------ |
+| Uranium-Lood       | U-238  | Pb-206  | 4.5Ga    | 10Ma - 4.6Ga | U-ertsen, magmatische & metamorfe gesteenten                                   |
+| Uranium-Lood       | U-235  | Pb-207  | 0.71Ga   | 10Ma-4.6Ga   | Idem                                                                           |
+| Thorium-Lood       | Th-232 | Pb-208  | 14.1Ga   | 10Ma-4.6Ga   | Zirkoon, uraniniet                                                             |
+| Kalium-Argon       | K-40   | Ar-40   | 1.3Ga    | 1Ma- 4.6Ga   | Biotiet, muscoviet, K-veldspaat, vulkanische & metamorfe gesteenten            |
+| Rubidium-Strontium | Rb-87  | Sr-87   | 47Ga     | 20Ma- 4.6Ga  | Biotiet, muscoviet, veldspaat, hoornbelnde, vulkanische & metamorfe gesteenten |
+| Koolstof-14        | C-14   | N-14    | 5730     | 100-50.000   | Fossielen, papier, water, ijs, grotafzettingen                                 |
+##### Uranium-lood
+- Vergelijken verschillende uraniumisotopen om ouderdom te verifieren
+	-> Verhouding Pb-207 vergelijken met Pb-206: **lood-lood ouderdom**
+##### Kalium-argon
+- Door **electron capture**
+- Argon is edelgas en bindt zich niet
+- Kans is groot dat Ar systeem al heeft verlaten bij:
+	1. Boven 125C opgewarmd
+	2. Ouderdom
+	3. Hoge graad verwering
+- Goed voor kaliumrijke vulkanische gesteenten
+##### Rubidium-strontium
+- Beta-straling
+- Regelmatig gebruikt om kalium-argon te controleren
+	-> zelfde mineralen
+- Sr-87 ontsnapt niet -> **zeer betrouwbaar**
+- Vooral zeer *oude aardse gesteenten* (magmatisch) en *maanmonsters*
+##### Koolstof-14 methode
+- Gebaseerd op C-14/C-12 verhouding
+- Vormt hoog in atmosfeer door bombardering kosmische stralen
+	-> door planten opgenomen door fotosynthese
+	-> dieren eten planten op..
+#### Niet-radiometrische absolute dateringsmethoden
