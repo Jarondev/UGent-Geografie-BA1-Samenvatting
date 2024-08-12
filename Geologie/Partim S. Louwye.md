@@ -43,3 +43,5 @@
 	3. **Disconformiteiten**
 		- *Evenwijdig en gelijksoortige* strata boven & onder
 		- Liggen parallel aan elkaar, gescheiden door periode erosie of niet-afzetting (stilstand)
+## Absolute datering
+### Radiometrische methodes
