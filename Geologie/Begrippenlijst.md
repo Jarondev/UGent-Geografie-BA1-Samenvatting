@@ -26,3 +26,8 @@
 | Uniformitarianisme/ actualisme/ actualiteitsprincipe | Concept dat de mechanismen die in het verleden de aarde hebben gemoddeleerd dezelfde zijn die vandaag werkzaam zijn                               |
 | Halveringstijd                                       | Hoelang tot helft atomen in radioactieve stof is vervallen                                                                                        |
 | Ontgassing                                           | Proces waarbij waterdamp en andere gassen vanuit steenmassa in omgeving terechtkomen                                                              |
+| Schilden/cratons                                     | Uitgestrekte gebieden met Archeaanse gesteenten                                                                                                   |
+| Radiatie (biologie)                                  | Plots ontstaan van veel nieuwe soorten                                                                                                            |
+| Extinctie                                            | Plots verdwijnen van een soort                                                                                                                    |
+| Massa-extinctie<br>                                  | Plots verdwijnen van veel soorten, extinctie treft meerdere ecologische gemeenschappen                                                            |
+| Orogenese                                            | Proces van bergvorming door tektonische plaatbewegingen                                                                                           |

@@ -127,17 +127,14 @@ BELANGRIJK: systeem tijdens verval gesloten -> **juiste data**
 # De aardgeschiedenis
 
 ## Het Precambrium
-### Hadeaan
-- **4 - 4,6 Ga**
+### Hadeaan ( **4,6 - 4Ga**)
 - Warm, intens, vulkanisch
 - *Onderverdeling aarde* komt tot stand (kern, mantel, korst)
 - Mafische primitieve korst
 - Ontelbare meteorieten ingeslagen
 	-> sporen weg door opsmelting en erosie
-### Archeaan
-- **2,5 - 4 Ga**
-#### Eoarcheaan
-- **3,6 - 4 Ga**
+### Archeaan (**4 - 2,5 Ga**)
+#### Eoarcheaan (**4  - 3,6 Ga**)
 - Primitieve aardkorst krijgt *continentale* eigenschappen
 	-> sterk kwartshoudende afzettingen op oppervlak
 - Atmosfeer: CO2 en waterdamp door **ontgassing** aardmantel en vulkanisme
@@ -151,13 +148,100 @@ BELANGRIJK: systeem tijdens verval gesloten -> **juiste data**
 	3. stijging temperatuur: proteinoiden gemaakt
 	4. afkoeling: **microsferen**
 	5. voeden zich op **black smokers**: chemosynthese
-#### Paleoarcheaan, mesoarcheaan & neoarcheaan
-- Paleo: **3,2 - 3,6 Ga**
-- Meso: **2,8 - 3,2 Ga**
-- Neo: **2,5 - 2,8 Ga**
+#### Paleoarcheaan (**3,6 - 3,2 Ga**), Mesoarcheaan (**3,2 - 2,8 Ga**) & Neoarcheaan (**2,8 - 2,5 Ga**)
 - Introductie *moderne plaatbeweging en sedimentatie*
 - Komatiitische lavastromen op oppervlak
 - Continenten vergroten door sedimentatie en vulkanisme
-- Vorming gneisachtige gesteente & groenstenen
-	- Door hoge druk en temperatuur van lavastromen op oppervlak
-### Proterozoicum
+- Vorming gneisachtige gesteente 
+	-> resultaat metamorfose stollingsgesteenten & gabbroide steensoorten
+- Vorming **groensteen**
+	-> groensteengordels (Ca, SA, Au)
+- *Omschakeling* zuurstofvrije naar **zuurstofhoudende** atmosfeer
+	-> **anorganische fotochemische dissociatie**:
+		-> splitsing 2H2O door ultraviolette stralen
+	-> **organische fotosynthese**
+		-> planten synthetiseren CO2 en H2O uit lucht voor koolhydraten
+			-> vooral **prokaryoten**: eencellige micro-organismen zonder celkern met bladgroen, ook **cyanobacterien**
+		-> *enkel in zee*; vasteland onherbergzaam
+- **Stomatolieten**: sporenfossielen, terpvormige, gelaagde kalkachtige structuren
+	-> opgebouwd of samengebracht door levende organismen
+- **Banded Iron Formations** (BIF)
+	- *Seizoensgevoelige* gelaagde ijzerformaties
+		-> afwisseling hematietrijke en hematietarme (donkergrijze chert) banken
+	- Worden wereldwijd ontgonnen (90% van alle ijzer)
+### Proterozoicum (**2,5 - 0,542 Ga**)
+#### Paleoproterozoicum (**2,5 - 1,6 Ga**)
+- Vorming supercontinent **Laurentia** in NA door *vereniging* Archeaanse cratons
+- Leven niet veel verschillend van Neoarcheaan: cyanobacterien, prokaryoten
+	- **Hyperthermofielen** rond hydrothermale bronnen in diepzee
+- **Zuurstofaanrijking atmosfeer**
+	- Opvulling 'reservoirs':
+		- Pyriet en Uraniniet abundant in niet-mariene en ondiep mariene afzetingen, zeldzaam in recentere afzettingen
+			-> **bewijs** dat atmosfeer amper zuurstof had
+		- Verdwijnen BIF na 2 Ga
+	- Begraven organisch koolstof
+		-> minder zuurstof nodig om af te breken; meer in atmosfeer
+			-> bewijs: kalkstenen hebben zwaardere koolstofisotoop
+- **Eukaryoten**: celkern, membraan, chromosomen, organen
+	- *Acritarchen*: sferische microfossielen nuttig voor relatief dateren
+		-> uitsluitend in sediment afgezet in marien milieu
+- Stikstof oceanen werd omgezet tot **nitrateten**
+	-> belangrijk voor metabolisme eukaryoten
+- 
+#### Mesoproterozoicum (**1,6 - 1 Ga**)
+- Evolutie eukaryoten naar meercellige organismen
+	-> lint bestaande uit rij verbonden cellen
+#### Neoproterozoicum (**1 - 0,542 Ga**)
+- **Explosieve radiatie fossielen**:
+	- Vendoza of **Ediacara**-fauna Ediacariaan (**635 - 539 Ma**)
+		-> bewoonde ondiep marien milieu met *fototische* zone
+		-> kwallen, zeeanemonen, wormen
+		-> weinig predatoren	
+	- Laat-neoproterozoicum: *vaasvormige* organismen met skelet
+- Type gevonden fossielen:
+	- **Sporenfossielen**
+		-> graafgangen, kruipsporen vn wormen
+	- **Soft-body fossielen**
+		-> organismen zonder skelet
+	- **Fossielen met skelet**
+- Vorming **Gondwana** (Zuid-Amerika + Afrika + Australie + Antarctica + India)
+##### Neoproterozoische extinctie
+- Cryogeniaan (**720 - 635 Ma**)
+	-> 2 fasen (Varangiaanse glaciaties):
+	- Sturtiaan glaciatie (60 Ma)
+	- Marinoaan glaciatie (2 Ma)
+- Afzetting glaciaire diamictieten en andere sedimenten
+- **Uitsterven stromatolieten en acritarchen**
+## Fanerozoicum (**542 Ma - nu**)
+### Paleozoicum (**539 - 252 Ma**)
+#### Vroeg-paleozoicum (Cambrium, Ordovicium, Siluur)
+- Vorming **Caledonisch** gebergte (botsen Laurentia en Baltica)
+	-> resulteerde in voming Laurussia
+	-> ook invloed op oude gesteenten Belgie
+- Biologische activiteit voornamelijk **maritiem**
+- **Cambrische** explosie
+	- **Trilobieten** (drielobbigen):
+		- *calciet* skelet
+		- rolt op als bescherming
+		- leefden op *zeebodem*
+			-> fossielen altijd in gezelschap zoutwaterorganismen gevonden
+	- **Brachiopoda** (armpotigen)
+		- **Vastgehecht** an boden door voet
+		- Schelp uit fosfaat of calciet
+		- Larven hebben *planktonische* levenswijze
+			-> verklaart grote verspreiding
+- **Cephalopoda** (koppotigen)
+- Graptolieten (geschreven steen): planktonisch, heel verspreid
+- Koralen, zeelelies, slakken, wormen, ...
+- Eerste **landplanten**
+- 
+#### Laat-paleozoicum (Devoon, Carboon, Perm)
+- Orogeneses:
+	- Acadische (tussen Newfoundland en West-Virginia)
+	- **Hercynische** (West- en Centraal- Europa)
+		-> resultaat botsing Gondwana en Laurussia
+	- Alleghaniaanse (Oosten Noord-Amerika)
+	- Oeraliaanse
+
+### Mesozoicum (**252 - 66 Ma**)
+### Cenozoicum (**66 Ma - nu**)
