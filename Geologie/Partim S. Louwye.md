@@ -124,3 +124,39 @@ BELANGRIJK: systeem tijdens verval gesloten -> **juiste data**
 - Groeisnelheid bepaald door hulp *gedateerde gesteentes* met korstmos
 	-> groeicurve opstellen & kijken wanneer gesteente aan oppervlak kwam
 - Bereik: ~**9000 jaar**
+# De aardgeschiedenis
+
+## Het Precambrium
+### Hadeaan
+- **4 - 4,6 Ga**
+- Warm, intens, vulkanisch
+- *Onderverdeling aarde* komt tot stand (kern, mantel, korst)
+- Mafische primitieve korst
+- Ontelbare meteorieten ingeslagen
+	-> sporen weg door opsmelting en erosie
+### Archeaan
+- **2,5 - 4 Ga**
+#### Eoarcheaan
+- **3,6 - 4 Ga**
+- Primitieve aardkorst krijgt *continentale* eigenschappen
+	-> sterk kwartshoudende afzettingen op oppervlak
+- Atmosfeer: CO2 en waterdamp door **ontgassing** aardmantel en vulkanisme
+	-> vandaag nog steeds ontgassing in riftzones
+- Atmosfeer koelt af -> waterdamp zorgt voor water & ijs
+	-> zure & warme **oceanen**
+- Koolzuur loste bij toenemende concentratie op in oceanen -> zure regen -> chemische verwering -> mariene kalkstenen, dolomieten en mergels
+- Beginsel leven:
+	1. aminozuren gesynthetiseerd
+	2. komen in zeewater: **oersoep**
+	3. stijging temperatuur: proteinoiden gemaakt
+	4. afkoeling: **microsferen**
+	5. voeden zich op **black smokers**: chemosynthese
+#### Paleoarcheaan
+- **3,2 - 3,6 Ga**
+- Introductie *moderne plaatbeweging en sedimentatie*
+- 
+#### Mesoarcheaan
+- **2,8 - 3,2 Ga**
+#### Neoarcheaan
+- **2,5 - 2,8 Ga**
+### Proterozoicum
