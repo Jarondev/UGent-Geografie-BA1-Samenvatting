@@ -101,3 +101,26 @@ BELANGRIJK: systeem tijdens verval gesloten -> **juiste data**
 	-> door planten opgenomen door fotosynthese
 	-> dieren eten planten op..
 #### Niet-radiometrische absolute dateringsmethoden
+##### Fissiesporen
+- Kernsplijting U-238 -> 2 fissiefragmenten bewegen door rooster -> fissisporen
+- Hoe ouder hoe meer sporen: **van 50.000 tot miljarden jaren**
+- Vooral **vulkanische glazen**, ook apatiet en zirkoon
+- *Verdwijnt bij hoge temperatuur*
+##### Warvenchronologie
+- Warven in glaciaire meren
+	-> in winter bevroren dus weinig klei afgezet
+	-> in zomer veel smeltwater dus veel silt & zand
+- **Kleilagen** dun en donker
+- **Silt- & zandlagen** dikker & bleker
+- Goede indicator om evenementen (grondverschuivingen) te dateren
+##### Dendrochronologie
+- Jaarringen bomen
+- Veranderingen *klimaatomstandigheden* beinvloeden groei -> *afwijkende patronen*
+- **Vergelijken en correleren** jaarringen meerdere bomen om tijdslijn te maken
+- Bereik: ~**9000 jaar**
+##### Lichenometrie
+- Grootte korstmoskolonies (groei constant)
+	-> bepalen wanneer steen aan atmosfeer is blootgesteld
+- Groeisnelheid bepaald door hulp *gedateerde gesteentes* met korstmos
+	-> groeicurve opstellen & kijken wanneer gesteente aan oppervlak kwam
+- Bereik: ~**9000 jaar**
