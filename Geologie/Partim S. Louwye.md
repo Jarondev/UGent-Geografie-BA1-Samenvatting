@@ -237,7 +237,6 @@ BELANGRIJK: systeem tijdens verval gesloten -> **juiste data**
 - **Burgess Shale** onderzoek: antwoord op vroege radiatie en evolutionaire geschiedenis van de organismen; veel beperkt en komen niet voor in jongere afzettingen ->  bewijs *diversiteit tijdens cambrium*
 - Eerste **landplanten**
 - **Placodermen**: eerste vertebraten, kaakloze vissen, geen vinnen, kraakbeenskelet dat niet fossileert, bedekt met benige platen die wel fossileren
-- 
 #### Laat-paleozoicum (Devoon, Carboon, Perm)
 - Orogeneses:
 	- Acadische (tussen Newfoundland en West-Virginia)
@@ -252,7 +251,10 @@ BELANGRIJK: systeem tijdens verval gesloten -> **juiste data**
 		- *Kwastvinnigen*: voorlopers *tetrapoden*
 - Eerste planten met **wortels** aan land
 	-> ontwikkeling grote bossen
-
+	-> in carboon groot deel dicht bij evenaar -> plassen en moerassen -> diversificatie
+- Radiatie reptielen door migratie straalvinnigen (longvissen) naar vasteland
+	  -> voeding planten en insecten
+	  
 
 ### Mesozoicum (**252 - 66 Ma**)
 ### Cenozoicum (**66 Ma - nu**)
