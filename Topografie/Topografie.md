@@ -146,3 +146,48 @@ Met prisma of puntkenmerk
 | DGPS                     | Code     | 5dm            | 2500           |
 | RTK                      | Fase     | 5cm            | 25000          |
 | Relatieve plaatsbepaling | Fase     | 5mm            | 25000          |
+# Totaalstation
+## Doeleinden
+- Voor grotere hellingen
+- Voor grotere afstanden
+- Lagere nauwkeurigheid
+- Meer paramters
+## Opstellingseisen
+- Eerste as verticaal brengen
+- Centreren boven opstelpunt
+- Kalibratie (nulpunt instellen)
+- Bij vrije stationnereing:
+	- Zichtbare referentiepunten
+	- Goede spreiding referentiepunten
+## Metingen
+### Veelhoeksmeting/polygonatie
+Coordinaten van onbekende punten meten volgens een veelhoekslijn + bepalen tussenpunten
+### Vrije stationnering/resectie/zijwaardse insnijding
+Uitzetten van een gekend punt
+### Voorwaartse insnijding
+Coordinaten nieuw punt berekenen vanuit gekende punten
+### Achterwaardse insnijding
+Coordinaten onbekend punt berekenen door omliggende referentiepunten te meten
+# Waterpassing
+## Instrumentenfouten
+- Hellingsfout
+- Verloop vizierlijn
+	-> optische as is niet uitgelijnd met mechanische as
+- Verzakking toestel
+- Baakfouten:
+	- Niet-verticaal
+	- Onjuiste lengte
+	- Verzakking
+	- Thermische uitzetting
+## Atmosfeerfouten
+- Refractie (lichtbreking)
+- Ondulatie/luchttrillingen
+## Afstellen
+- Grove horizontaliteit (doosniveau)
+- Fijne horizontaliteit (buisniveau/compensator)
+## Types
+| Naam       | Afstand baak | Fout (mm/km) |
+| ---------- | ------------ | ------------ |
+| Geodetisch | <25m         | <1           |
+| Ingenieurs | <50m         | 1-3          |
+| Bouw       | <100m        | 3-10         |
