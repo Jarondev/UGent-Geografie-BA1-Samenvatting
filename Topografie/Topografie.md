@@ -109,3 +109,40 @@
 | Ingenieurs | 0,5 - 1,5 mgon | 4,7 mm                 |
 | Bouw       | > 1,5 mgon     | 47 mm                  |
 # Afstandsmetingen
+## Rechtstreekse methodes
+- Stap-methode
+- Reductie-methode
+	-> schuine afstand corrigeren met formules
+- Vrij doorhangende meetband
+	-> helling compenseren met hanging meetband
+## Stadimetrische afstandsmeting (optisch)
+Door middel van stadia-draden in de kijker en aflezen boven- en onderdraad
+**Nauwkeurigheid**: 5-15 m/km
+## Electromagnetische afstandsmeting
+Met prisma of puntkenmerk
+### Puls-generatie & tijdmeting
+- Grote afstand (10-15km)
+- Grote nauwkeurigheid
+### Fazeverschilmeting
+- Meet fazeverschil tussen uitgezonden en teruggekaatste golf
+- Types:
+	- Electro-optisch (licht)
+	- Microgolf (radiogolven)
+# GNSS
+## Werking
+- 4 satellieten:
+	- 3 voor elke dimensie
+	- 1 voor synchronisatie
+## Nadelen
+- Open hemel nodig (niet ondergronds)
+- Transformatie coordinaten nodig
+- Hoogte minder nauwkeurig
+- Black box system
+	-> je kan berekeningen niet nakijken
+## Methodes
+| Naam                     | Techniek | Nauwkeurigheid | Prijs (in eur) |
+| ------------------------ | -------- | -------------- | -------------- |
+| Absolute plaatsbepaling  | Code     | 5m             | 25-250         |
+| DGPS                     | Code     | 5dm            | 2500           |
+| RTK                      | Fase     | 5cm            | 25000          |
+| Relatieve plaatsbepaling | Fase     | 5mm            | 25000          |
