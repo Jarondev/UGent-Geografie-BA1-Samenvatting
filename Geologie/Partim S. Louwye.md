@@ -187,7 +187,6 @@ BELANGRIJK: systeem tijdens verval gesloten -> **juiste data**
 		-> uitsluitend in sediment afgezet in marien milieu
 - Stikstof oceanen werd omgezet tot **nitrateten**
 	-> belangrijk voor metabolisme eukaryoten
-- 
 #### Mesoproterozoicum (**1,6 - 1 Ga**)
 - Evolutie eukaryoten naar meercellige organismen
 	-> lint bestaande uit rij verbonden cellen
@@ -216,7 +215,7 @@ BELANGRIJK: systeem tijdens verval gesloten -> **juiste data**
 ### Paleozoicum (**539 - 252 Ma**)
 #### Vroeg-paleozoicum (Cambrium, Ordovicium, Siluur)
 - Vorming **Caledonisch** gebergte (botsen Laurentia en Baltica)
-	-> resulteerde in voming Laurussia
+	-> resulteerde in voming **Laurussia**
 	-> ook invloed op oude gesteenten Belgie
 - Biologische activiteit voornamelijk **maritiem**
 - **Cambrische** explosie
@@ -252,9 +251,74 @@ BELANGRIJK: systeem tijdens verval gesloten -> **juiste data**
 - Eerste planten met **wortels** aan land
 	-> ontwikkeling grote bossen
 	-> in carboon groot deel dicht bij evenaar -> plassen en moerassen -> diversificatie
-- Radiatie reptielen door migratie straalvinnigen (longvissen) naar vasteland
+- **Eerste radiatie** reptielen door **migratie** straalvinnigen (longvissen) naar **vasteland**
 	  -> voeding planten en insecten
-	  
-
+	  -> ontwikkeling **amniote ei**
+- **Tweede radiatie** reptielen in perm
+- Eerste stap vorming Pangea
+	- botsing Gondwana & Laurussia
+	-> resultaat: meer uitgesproken seizoenen (**massa-extinctie**)
+#### Paleozoische extincties
+- **Einde Ordovicium**: verschuiving continenten
+	-> *ijskapvorming* Gondwana; zeespiegeldaling
+		-> gletsjers houden "licht" water vast, zwaarder blijft in oceaan
+	-> ingrijpende *wijziging broeikaseffect*
+		-> verhouding koolstofisotopen gewijzigd door begraven organisch koolstof
+	=> 2 fasen: begin & einde van glaciatie door schommelende zeespiegel
+- **Laat-Devoon**: afkoeling aarde door gletsjervorming Gondwana
+	-> 40% mariene genera verdwenen
+	-> anoxische condities: accumulatie organisch materiaal zeebodem
+		-> Kellwasser lagen
+- **Einde Perm**:
+	-> 90% mariene genera verdwenen
+	-> vorming Pangea: toename klimaatextremiteit: kouder op polen, droger op evenaar
+	-> gepaard met **vulkanisme**: minder zonlicht, zwavelzuur in atmosfeer
 ### Mesozoicum (**252 - 66 Ma**)
+- **Trias, Jura & Krijt**
+- Ontwikkeling vogels en zoogdieren
+- Meerderheid dinosauriers (reptielen)
+- **Fragmentering Pangea**
+	1. Vulkanische activiteit langs oostzijde Noord-Amerika (rifting)
+	2. Verbrokkeling Gondwana door ontstaan riftzones -> lavastromen
+	3. Verdere opening Atlantische rift + rotatie Eurazie
+	4. Verdere uitbreiding Noordatlantische rift naar noorden
+		-> NA en Eurazie volledig los van elkaar
+#### Overgang Krijt - Paleogeen
+- **Impacthypothese**: 
+	- Dun laag sediment met hoog Iridium gehalte gevonden; uit stofwolk afgezet
+	- Inslag asteroide met diameter 10km: **Chixculub**, Yucatan, Mexico
+	- Gevolg:
+		- Tsunami
+		- Stofwolk (weinig zonlicht)
+		- Zure regen & branden
+- **Hypothese vulkanische activiteit Deccan**
+	- Iridium is afkomstig uit mantel en afgezet tijdens krachtige vulkanische uitbarstingen
+	- mantelpluim 66 Ma oud
 ### Cenozoicum (**66 Ma - nu**)
+- 3 periodes
+	- **Paleogeen** (Paleoceen, Eoceen, Oligoceen)
+	- **Neogeen** (Mioceen, Plioceen)
+	- **Quartair** (Pleistoceen, Holoceen)
+- **Alpiene orogenese**:
+	- van Spanje tot oosten Himalaya
+		-> Pyreneen, Alpen, ...
+#### Paleogeen (Paleoceen, Eoceen, Oligoceen)
+- Wegvallen reptielsoorten -> maximale ontplooiing **zoogdieren**
+- Mariene ecosysteem: overlevenden extinctie
+	-> walvissen, reuzenhaaien, mollusken
+- Gymnospermen -> Angiospermen (bedektzadigen)
+- Continue groeiwijze **gras**
+	-> verovering open grasvelden
+	-> intensieve begrazing;
+		-> ook evolutie vleesetende zoogdieren; graslanden als jachtgebied
+- Afkoeling tweede helft Paleogeen -> kleine extinctie
+	-> verdroging continenten
+- Door temperatuurstijging -> stoppen neerwaartse stroming polair water (koel & zuurstofrijk)
+	-> mariene organismen in ademnood
+- **Thermische isolatie Antarctica**: groei landijs
+	-> gevolg platenbeweging: Zuid-Amerika en Afrika schuiven weg
+	-> circumpolaire zeestroming
+#### Neogeen (Mioceen, Plioceen)
+- **Klimaatschommelingen**:
+	- Zeespiegeldaling door uitbreiding gletsjers in Mioceen
+	- Zeespiegelstijging in Plioceen
