@@ -1,3 +1,25 @@
+- [De geologische tijd](#De%20geologische%20tijd)
+	- [Relatieve datering](#Relatieve%20datering)
+		- [Principe van superpositie](#Principe%20van%20superpositie)
+		- [Principe van oorspronkelijke horizontaliteit](#Principe%20van%20oorspronkelijke%20horizontaliteit)
+		- [Principe van oorspronkelijke laterale continuiteit](#Principe%20van%20oorspronkelijke%20laterale%20continuiteit)
+		- [Principe van de doorsnijdende relaties](#Principe%20van%20de%20doorsnijdende%20relaties)
+		- [Principe van de insluitsels](#Principe%20van%20de%20insluitsels)
+		- [Principe van de opeenvolging van fauna's en flora's](#Principe%20van%20de%20opeenvolging%20van%20fauna's%20en%20flora's)
+		- [Nonconformiteiten](#Nonconformiteiten)
+	- [Absolute datering](#Absolute%20datering)
+		- [Radiometrische methodes](#Radiometrische%20methodes)
+		- [Niet-radiometrische absolute dateringsmethoden](#Niet-radiometrische%20absolute%20dateringsmethoden)
+- [De aardgeschiedenis](#De%20aardgeschiedenis)
+	- [Het Precambrium](#Het%20Precambrium)
+		- [Hadeaan ( **4,6 - 4Ga**)](#Hadeaan%20(%20**4,6%20-%204Ga**))
+		- [Archeaan (**4 - 2,5 Ga**)](#Archeaan%20(**4%20-%202,5%20Ga**))
+		- [Proterozoicum (**2,5 - 0,542 Ga**)](#Proterozoicum%20(**2,5%20-%200,542%20Ga**))
+	- [Fanerozoicum (**542 Ma - nu**)](#Fanerozoicum%20(**542%20Ma%20-%20nu**))
+		- [Paleozoicum (**539 - 252 Ma**)](#Paleozoicum%20(**539%20-%20252%20Ma**))
+		- [Mesozoicum (**252 - 66 Ma**)](#Mesozoicum%20(**252%20-%2066%20Ma**))
+		- [Cenozoicum (**66 Ma - nu**)](#Cenozoicum%20(**66%20Ma%20-%20nu**))
+
 # De geologische tijd
 ## Relatieve datering
 ### Principe van superpositie
@@ -100,25 +122,25 @@ BELANGRIJK: systeem tijdens verval gesloten -> **juiste data**
 - Vormt hoog in atmosfeer door bombardering kosmische stralen
 	-> door planten opgenomen door fotosynthese
 	-> dieren eten planten op..
-#### Niet-radiometrische absolute dateringsmethoden
-##### Fissiesporen
+### Niet-radiometrische absolute dateringsmethoden
+#### Fissiesporen
 - Kernsplijting U-238 -> 2 fissiefragmenten bewegen door rooster -> fissisporen
 - Hoe ouder hoe meer sporen: **van 50.000 tot miljarden jaren**
 - Vooral **vulkanische glazen**, ook apatiet en zirkoon
 - *Verdwijnt bij hoge temperatuur*
-##### Warvenchronologie
+#### Warvenchronologie
 - Warven in glaciaire meren
 	-> in winter bevroren dus weinig klei afgezet
 	-> in zomer veel smeltwater dus veel silt & zand
 - **Kleilagen** dun en donker
 - **Silt- & zandlagen** dikker & bleker
 - Goede indicator om evenementen (grondverschuivingen) te dateren
-##### Dendrochronologie
+#### Dendrochronologie
 - Jaarringen bomen
 - Veranderingen *klimaatomstandigheden* beinvloeden groei -> *afwijkende patronen*
 - **Vergelijken en correleren** jaarringen meerdere bomen om tijdslijn te maken
 - Bereik: ~**9000 jaar**
-##### Lichenometrie
+#### Lichenometrie
 - Grootte korstmoskolonies (groei constant)
 	-> bepalen wanneer steen aan atmosfeer is blootgesteld
 - Groeisnelheid bepaald door hulp *gedateerde gesteentes* met korstmos

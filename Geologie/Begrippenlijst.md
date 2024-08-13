@@ -10,13 +10,20 @@
 | Conforme lagen                                       | Gesteentelagen die zonder onderbreking zijn afgezet                                                                                               |
 | Convectie                                            | Proces waarbij warmte wordt overgedragen door beweging vloeistof of gas                                                                           |
 | Diapirisme<br>                                       | Proces waarbij lichtere gesteenten omhoog worden geduwd door nabije zwaardere lagen                                                               |
+| Extinctie                                            | Plots verdwijnen van een soort                                                                                                                    |
 | Geochronologie                                       | Studie van de tijd met betrekking tot geschiedenis van de aarde                                                                                   |
 | Gidsfossiel                                          | Fossiel met kortstondig bestaan die informeren over tijdstip afzetting gesteente                                                                  |
+| Halveringstijd                                       | Hoelang tot helft atomen in radioactieve stof is vervallen                                                                                        |
 | Intrusieve gesteenten                                | Dieptegesteenten, ontstaan uit stollen magma onder aardoppervlak                                                                                  |
 | Large Igneous Provinces                              | Enorme gebieden gekenmerkt door uitegebreide uitstoot basaltisch magma over korte geologische tijdspanne                                          |
 | Maria (maan)                                         | Donkere plekken door stolling oceaan                                                                                                              |
+| Massa-extinctie<br>                                  | Plots verdwijnen van veel soorten, extinctie treft meerdere ecologische gemeenschappen                                                            |
+| Ontgassing                                           | Proces waarbij waterdamp en andere gassen vanuit steenmassa in omgeving terechtkomen                                                              |
+| Orogenese                                            | Proces van bergvorming door tektonische plaatbewegingen                                                                                           |
 | Plumes                                               | Opstromende kolommen van heet, gesmolten gesteente                                                                                                |
+| Radiatie (biologie)                                  | Plots ontstaan van veel nieuwe soorten                                                                                                            |
 | Rheologie                                            | Studie vloeiing en vervorming materiaal onder druk                                                                                                |
+| Schilden/cratons                                     | Uitgestrekte gebieden met Archeaanse gesteenten                                                                                                   |
 | Slab pull                                            | Proces waarbij een zware, ondergedoken oceaanplaat naar beneden trekt en zo beweging andere tektonische platen bevordert -> versnelling subductie |
 | Sokkel                                               | Onderliggende, stabiele deel aardkorst opgebouwd door oudere metamorfe of intrusieve gesteenten                                                   |
 | Strata                                               | Opeenvolgende lagen sedimentair gesteente                                                                                                         |
@@ -24,10 +31,3 @@
 | Tektiet                                              | Glasachtige donkere objecten, ontstaan door hoge temperatuur en druk meteorietinslag die aardoppervlak heeft gesmolten                            |
 | Terrae                                               | Hoogland                                                                                                                                          |
 | Uniformitarianisme/ actualisme/ actualiteitsprincipe | Concept dat de mechanismen die in het verleden de aarde hebben gemoddeleerd dezelfde zijn die vandaag werkzaam zijn                               |
-| Halveringstijd                                       | Hoelang tot helft atomen in radioactieve stof is vervallen                                                                                        |
-| Ontgassing                                           | Proces waarbij waterdamp en andere gassen vanuit steenmassa in omgeving terechtkomen                                                              |
-| Schilden/cratons                                     | Uitgestrekte gebieden met Archeaanse gesteenten                                                                                                   |
-| Radiatie (biologie)                                  | Plots ontstaan van veel nieuwe soorten                                                                                                            |
-| Extinctie                                            | Plots verdwijnen van een soort                                                                                                                    |
-| Massa-extinctie<br>                                  | Plots verdwijnen van veel soorten, extinctie treft meerdere ecologische gemeenschappen                                                            |
-| Orogenese                                            | Proces van bergvorming door tektonische plaatbewegingen                                                                                           |
