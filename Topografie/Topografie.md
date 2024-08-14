@@ -1,11 +1,6 @@
 # Inleiding
 - **Opmeten** fysische wereld -> voorstelling ervan
 - **Uitzetten** voorstelling -> fysische wereld
-## Wat?
-- Afstanden
-- Hoogteverschil
-- Hoeken
-- Richtingen
 ## Types fouten
 - **Toevallige**
 	-> *precisie*: maat verspreiding resultaten
