@@ -5,7 +5,7 @@
 - **Toevallige**
 	-> *precisie*: maat verspreiding resultaten
 - **Systematische**
-	-> *jusitheid*: overeenstemming exacte waarden
+	-> *juistheid*: overeenstemming exacte waarden
 - **Grove**
 	-> *betrouwbaarheid*: waarschijnlijkheid van geen vergissingen
 ## Afstandsnauwkeurigheden
