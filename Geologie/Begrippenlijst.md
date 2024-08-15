@@ -1,6 +1,6 @@
 | Begrip                                               | Uitleg                                                                                                                                            |
 | ---------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------- |
-| Accretie                                             | Proces waarbij meteriaal samenklontert en groeit door aantrekkingskracht                                                                          |
+| Accretie                                             | Proces waarbij materiaal samenklontert en groeit door aantrekkingskracht                                                                          |
 | Afgietsel/cast                                       | Gedekte fossiel die in water oplost, een holle ruimte overlaat en nadien gevuld wordt door materiaal                                              |
 | Catastrofentheorie                                   | Concept waar ganse schepping meerdere malen door cataclysmen werd vernietigd en hermaakt                                                          |
 | Cloudlets                                            | Zelf-graviterende wolken                                                                                                                          |

@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Topografie/Topografie.md",
+                "file": "Geologie/Begrippenlijst.md",
                 "mode": "source",
                 "source": false
               }
@@ -96,7 +96,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Topografie/Topografie.md",
+                "file": "Geologie/Begrippenlijst.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,7 +113,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Topografie/Topografie.md",
+                "file": "Geologie/Begrippenlijst.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Topografie/Topografie.md"
+                "file": "Geologie/Begrippenlijst.md"
               }
             }
           }
@@ -150,13 +150,14 @@
   "active": "7110f6ae794ac6b4",
   "lastOpenFiles": [
     "Geologie/Hoofdstuk 2.md",
+    "Geologie/Hoofdstuk 3.md",
     "Geologie/Hoofdstuk 1.md",
+    "Geologie/Hoofdstuk 5.md",
+    "Geologie/Partim S. Louwye.md",
+    "Geologie/Pasted image 20240715190411.png",
+    "Topografie/Topografie.md",
     "Geologie/Begrippenlijst.md",
     "GIS/GIS.md",
-    "Topografie/Topografie.md",
-    "Geologie/Partim S. Louwye.md",
-    "Geologie/Hoofdstuk 5.md",
-    "Geologie/Hoofdstuk 3.md",
     "Geologie/Hoofdstuk 4.md",
     "Economie/Economie.md",
     "SEG/Hoofdstuk 5.md",
@@ -164,7 +165,6 @@
     "SEG/Hoofdstuk 2.md",
     "SEG/Hoofdstuk 1.md",
     "SEG/Begrippenlijst.md",
-    "Geologie/Pasted image 20240715190411.png",
     "Topografie",
     "SEG/Hoofdstuk 3.md",
     "Pasted image 20240722211640.png",
