@@ -73,7 +73,7 @@
 - Basis lithosfeer op 1600K
 	- Dikte oceanische: 50-100km
 	- Dikte continentale: 100-200km
-- **Oudere** lithosfeer is kouder, dikker, zwaarder & **zinkt** in athenosfeer (**subductie**)
+- **Oudere** lithosfeer is kouder, dikker, zwaarder & **zinkt** in asthenosfeer (**subductie**)
 	→ **gedwongen** subductie: **botsing** oceanische met continentale lithosfeer
 ### Asthenosfeer
 - Vervormbaar mantel materiaal
