@@ -107,7 +107,7 @@
 - Geen impactkraters
 - Glad oppervlak
 - Netwerk grote lijnen, spleten in ijskorst
-- **Linea**: aangeoribanden ijs
+- **Linea**: aangroeibanden ijs
 	- Gelijkaardig aan spreidingsassen
 	- Centraal: warm ijs (*donker*)
 - **Lenticulae**: puistjes
