@@ -22,7 +22,7 @@
 | Large Igneous Provinces                              | Enorme gebieden gekenmerkt door uitegebreide uitstoot basaltisch magma over korte geologische tijdspanne                                          |
 | Maria (maan)                                         | Donkere plekken door stolling oceaan                                                                                                              |
 | Massa-extinctie<br>                                  | Globaal, massaal, snel verdwijnen van soorten                                                                                                     |
-| MOHO                                                 | Mohorovic discontinuity, scheiding korst en lithosfeer                                                                                            |
+| MOHO                                                 | Mohorovic discontinuity, scheiding korst en mantel                                                                                                |
 | Ontgassing                                           | Proces waarbij waterdamp en andere gassen vanuit steenmassa in omgeving terechtkomen                                                              |
 | Orogenese                                            | Proces van bergvorming door tektonische plaatbewegingen                                                                                           |
 | Pericontinentaal                                     | Zeer ondiep milieu                                                                                                                                |
