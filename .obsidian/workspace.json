@@ -8,30 +8,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "dc1aa9e729023c3b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Geologie/Begrippenlijst.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          }
-        ]
-      },
-      {
-        "id": "31cf8f97053a5817",
-        "type": "tabs",
-        "children": [
-          {
             "id": "7110f6ae794ac6b4",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Geologie/Hoofdstuk 2.md",
+                "file": "Geologie/Partim S. Louwye.md",
                 "mode": "source",
                 "source": false
               }
@@ -114,7 +96,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Geologie/Hoofdstuk 2.md",
+                "file": "Geologie/Partim S. Louwye.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -131,7 +113,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Geologie/Hoofdstuk 2.md",
+                "file": "Geologie/Partim S. Louwye.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -143,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Geologie/Hoofdstuk 2.md"
+                "file": "Geologie/Partim S. Louwye.md"
               }
             }
           }
@@ -165,11 +147,11 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "dc1aa9e729023c3b",
+  "active": "7110f6ae794ac6b4",
   "lastOpenFiles": [
     "Geologie/Begrippenlijst.md",
-    "Geologie/Hoofdstuk 2.md",
     "Geologie/Partim S. Louwye.md",
+    "Geologie/Hoofdstuk 2.md",
     "Geologie/Hoofdstuk 1.md",
     "Geologie/Hoofdstuk 3.md",
     "Geologie/Hoofdstuk 5.md",
