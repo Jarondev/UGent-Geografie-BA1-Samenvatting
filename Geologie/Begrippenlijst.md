@@ -46,3 +46,5 @@
 | Uniformitarianisme/ actualisme/ actualiteitsprincipe | Concept dat de mechanismen die in het verleden de aarde hebben gemoddeleerd dezelfde zijn die vandaag werkzaam zijn                                           |
 | Windmannstaten                                       | Patronen in een ijzermeteoriet die men kan zien door zuur toe te voegen, door de structuur kan bepaald worden in welke omstandigheden de meteoriet gevormd is |
 | Hercynische/varische orogenese                       | Bergvorming tijdens laat-paleozoicum door botsing Gondwana en Laurussia                                                                                       |
+| Passieve rand                                        | Overgangszone tussen continentale en oceanische plaat met veel stabiliteit en afwezigheid van grote tektonische activiteit                                    |
+| Actieve rand                                         | Overgangzone continentale en oceanische plaat met veel tektonische processen zoals subductie, vulkanisme en aardbevingen                                      |
