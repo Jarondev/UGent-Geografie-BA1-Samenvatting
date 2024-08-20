@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Geologie/Begrippenlijst.md",
+                "file": "Geologie/Partim S. Louwye.md",
                 "mode": "source",
                 "source": false
               }
@@ -96,7 +96,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Geologie/Begrippenlijst.md",
+                "file": "Geologie/Partim S. Louwye.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,7 +113,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Geologie/Begrippenlijst.md",
+                "file": "Geologie/Partim S. Louwye.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Geologie/Begrippenlijst.md"
+                "file": "Geologie/Partim S. Louwye.md"
               }
             }
           }
@@ -149,9 +149,9 @@
   },
   "active": "7110f6ae794ac6b4",
   "lastOpenFiles": [
-    "Geologie/Hoofdstuk 1.md",
-    "Geologie/Partim S. Louwye.md",
     "Geologie/Begrippenlijst.md",
+    "Geologie/Partim S. Louwye.md",
+    "Geologie/Hoofdstuk 1.md",
     "Geologie/Hoofdstuk 2.md",
     "Geologie/Hoofdstuk 3.md",
     "Geologie/Hoofdstuk 5.md",
