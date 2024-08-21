@@ -18,8 +18,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "70af7d39368d9760",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Geologie/Partim S. Louwye.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       },
       {
         "id": "31cf8f97053a5817",
@@ -114,7 +127,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Geologie/Hoofdstuk 1.md",
+                "file": "Geologie/Begrippenlijst.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -131,7 +144,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Geologie/Hoofdstuk 1.md",
+                "file": "Geologie/Begrippenlijst.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -143,7 +156,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Geologie/Hoofdstuk 1.md"
+                "file": "Geologie/Begrippenlijst.md"
               }
             }
           }
@@ -165,11 +178,12 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "dc1aa9e729023c3b",
+  "active": "7110f6ae794ac6b4",
   "lastOpenFiles": [
+    "conflict-files-obsidian-git.md",
     "Geologie/Begrippenlijst.md",
-    "Geologie/Hoofdstuk 1.md",
     "Geologie/Partim S. Louwye.md",
+    "Geologie/Hoofdstuk 1.md",
     "Geologie/Hoofdstuk 2.md",
     "Geologie/Hoofdstuk 3.md",
     "Geologie/Hoofdstuk 5.md",
