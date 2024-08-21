@@ -58,6 +58,7 @@
 
 ### 1. Op basis van gebruik
 **Volgens toenemende complexiteit/bevolkingsdichtheid/intensiteit gebruik fysisch milieu:**
+
 #### Jagers/verzamelaars
  - Nomadisch
  - Andere focus afhankelijk van breedtegraad (jagen, vissen, planten)
@@ -74,6 +75,7 @@
 - Eerst agrarisch
 - Grote verschillen in soorten steden (handelscentra, heilige steden, politieke hoofdsteden,..)
 ### 2. Op basis van natuur, arbeid & maatschappij
+
 **Ideaaltypes hangen af van:**
 - Hoe directe producenten toegang krijgen tot productiemiddelen
 - Hoe degenen die arbeid controleren, economisch surplus toe-eigenen
@@ -101,19 +103,26 @@
 - PPP (prijsverschil voor zelfde product)
 - Capability approach (dagelijkse leven)
 ## Fysisch milieu & bevolking
+
 ### Neo-Malthusianisme
+
 **Bevolking neemt exponentieel toe -> voedselproductie niet -> rampscenario 
 Oplossing: bevolking vrijwillig beperken**
+
 ##### Kritiek: 
 - Ontwikkelingslanden mogen niet ontwikkelen (CO2)
 - Draagkracht aarde is dynamisch omwille van technologische innovatie
 - We zijn innovatief en zullen nieuwe dingen uitvinden
+
 ### Boserup-Geertz
+
 **Groei kan positief effect hebben -> er wordt meer nagedacht over efficientie**
+
 ##### Kritiek: 
 - Levenskwaliteit niet mee in acht gehouden
 - Meer uitzondering dan regel
 ## Fysisch milieu & ecologische problemen
+
 ### Perspectieven
 #### Cornucopia
 - We vinden wel een oplossing (korte termijn), er is geen structurele crisis
@@ -157,6 +166,7 @@ Oplossing: bevolking vrijwillig beperken**
 #### Impact grondstoffen op ontwikkeling
 ##### 'Resource curse'
 - Wijze waarop veel hulpbronnen vaak economische ontwikkeling remmen
+
 ###### Oorzaken: 
 - Fluctuatie grondstofprijzen
 - Onvoldoende investeringen in duurzame economische groei/efficiente productie
@@ -168,14 +178,17 @@ Oplossing: bevolking vrijwillig beperken**
 - Ontwikkelen geassocieerde activiteiten (bv. mijnbouw-engineering, -handel, -financiering)
 - Overschot begroting gebruiken om stabiele return te krijgen = 'sovereign wealth funds'
 ### Landbouw
+
 #### Onevenwichten in productie
+
 ##### Belangrijke evoluties
 - Global cool chains (commercialisering & internationalisering)
 - Toenemende intensivering (groene revolutie (mest, nieuwe technieken))
 - Sterke regulering overheid (subsidies)
 
 **Productie meer en meer in handen van handvol bedrijven**
-**Beschikbaarheid, maar vooral controle over hulpbronnen is belangrijke factor in wereldeconomie**
+**Beschikbaarheid, maar vooral controle over hulpbronnen is belangrijke factor in wereldeconomie** 
+
 ##### Vrijhandel beste weg naar economische ontwikkeling
 - SAPs (Structural Adjustment Programs) die opening economie aanbevelen
 - Wordt gezien als een manier voor rijke landen om invloed en controle uit te oefenen over arme landen
@@ -185,12 +198,15 @@ Oplossing: bevolking vrijwillig beperken**
 	- Ondermijnen sociale programma's
 #### Onevenwicht in consumptie
 - Ecologische problemen worden uitgediept door consumenteneisen (bv. zomergroenten hele jaar door)
+
 #### Onevenwicht tussen productie en consumptie
 - Huidige productie volstaat in principe om iedereen te voeden, toch 1/9 in hongersnood
+
 #### Rol van de overheid
 **Overheidsinterventie is belangrijker dan in andere sectoren**
 - Regulering (voedselveiligheid)
 - Subsidiëring en protectionisme:
+
 ## Industriële productie en dienstverlening
 
 - Tot begin WO2 bleef productie geconcentreerd tot beperkte groep landen (VK, VS, D, F, Japan)
@@ -214,16 +230,19 @@ Oplossing: bevolking vrijwillig beperken**
 #### Nadelen: 
 - Nadeel voor lokale markten
 - Bedrijven krijgen meer macht
+
 ### Foreign Direct Investment (FDI)
 - Buitenlandse investeringen met het oog tot verkrijgen van controle over andere firma
 	-> Mergers & acquisitions
 	-> Opzetten nieuwe vestiging
 - Portfolio investment
+
 #### Aantrekkelijkheid landen voor FDI
 - Omvang plaatselijke macht (grotere markt aantrekkelijker)
 - Aanwezigheid hulpbronnen
 - Openheid wereldeconomie
 - Bereikbaarheid
+
 ## Technologie en transport
 
 - Technologie een van belangrijkste katalysator in economisch-geografische vooruitgang
@@ -234,11 +253,13 @@ Oplossing: bevolking vrijwillig beperken**
 - **Productiviteit en automatisering neemt toe**
 - -> niet op lineaire wijze
 - -> veranderende organisatie van de economische productie
+
 ### Fordisme (WO2 - '70)
 - Assemblagelijnen met machines voor specifieke doelstelling
 - Grote volumes producten
 - Specifiek geschoolde arbeidskracht doen individuele, repetitieve taken
 - Grote 'just-in-case' voorraden
+
 ### Post-Fordisme (vanaf '70)
 - Assemblagelijnen met modulaire machines
 - Grote aantallen kleine specifieke volumes

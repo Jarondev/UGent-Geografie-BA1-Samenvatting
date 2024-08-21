@@ -1,8 +1,5 @@
 [
   "obsidian-plugin-toc",
   "symbols-prettifier",
-  "obsidian-git",
-  "obsidian-to-anki-plugin",
-  "mousewheel-image-zoom",
-  "table-editor-obsidian"
+  "obsidian-git"
 ]
