@@ -11,10 +11,14 @@
 		- [Radiometrische methodes](#Radiometrische%20methodes)
 		- [Niet-radiometrische absolute dateringsmethoden](#Niet-radiometrische%20absolute%20dateringsmethoden)
 - [De aardgeschiedenis](#De%20aardgeschiedenis)
-	- [Het Precambrium](#Het%20Precambrium)
-		- [Hadeaan ( **4,6 - 4Ga**)](#Hadeaan%20(%20**4,6%20-%204Ga**))
-		- [Archeaan (**4 - 2,5 Ga**)](#Archeaan%20(**4%20-%202,5%20Ga**))
-		- [Proterozoicum (**2,5 - 0,542 Ga**)](#Proterozoicum%20(**2,5%20-%200,542%20Ga**))
+	- [Hadeaan ( **4,6 - 4Ga**)](#Hadeaan%20(%20**4,6%20-%204Ga**))
+	- [Archeaan (**4 - 2,5 Ga**)](#Archeaan%20(**4%20-%202,5%20Ga**))
+		- [Eoarcheaan (**4  - 3,6 Ga**)](#Eoarcheaan%20(**4%20%20-%203,6%20Ga**))
+		- [Paleoarcheaan (**3,6 - 3,2 Ga**), Mesoarcheaan (**3,2 - 2,8 Ga**) & Neoarcheaan (**2,8 - 2,5 Ga**)](#Paleoarcheaan%20(**3,6%20-%203,2%20Ga**),%20Mesoarcheaan%20(**3,2%20-%202,8%20Ga**)%20&%20Neoarcheaan%20(**2,8%20-%202,5%20Ga**))
+	- [Proterozoicum (**2,5 - 0,542 Ga**)](#Proterozoicum%20(**2,5%20-%200,542%20Ga**))
+		- [Paleoproterozoicum (**2,5 - 1,6 Ga**)](#Paleoproterozoicum%20(**2,5%20-%201,6%20Ga**))
+		- [Mesoproterozoicum (**1,6 - 1 Ga**)](#Mesoproterozoicum%20(**1,6%20-%201%20Ga**))
+		- [Neoproterozoicum (**1 - 0,542 Ga**)](#Neoproterozoicum%20(**1%20-%200,542%20Ga**))
 	- [Fanerozoicum (**542 Ma - nu**)](#Fanerozoicum%20(**542%20Ma%20-%20nu**))
 		- [Paleozoicum (**539 - 252 Ma**)](#Paleozoicum%20(**539%20-%20252%20Ma**))
 		- [Mesozoicum (**252 - 66 Ma**)](#Mesozoicum%20(**252%20-%2066%20Ma**))
@@ -146,15 +150,14 @@ BELANGRIJK: systeem tijdens verval gesloten -> **juiste data**
 - Bereik: ~**9000 jaar**
 # De aardgeschiedenis
 
-## Het Precambrium
-### Hadeaan ( **4,6 - 4Ga**)
+## Hadeaan ( **4,6 - 4Ga**)
 - Warm, intens, vulkanisch
 - *Onderverdeling aarde* komt tot stand (kern, mantel, korst)
 - Mafische primitieve korst
 - Ontelbare meteorieten ingeslagen
 	-> sporen weg door opsmelting en erosie
-### Archeaan (**4 - 2,5 Ga**)
-#### Eoarcheaan (**4  - 3,6 Ga**)
+## Archeaan (**4 - 2,5 Ga**)
+### Eoarcheaan (**4  - 3,6 Ga**)
 - Primitieve aardkorst krijgt *continentale* eigenschappen
 	-> sterk kwartshoudende afzettingen op oppervlak
 - Atmosfeer: CO2 en waterdamp door **ontgassing** aardmantel en vulkanisme
@@ -168,7 +171,7 @@ BELANGRIJK: systeem tijdens verval gesloten -> **juiste data**
 	3. stijging temperatuur: proteinoiden gemaakt
 	4. afkoeling: **microsferen**
 	5. voeden zich op **black smokers**: chemosynthese
-#### Paleoarcheaan (**3,6 - 3,2 Ga**), Mesoarcheaan (**3,2 - 2,8 Ga**) & Neoarcheaan (**2,8 - 2,5 Ga**)
+### Paleoarcheaan (**3,6 - 3,2 Ga**), Mesoarcheaan (**3,2 - 2,8 Ga**) & Neoarcheaan (**2,8 - 2,5 Ga**)
 - Introductie *moderne plaatbeweging en sedimentatie*
 - Komatiitische lavastromen op oppervlak
 - Continenten vergroten door sedimentatie en vulkanisme
@@ -189,8 +192,8 @@ BELANGRIJK: systeem tijdens verval gesloten -> **juiste data**
 	- *Seizoensgevoelige* gelaagde ijzerformaties
 		-> afwisseling hematietrijke en hematietarme (donkergrijze chert) banken
 	- Worden wereldwijd ontgonnen (90% van alle ijzer)
-### Proterozoicum (**2,5 - 0,542 Ga**)
-#### Paleoproterozoicum (**2,5 - 1,6 Ga**)
+## Proterozoicum (**2,5 - 0,542 Ga**)
+### Paleoproterozoicum (**2,5 - 1,6 Ga**)
 - Vorming supercontinent **Laurentia** in NA door *vereniging* Archeaanse cratons
 - Leven niet veel verschillend van Neoarcheaan: cyanobacterien, prokaryoten
 	- **Hyperthermofielen** rond hydrothermale bronnen in diepzee
@@ -207,10 +210,10 @@ BELANGRIJK: systeem tijdens verval gesloten -> **juiste data**
 		-> uitsluitend in sediment afgezet in marien milieu
 - Stikstof oceanen werd omgezet tot **nitrateten**
 	-> belangrijk voor metabolisme eukaryoten
-#### Mesoproterozoicum (**1,6 - 1 Ga**)
+### Mesoproterozoicum (**1,6 - 1 Ga**)
 - Evolutie eukaryoten naar meercellige organismen
 	-> lint bestaande uit rij verbonden cellen
-#### Neoproterozoicum (**1 - 0,542 Ga**)
+### Neoproterozoicum (**1 - 0,542 Ga**)
 - **Explosieve radiatie fossielen**:
 	- Vendoza of **Ediacara**-fauna Ediacariaan (**635 - 539 Ma**)
 		-> bewoonde ondiep marien milieu met *fototische* zone
@@ -224,15 +227,14 @@ BELANGRIJK: systeem tijdens verval gesloten -> **juiste data**
 		-> organismen zonder skelet
 	- **Fossielen met skelet**
 - Vorming **Gondwana** (Zuid-Amerika + Afrika + Australie + Antarctica + India)
-##### Neoproterozoische extinctie
+#### Neoproterozoische extinctie
 - Cryogeniaan (**720 - 635 Ma**)
 	-> 2 fasen (Varangiaanse glaciaties):
 	- Sturtiaan glaciatie (60 Ma)
 	- Marinoaan glaciatie (2 Ma)
 - Afzetting glaciaire diamictieten en andere sedimenten
 - **Uitsterven stromatolieten en acritarchen**
-## Faneroz
-   C VBNM   oicum (**542 Ma - nu**)
+## Fanerozoicum (**542 Ma - nu**)
 ### Paleozoicum (**539 - 252 Ma**)
 #### Vroeg-paleozoicum (Cambrium, Ordovicium, Siluur)
 - Vorming **Caledonisch** gebergte (botsen Laurentia en Baltica)
