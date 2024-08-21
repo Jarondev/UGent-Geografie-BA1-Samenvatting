@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Economie/Economie.md",
+                "file": "README.md",
                 "mode": "preview",
                 "source": false
               }
@@ -85,7 +85,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Economie/Economie.md",
+            "file": "README.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "Economie/Economie.md",
+            "file": "README.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -114,7 +114,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "Economie/Economie.md"
+            "file": "README.md"
           }
         }
       },
@@ -141,8 +141,9 @@
   },
   "active": "2430bc249a42eb49",
   "lastOpenFiles": [
-    "Untitled.md",
     "Economie/Economie.md",
+    "SEG/Begrippenlijst.md",
+    "Untitled.md",
     "SEG/Hoofdstuk 3.md",
     "SEG/Hoofdstuk 1.md",
     "SEG/Hoofdstuk 2.md",
