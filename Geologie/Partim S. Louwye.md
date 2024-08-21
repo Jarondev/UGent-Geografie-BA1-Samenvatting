@@ -231,7 +231,8 @@ BELANGRIJK: systeem tijdens verval gesloten -> **juiste data**
 	- Marinoaan glaciatie (2 Ma)
 - Afzetting glaciaire diamictieten en andere sedimenten
 - **Uitsterven stromatolieten en acritarchen**
-## Fanerozoicum (**542 Ma - nu**)
+## Faneroz
+   C VBNM   oicum (**542 Ma - nu**)
 ### Paleozoicum (**539 - 252 Ma**)
 #### Vroeg-paleozoicum (Cambrium, Ordovicium, Siluur)
 - Vorming **Caledonisch** gebergte (botsen Laurentia en Baltica)
