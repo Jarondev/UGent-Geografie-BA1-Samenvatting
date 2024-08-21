@@ -1,6 +1,7 @@
 | Begrip                                               | Uitleg                                                                                                                                                        |
 | ---------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | Accretie                                             | Proces waarbij materiaal samenklontert en groeit door aantrekkingskracht                                                                                      |
+| Actieve rand                                         | Overgangzone continentale en oceanische plaat met veel tektonische processen zoals subductie, vulkanisme en aardbevingen                                      |
 | Afgietsel/cast                                       | Gedekte fossiel die in water oplost, een holle ruimte overlaat en nadien gevuld wordt door materiaal                                                          |
 | BIF                                                  | Banded Iron Formation                                                                                                                                         |
 | Bioturbatie                                          | Verandering geologie van afzettingen door organismen                                                                                                          |
@@ -18,6 +19,7 @@
 | Gidsfossiel                                          | Fossiel met kortstondig bestaan die informeren over tijdstip afzetting gesteente                                                                              |
 | Great Oxidation Event                                | Stijging zuurstof door cyanobacterie ~2,2 Ga                                                                                                                  |
 | Halveringstijd                                       | Hoelang tot helft atomen in radioactieve stof is vervallen                                                                                                    |
+| Hercynische/varische orogenese                       | Bergvorming tijdens laat-paleozoicum door botsing Gondwana en Laurussia                                                                                       |
 | Intrusieve gesteenten                                | Dieptegesteenten, ontstaan uit stollen magma onder aardoppervlak                                                                                              |
 | KBO                                                  | Kuiper-Belt Object, objecten uit de Kuiper Belt, een zone aan de rand van ons zonnestelsel, bron voor kometen                                                 |
 | Laminatie                                            | Afwisseling donker/licht                                                                                                                                      |
@@ -27,6 +29,7 @@
 | MOHO                                                 | Mohorovic discontinuity, scheiding korst en mantel                                                                                                            |
 | Ontgassing                                           | Proces waarbij waterdamp en andere gassen vanuit steenmassa in omgeving terechtkomen                                                                          |
 | Orogenese                                            | Proces van bergvorming door tektonische plaatbewegingen                                                                                                       |
+| Passieve rand                                        | Overgangszone tussen continentale en oceanische plaat met veel stabiliteit en afwezigheid van grote tektonische activiteit                                    |
 | Pericontinentaal                                     | Zeer ondiep milieu                                                                                                                                            |
 | Plumes                                               | Opstromende kolommen van heet, gesmolten gesteente                                                                                                            |
 | Proxy                                                | Parameter dat we vandaag kunnen meten die info geeft over verleden                                                                                            |
@@ -45,6 +48,3 @@
 | Terrae                                               | Hoogland                                                                                                                                                      |
 | Uniformitarianisme/ actualisme/ actualiteitsprincipe | Concept dat de mechanismen die in het verleden de aarde hebben gemoddeleerd dezelfde zijn die vandaag werkzaam zijn                                           |
 | Windmannstaten                                       | Patronen in een ijzermeteoriet die men kan zien door zuur toe te voegen, door de structuur kan bepaald worden in welke omstandigheden de meteoriet gevormd is |
-| Hercynische/varische orogenese                       | Bergvorming tijdens laat-paleozoicum door botsing Gondwana en Laurussia                                                                                       |
-| Passieve rand                                        | Overgangszone tussen continentale en oceanische plaat met veel stabiliteit en afwezigheid van grote tektonische activiteit                                    |
-| Actieve rand                                         | Overgangzone continentale en oceanische plaat met veel tektonische processen zoals subductie, vulkanisme en aardbevingen                                      |
