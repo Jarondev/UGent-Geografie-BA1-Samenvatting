@@ -130,10 +130,8 @@ BELANGRIJK: systeem tijdens verval gesloten -> **juiste data**
 - *Verdwijnt bij hoge temperatuur*
 #### Warvenchronologie
 - Warven in glaciaire meren
-	-> in winter bevroren dus weinig klei afgezet
-	-> in zomer veel smeltwater dus veel silt & zand
-- **Kleilagen** dun en donker
-- **Silt- & zandlagen** dikker & bleker
+	-> in winter weinig sediment -> **dunne, donkere kleilagen**
+	-> in zomer veel smeltwater -> **dikkere & blekere silt- en zandlagen**
 - Goede indicator om evenementen (grondverschuivingen) te dateren
 #### Dendrochronologie
 - Jaarringen bomen
