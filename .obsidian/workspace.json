@@ -23,8 +23,12 @@
             "id": "70af7d39368d9760",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Geologie/Hoofdstuk 3.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ],
@@ -123,6 +127,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Geologie/Hoofdstuk 3.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -139,6 +144,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Geologie/Hoofdstuk 3.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -149,7 +155,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Geologie/Hoofdstuk 3.md"
+              }
             }
           }
         ]
