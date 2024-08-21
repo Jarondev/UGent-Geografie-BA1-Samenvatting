@@ -97,8 +97,8 @@ BELANGRIJK: systeem tijdens verval gesloten -> **juiste data**
 | Uranium-Lood       | U-238  | Pb-206  | 4.5Ga    | 10Ma - 4.6Ga | U-ertsen, magmatische & metamorfe gesteenten                                   |
 | Uranium-Lood       | U-235  | Pb-207  | 0.71Ga   | 10Ma-4.6Ga   | Idem                                                                           |
 | Thorium-Lood       | Th-232 | Pb-208  | 14.1Ga   | 10Ma-4.6Ga   | Zirkoon, uraniniet                                                             |
-| Kalium-Argon       | K-40   | Ar-40   | 1.3Ga    | 1Ma- 4.6Ga   | Biotiet, muscoviet, K-veldspaat, vulkanische & metamorfe gesteenten            |
 | Rubidium-Strontium | Rb-87  | Sr-87   | 47Ga     | 20Ma- 4.6Ga  | Biotiet, muscoviet, veldspaat, hoornbelnde, vulkanische & metamorfe gesteenten |
+| Kalium-Argon       | K-40   | Ar-40   | 1.3Ga    | 1Ma- 4.6Ga   | Biotiet, muscoviet, K-veldspaat, vulkanische & metamorfe gesteenten            |
 | Koolstof-14        | C-14   | N-14    | 5730     | 100-50.000   | Fossielen, papier, water, ijs, grotafzettingen                                 |
 ##### Uranium-lood
 - Vergelijken verschillende uraniumisotopen om ouderdom te verifieren
