@@ -218,6 +218,7 @@ Zendt elektromagnetishce puls uit die wordt rereflecteerd door oppervlak
 	- Electro-optisch (licht)
 	- Microgolf (radiogolven)
 # Waterpassing
+![[Pasted image 20240822202928.png|525]]
 ## Afstellen
 #### Grove horizontaliteitsstelling
 - Met **doosniveau**
@@ -279,6 +280,7 @@ Wet van Snellius-Descartes
 ## Componenten
 ### Elektronische compensator
 - Detecteert en corrigeert horizontale hellingen (1D en 2D)
+![[Pasted image 20240822203018.png]]
 ## Opstellen
 - **Eerste as verticaal** brengen
 	-> draaien aan regelschroeven
@@ -295,6 +297,7 @@ Wet van Snellius-Descartes
 ### Afstandsmeting
 - Met **laser**: baak wordt vervangen door prismareflector
 # GNSS
+![[Pasted image 20240822202836.png|325]]
 ## Werking
 **Code**: meet de tijd die het duurt voor een signal code om van de satelliet naar de ontvanger te reizen
 **Fase:** Meet het faseverschil van de draaggolf van het signaal tussen satelliet en ontvanger
