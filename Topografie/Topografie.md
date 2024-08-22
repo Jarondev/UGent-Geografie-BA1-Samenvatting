@@ -89,13 +89,13 @@
 | Barometrisch | 5-10m          |
 | GPS          | 3-5m           |
 ### Relatief
-| Naam          | Nauwkeurigheid |
-| ------------- | -------------- |
-| Barometrisch  | > 1m           |
-| GPS           | 20-50 mm/km    |
-| Trigonomisch  | 10-50 mm/km    |
-| Waterpassing  | 0,3-10 mm/km   |
-| Hydrostatisch | < 0,3 mm/km    |
+| Naam          | Nauwkeurigheid |     |
+| ------------- | -------------- | --- |
+| Barometrisch  | > 1m           |     |
+| GPS           | 20-50 mm/km    |     |
+| Trigonomisch  | 10-50 mm/km    |     |
+| Waterpassing  | 0,3-10 mm/km   |     |
+| Hydrostatisch | < 0,3 mm/km    |     |
 # Hoekmetingen
 ## Nauwkeurigheden
 | Naam       | Nauwkeurigheid | Dwarsafwijking op 100m |

@@ -75,3 +75,76 @@
 		- Afstelbaar in hoogte en horizontale zin
 - **Energievoorziening: batterijen**
 # Hoogtemetingen
+## Hulpmiddelen
+- Baaksteun
+- Doosniveau
+- Baakstatief
+## Types
+### Absoluut
+| Naam         | Nauwkeurigheid |
+| ------------ | -------------- |
+| Barometrisch | 5-10m          |
+| GPS          | 3-5m           |
+### Relatief
+| Naam          | Nauwkeurigheid |
+| ------------- | -------------- |
+| Barometrisch  | > 1m           |
+| GPS           | 20-50 mm/km    |
+| Trigonomisch  | 10-50 mm/km    |
+| Waterpassing  | 0,3-10 mm/km   |
+| Hydrostatisch | < 0,3 mm/km    |
+## Formule met aardkromming
+# Waterpassing
+## Afstellen
+#### Grove horizontaliteitsstelling
+- Met **doosniveau**
+#### Fijne horizontaliteitsstelling
+- Met buisniveau (handmatige toestellen)
+- Met compensator (**automatische** toestellen)
+### Aanbevelingen
+- Foutfactoren minimaliseren
+- Waterpastoestellen gebruiken met voldoende nauwkeurigheid
+	- Hogere precisie buisniveau of compensator
+	- Hogere optische vergrotingsfactor
+	- Invarbaak gebruiken met baaksteun
+- Viseerafstand beperken tot vergrotingsfactor
+## Fouten
+### Waarnemer
+- Verkeerde aflezing
+- Parallax bij aflezen
+### Instrumenten
+- Hellingsfout
+- Instrumentencontrole nodig om systematische afwijkingen vast te stellen
+- Niet-verticale baak, onjuiste lengte baak, verzakking baak, verwarming baak
+- Verzakking, verwarming waterpastoestel
+#### Berekenen hellingsfout
+- E = h * ((d1 - d2)/d)
+	- E = hellingsfout
+	- h = hoogteverschil tussen twee punten
+	- d1 = afstand naar eerste meetpunt
+	- d2 = afstand naar tweede meetpunt
+	- d = totale afstand tussen twee meetpunten
+### Atmosfeer
+- Refractie, ondulatie of luchttrilling
+#### Wet van **Snellius-Descartes**:
+- n * sin(i) = c
+	- n = brekingsindex 
+	- i = hoek met de normale op het scheidingsvlak tussen beide milieus
+## Formules
+### Enkelvoudige waterpassing
+- h = R - J - C
+	- h = hoogteverschil
+	- R = hoogte baak
+	- J = hoogte waterpastoestel
+	- C = correctie voor aardkromming
+#### Aardkromming
+- C = d^2 / 2R
+	- C = correctie voor aardkromming
+	- d = horizontale afstand instrument en meetpunt
+	- R = straal van de aarde (6371000m)
+## Nauwkeurigheid
+### Hoogtemetingen
+- **Geodetisch**: > 1  mm/km; < 25m afstand
+- **Ingenieurs**: 1-3 mm/km; < 50m afstand
+- **Bouw**: > 3 mm/km; < 100m afstand
+### Afstandsmetingen
