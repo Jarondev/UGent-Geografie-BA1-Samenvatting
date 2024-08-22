@@ -142,6 +142,8 @@
 	- C = correctie voor aardkromming
 	- d = horizontale afstand instrument en meetpunt
 	- R = straal van de aarde (6371000m)
+### Trigonomische hoogtemetingen
+
 ## Nauwkeurigheid
 ### Hoogtemetingen
 - **Geodetisch**: > 1  mm/km; < 25m afstand
