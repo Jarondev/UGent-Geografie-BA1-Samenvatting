@@ -168,11 +168,11 @@
 ### Veelhoeksmeting/polygonatie
 Coordinaten van onbekende punten meten volgens een veelhoekslijn + bepalen tussenpunten
 ### Vrije stationnering/resectie/zijwaardse insnijding
-Uitzetten van een gekend punt
+Uitzetten van een opgemeten punt door de richtingen te meten naar omliggende aansluitpunten
 ### Voorwaartse insnijding
 Coordinaten nieuw punt berekenen vanuit gekende punten
 ### Achterwaardse insnijding
-Coordinaten onbekend punt berekenen door omliggende referentiepunten te meten
+Coordinaten onbekend punt berekenen door omliggende aansluitpunten te meten
 ### Hoogtebepaling van een onbereikbaar punt
 Voorwaartse insnijding om planimetrische coordinaten N te bepalen + trigonomische hoogtebepaling
 # Afstandsmetingen
@@ -274,7 +274,6 @@ Wet van Snellius-Descartes
 | **Geodetisch** | < 1 mm/km | < 25m            |
 | **Ingenieurs** | 1-3 mm/km | < 50m            |
 | **Bouw**       | > 3 mm/km | < 100m           |
-### Afstandsmetingen
 # Totaalstation
 = **electronische theodoliet** + laserafstandsmeting = bijkomende sensoren..
 ## Componenten
