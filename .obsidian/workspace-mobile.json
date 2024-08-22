@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Geologie/Hoofdstuk 3.md",
-                "mode": "preview",
+                "file": "Topografie/Topografie.md",
+                "mode": "source",
                 "source": false
               }
             }
@@ -85,7 +85,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Geologie/Hoofdstuk 3.md",
+            "file": "Topografie/Topografie.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "Geologie/Hoofdstuk 3.md",
+            "file": "Topografie/Topografie.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -114,7 +114,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "Geologie/Hoofdstuk 3.md"
+            "file": "Topografie/Topografie.md"
           }
         }
       },
@@ -142,6 +142,12 @@
   },
   "active": "2430bc249a42eb49",
   "lastOpenFiles": [
+    "SEG/Pasted image 20240722211640.png",
+    "Geologie/Hoofdstuk 3.md",
+    "Untitled.canvas",
+    "Topografie/Pasted image 20240822202928.png",
+    "Topografie/Pasted image 20240822203013.png",
+    "Topografie/Pasted image 20240822202836.png",
     "/SEG/Pasted image 20240722211640.png",
     "/Untitled.canvas",
     "/Topografie/Topografie.md",
@@ -152,7 +158,6 @@
     "Geologie/Hoofdstuk 4.md",
     "Geologie/Partim S. Louwye.md",
     "Geologie/Hoofdstuk 2.md",
-    "Geologie/Hoofdstuk 3.md",
     "Geologie/Hoofdstuk 5.md",
     "Geologie/Begrippenlijst.md",
     "Economie/Economie.md",
@@ -162,12 +167,7 @@
     "Topografie/Topografie.md",
     "Topografie",
     "GIS/Pasted image 20240718201616.png",
-    "GIS/Pasted image 20240721132402.png",
-    "GIS/Pasted image 20240721135020.png",
     "GIS/GIS.md",
-    "GIS/Pasted image 20240721132314.png",
-    "GIS/Pasted image 20240721132330.png",
-    "GIS/Pasted image 20240719152605.png",
     "GIS",
     "Geologie",
     "/SEG/Hoofdstuk 5.md",
@@ -186,7 +186,6 @@
     "/Geologie",
     "/GIS",
     "Economie",
-    "SEG",
-    "Untitled.canvas"
+    "SEG"
   ]
 }
