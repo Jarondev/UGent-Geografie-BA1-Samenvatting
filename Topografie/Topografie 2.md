@@ -74,3 +74,4 @@
 			-> verplaatsbaar
 		- Afstelbaar in hoogte en horizontale zin
 - **Energievoorziening: batterijen**
+# Hoogtemetingen
