@@ -4,15 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "221ddd81b01f0662",
+        "id": "18f5bdbdbc9d7079",
         "type": "tabs",
         "children": [
           {
-            "id": "91fa02033e9ed9ec",
+            "id": "2430bc249a42eb49",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Geologie/Hoofdstuk 1.md",
+                "mode": "preview",
+                "source": false
+              }
             }
           }
         ]
@@ -40,7 +44,7 @@
         "state": {
           "type": "search",
           "state": {
-            "query": "",
+            "query": "geolo",
             "matchingCase": false,
             "explainSearch": false,
             "collapseAll": false,
@@ -81,6 +85,7 @@
         "state": {
           "type": "backlink",
           "state": {
+            "file": "Geologie/Hoofdstuk 1.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -97,6 +102,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
+            "file": "Geologie/Hoofdstuk 1.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -107,14 +113,25 @@
         "type": "leaf",
         "state": {
           "type": "outline",
+          "state": {
+            "file": "Geologie/Hoofdstuk 1.md"
+          }
+        }
+      },
+      {
+        "id": "672ee07a1849f57a",
+        "type": "leaf",
+        "state": {
+          "type": "git-view",
           "state": {}
         }
       }
     ],
-    "currentTab": 0
+    "currentTab": 3
   },
   "left-ribbon": {
     "hiddenItems": {
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
@@ -123,8 +140,50 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "91fa02033e9ed9ec",
+  "active": "2430bc249a42eb49",
   "lastOpenFiles": [
+    "Geologie/Begrippenlijst.md",
+    "Geologie/Hoofdstuk 2.md",
+    "Geologie/Partim S. Louwye.md",
+    "Economie/Economie.md",
+    "SEG/Hoofdstuk 5.md",
+    "Pasted image 20240722211640.png",
+    "SEG/Hoofdstuk 4.md",
+    "Topografie/Topografie.md",
+    "Topografie",
+    "GIS/Pasted image 20240718201616.png",
+    "GIS/Pasted image 20240721132402.png",
+    "GIS/Pasted image 20240721135020.png",
+    "GIS/GIS.md",
+    "GIS/Pasted image 20240721132314.png",
+    "GIS/Pasted image 20240721132330.png",
+    "GIS/Pasted image 20240719152605.png",
+    "GIS/Pasted image 20240721132257.png",
+    "GIS/Pasted image 20240721120446.png",
+    "GIS/Pasted image 20240721122906.png",
+    "GIS",
+    "Geologie/Hoofdstuk 3.md",
+    "Geologie/Hoofdstuk 4.md",
+    "Geologie/Hoofdstuk 1.md",
+    "Geologie/Hoofdstuk 5.md",
+    "Geologie",
+    "/Topografie/Topografie.md",
+    "/SEG/Hoofdstuk 5.md",
+    "/SEG/Hoofdstuk 4.md",
+    "/SEG/Hoofdstuk 3.md",
+    "/Geologie/Partim S. Louwye.md",
+    "/Geologie/Hoofdstuk 5.md",
+    "/Geologie/Hoofdstuk 4.md",
+    "/Geologie/Hoofdstuk 3.md",
+    "/Geologie/Hoofdstuk 2.md",
+    "/Geologie/Hoofdstuk 1.md",
+    "/Geologie/Begrippenlijst.md",
+    "/GIS/GIS.md",
+    "/Economie/Economie.md",
+    "/Topografie",
+    "/Geologie",
+    "/GIS",
+    "README.md",
     "Economie",
     "SEG",
     "Untitled.canvas"
