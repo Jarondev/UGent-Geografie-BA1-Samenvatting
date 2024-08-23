@@ -281,7 +281,6 @@ Wet van Snellius-Descartes
 ## Componenten
 ### Elektronische compensator
 - Detecteert en corrigeert horizontale hellingen (1D en 2D)
-![[Pasted image 20240822203018.png]]
 ## Opstellen
 - **Eerste as verticaal** brengen
 	-> draaien aan regelschroeven
