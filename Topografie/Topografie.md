@@ -148,8 +148,8 @@
 | Waterpassing  | 0,3-10 mm/km   |
 | Hydrostatisch | < 0,3 mm/km    |
 ### Trigonomische hoogtemetingen
-- ΔH<sub>AB</sub> = h<sub>A</sub> - h<sub>B</sub> + L.cos(θ) + (L * sin(θ))<sup>2</sup> / 2R
-	- H<sub>AB</sub> = hoogteverschil tussen punt A en B
+- H= h<sub>A</sub> - h<sub>B</sub> + L.cos(θ) + (L * sin(θ))<sup>2</sup> / 2R
+	- H = hoogteverschil tussen punt A en B
 	- h<sub>A</sub> = hoogte punt A
 	- h<sub>B</sub> = hoogte punt B
 	- L = horizontale afstand tussen punt A en B
@@ -277,10 +277,10 @@ Wet van Snellius-Descartes
 | **Bouw**       | > 3 mm/km | < 100m           |
 # Totaalstation
 = **electronische theodoliet** + laserafstandsmeting = bijkomende sensoren..
+![[Pasted image 20240822203013.png]]
 ## Componenten
 ### Elektronische compensator
 - Detecteert en corrigeert horizontale hellingen (1D en 2D)
-![[Pasted image 20240822203018.png]]
 ## Opstellen
 - **Eerste as verticaal** brengen
 	-> draaien aan regelschroeven
