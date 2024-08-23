@@ -28,7 +28,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Topografie/Topografie.md",
+                "file": "SEG/Hoofdstuk 1.md",
                 "mode": "source",
                 "source": false
               }
@@ -112,7 +112,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Topografie/Topografie.md",
+                "file": "SEG/Hoofdstuk 1.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -129,7 +129,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Topografie/Topografie.md",
+                "file": "SEG/Hoofdstuk 1.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -141,7 +141,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Topografie/Topografie.md"
+                "file": "SEG/Hoofdstuk 1.md"
               }
             }
           }
@@ -164,20 +164,22 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "fd4359023a3f4657",
+  "active": "4dd2637513d3230c",
   "lastOpenFiles": [
+    "SEG/Hoofdstuk 3.md",
+    "SEG/SEG.md",
+    "SEG/Hoofdstuk 2.md",
+    "SEG/Hoofdstuk 1.md",
+    "GIS/GIS.md",
+    "SEG/Begrippenlijst.md",
+    "Topografie/Topografie.md",
     "Untitled.canvas",
     "Pasted image 20240822203018.png",
     "Topografie/Pasted image 20240822203013.png",
     "Topografie/Pasted image 20240822202928.png",
     "Topografie/Pasted image 20240822202836.png",
-    "Topografie/Topografie.md",
-    "Topografie/Topografie.md",
     "Geologie/Hoofdstuk 5.md",
-    "SEG/Hoofdstuk 1.md",
-    "SEG/Begrippenlijst.md",
     "conflict-files-obsidian-git.md",
-    "GIS/GIS.md",
     "README.md",
     "SEG/Pasted image 20240722211640.png",
     "Geologie/Partim S. Louwye.md",
@@ -185,9 +187,7 @@
     "Geologie/Hoofdstuk 1.md",
     "Geologie/Begrippenlijst.md",
     "SEG/Hoofdstuk 5.md",
-    "SEG/Hoofdstuk 3.md",
     "SEG/Hoofdstuk 4.md",
-    "SEG/Hoofdstuk 2.md",
     "Geologie/Hoofdstuk 4.md",
     "Geologie/Hoofdstuk 3.md",
     "Geologie/Pasted image 20240715190411.png",

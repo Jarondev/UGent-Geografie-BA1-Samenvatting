@@ -1,18 +1,5 @@
 # Inleiding
 
-- [[#Europa|Europa]]
-	- [[#Europa#Grenzen|Grenzen]]
-	- [[#Europa#Als continent:|Als continent:]]
-- [[#België|België]]
-	- [[#België#1. Barsten|1. Barsten]]
-		- [[#1. Barsten#Sociaal-economische factoren|Sociaal-economische factoren]]
-	- [[#België#2. Bestaat Vlaanderen?|2. Bestaat Vlaanderen?]]
-		- [[#2. Bestaat Vlaanderen?#Verschillende grenzen:|Verschillende grenzen:]]
-	- [[#België#3. Ontstaan tweespalt|3. Ontstaan tweespalt]]
-		- [[#3. Ontstaan tweespalt#Economisch|Economisch]]
-		- [[#3. Ontstaan tweespalt#Taal & cultuur|Taal & cultuur]]
-		- [[#3. Ontstaan tweespalt#Politiek|Politiek]]
-
 ## Europa
 ### Grenzen
 - Oeral-gebergte : Rusland

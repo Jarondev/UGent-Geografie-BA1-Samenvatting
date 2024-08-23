@@ -1,18 +1,4 @@
 # Bevolking
-
-- [[#Huidig spreidingspatroon|Huidig spreidingspatroon]]
-- [[#Oorsprong & grote migraties|Oorsprong & grote migraties]]
-	- [[#Oorsprong & grote migraties#Grote migraties|Grote migraties]]
-	- [[#Oorsprong & grote migraties#Redenen migratie:|Redenen migratie:]]
-		- [[#Redenen migratie:#China: the great opening:|China: the great opening:]]
-- [[#Dynamiek natuurlijke aangroei|Dynamiek natuurlijke aangroei]]
-		- [[#Redenen migratie:#Groei & draagkracht -> r & K!|Groei & draagkracht -> r & K!]]
-			- [[#Groei & draagkracht -> r & K!#Kunnen wijzigen door:|Kunnen wijzigen door:]]
-		- [[#Redenen migratie:#Demografische transitie|Demografische transitie]]
-			- [[#Demografische transitie#Fases:|Fases:]]
-			- [[#Demografische transitie#Redenen:|Redenen:]]
-
-
 ## Huidig spreidingspatroon
  - Ongelijk (Lorenz-curve & Gini-coefficient)
  - Veel mensen op 1 plaats:
