@@ -15,8 +15,8 @@
               "state": {
                 "file": "SEG/Summary.canvas",
                 "viewState": {
-                  "x": 450.5523660773207,
-                  "y": 1681.7840844764064,
+                  "x": 220.03981446497232,
+                  "y": 2191.256363972405,
                   "zoom": -1.1482651671874935
                 }
               }
@@ -163,8 +163,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 432,
-    "collapsed": true
+    "width": 432
   },
   "left-ribbon": {
     "hiddenItems": {

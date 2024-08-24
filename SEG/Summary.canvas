@@ -5,6 +5,7 @@
 		{"id":"d95782ed3400745e","type":"group","x":340,"y":-520,"width":1920,"height":1180,"color":"4","label":"Oorsprong en verspreiding"},
 		{"id":"6f3cfb36fbc2f270","type":"group","x":680,"y":840,"width":1540,"height":1340,"color":"4","label":"Relaties"},
 		{"id":"903a999ae3562cb1","type":"group","x":-440,"y":840,"width":1080,"height":1040,"color":"4","label":"Typologieen"},
+		{"id":"16141ce7c882efba","x":-440,"y":2000,"width":1080,"height":1000,"color":"4","type":"group","label":"Mijn- & landbouw"},
 		{"id":"c758b896cf1d05fc","type":"group","x":2320,"y":-520,"width":500,"height":1180,"color":"4","label":"Dynamiek van de natuurlijke aangroei"},
 		{"id":"8e4bd3a09d5c9583","type":"group","x":-480,"y":-520,"width":700,"height":800,"color":"6","label":"Hoofdstuk 1: Europa in het continentale schema"},
 		{"id":"db1556fbac9f4c20","type":"group","x":1260,"y":900,"width":920,"height":599,"color":"5","label":"Bevolkingsgroei"},
