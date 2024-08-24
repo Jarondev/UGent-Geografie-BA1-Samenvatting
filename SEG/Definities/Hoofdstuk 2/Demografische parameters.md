@@ -1,0 +1,4 @@
+- Nataliteit
+- Mortaliteit
+- Groeiritme ((natalteit-mortaliteit)/bevolking)
+- Fertiliteit

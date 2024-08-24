@@ -22,3 +22,5 @@
 | Space-time compression     | Technologische vooruitgang en globalisering verminderen betekenis afstands- en tijdsbarrieres tussen plaatsen                                            |
 | Technologisch determinisme | Binden sociale & economische concepten aan technologie                                                                                                   |
 | Diaspora                   | Verspreiding weg van originele thuisland, meestal gedwongen                                                                                              |
+| Allometrisch               | Verschillende aangroei in verschillende delen van populatie                                                                                              |
+| Neolithische revolutie     | Landbouwrevolutie ~10.000j geleden, valt samen met warmere periode na laatste glaciaal maximum                                                           |

@@ -1,0 +1,3 @@
+- Eerst agrarisch
+- Grote verschillen in soorten stad
+	-> handelscentra, heilige steden, politieke hoofdsteden..

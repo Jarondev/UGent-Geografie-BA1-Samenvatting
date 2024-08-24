@@ -1,43 +1,5 @@
 # Gebruik fysisch milieu
-## Typologieën
 
-### 1. Op basis van gebruik
-**Volgens toenemende complexiteit/bevolkingsdichtheid/intensiteit gebruik fysisch milieu:**
-#### Jagers/verzamelaars
- - Nomadisch
- - Andere focus afhankelijk van breedtegraad (jagen, vissen, planten)
- - Niet duurzaam
- - Laatste 500 jaar sterk afgenomen
-#### Herdersvolkeren
- - Hoeden van dieren -> basis eten & kledij
- - Komt vandaag voor in semi-aride, sub-arctische & sub-alpine gebieden
-#### Agrarische samenleving
-- Na neolithische revolutie
-- Grote effecten fysisch milieu (terrasbouw, irrigatie, erosie...)
-- Voedselsurplus zorgt voor ambacht & handel
-#### Stedelijke samenleving
-- Eerst agrarisch
-- Grote verschillen in soorten steden (handelscentra, heilige steden, politieke hoofdsteden,..)
-### 2. Op basis van natuur, arbeid & maatschappij
-**Ideaaltypes hangen af van:**
-- Hoe directe producenten toegang krijgen tot productiemiddelen
-- Hoe degenen die arbeid controleren, economisch surplus toe-eigenen
-- Hoe het resterende surplus wordt verdeeld
-#### Maagschap (bloedverwant)
-- Vorm van solidariteit
-- Surplus wordt uitgewisseld volgens behoeften
-#### Op schatting gebaseerd (belastingen)
-- Heersende klasse monopoliseert politieke organisatie en haalt surplus binnen
-- Vordert schatting/tribuut van gemeenschap
-- Vaak voorkomend in veel landbouwbeschavingen (Middeleeuwen)
-#### Centraal geleide planeconomie (communisme)
-- Productiemiddelen in handen van centrale instantie
-- Instantie beslist alles
-#### Markteconomie (kapitalisme)
-- Productie op basis van vraag consument
-- Inbreiding: nieuwe 'producten' die niet tastbaar zijn
-- Uitbreiding: wegwerken handelsbarrieres/douane
-	-> nadeel voor lokale markten
 ## Fysisch milieu & ontwikkeling
 ### Meten ontwikkeling
 - BNP/BBP per capita

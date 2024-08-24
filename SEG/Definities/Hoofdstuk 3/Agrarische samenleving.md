@@ -1,0 +1,4 @@
+- **Na *neolithische revolutie***
+- Grote **effecten fysisch milieu** (terrasbouw, irrigatie, erosie..)
+- Voedselsurplus zorgt voor **ambacht & handel**
+- Ontstaan op verschillende plaatsen 

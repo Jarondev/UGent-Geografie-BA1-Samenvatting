@@ -1,0 +1,5 @@
+- Productie op basis vraag consument
+- **Inbreiding**: nieuwe producten die niet tastbaar zijn
+	-> verkopen 'propere lucht'
+- **Uitbreiding**: wegwerken handelsbarrieres/douane
+	-> nadeel lokale markt

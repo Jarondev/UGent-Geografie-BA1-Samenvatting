@@ -1,0 +1,2 @@
+- Hoeden van **dieren** voor basis **eten** & **kledij**
+- Vandaag in semi-aride, sub-arctische & sub-alpine gebieden

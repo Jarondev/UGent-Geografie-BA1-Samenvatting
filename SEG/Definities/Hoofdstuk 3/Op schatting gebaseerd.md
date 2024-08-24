@@ -1,0 +1,3 @@
+- **Heersende klasse monopoliseert** politiek en haalt surplus binnen
+- **Vordert schatting/tribuut** van gemeenschap
+- Vaak voorkomend in veel **landbouwbeschavingen** (Middeleeuwen)

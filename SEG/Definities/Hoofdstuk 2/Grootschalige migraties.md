@@ -7,4 +7,4 @@
 - India & China in Azie (ook Afrika en west-VS)
 - Kolonisatie Oost-VS -> West-VS
 - Russificatie Sovjet-Unie
-- **Diaspora** Joodse, Libanese, Indische,... bevolking (meestal naar VS)
+- ***Diaspora*** Joodse, Libanese, Indische,... bevolking (meestal naar VS)

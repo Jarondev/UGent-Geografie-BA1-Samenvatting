@@ -1,4 +1,4 @@
-*Moleculaire klok* en **fossielen** gebruikt om analyses te maken
+***Moleculaire klok*** en **fossielen** gebruikt om analyses te maken
 
 Onderwerp van wetenschappelijk debat door:
 - Kennis sterk **afhankelijk van** (toevallige) **archeologische vondsten**

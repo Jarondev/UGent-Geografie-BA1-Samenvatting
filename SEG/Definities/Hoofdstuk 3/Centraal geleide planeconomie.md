@@ -1,0 +1,2 @@
+- Productiemiddelen in handen van **centrale instantie**
+- **Instantie beslist alles**
