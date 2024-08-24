@@ -2,5 +2,6 @@
   "showInlineTitle": true,
   "showLineNumber": false,
   "rightToLeft": false,
-  "spellcheck": false
+  "spellcheck": false,
+  "alwaysUpdateLinks": true
 }
