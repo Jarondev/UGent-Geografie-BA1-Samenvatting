@@ -1,21 +1,5 @@
 # Gebruik fysisch milieu
-## Fysisch milieu & ecologische problemen
-### Perspectieven
-#### Cornucopia
-- We vinden wel een oplossing (korte termijn), er is geen structurele crisis
-#### Ecoscarcity
-- We stevenen af op ramp, natuur is begrensd
-#### Bredere milieucrisis 
-- Niet internaliseren van externe kosten
-- Gebruik maken fysisch milieu op voorwaarde dat we effecten internaliseren
-	- bv. boetes op vervuiling
-#### Incompatibiliteitscrisis
-- Internaliseren externe kosten is op lange termijn niet haalbaar
-#### Ecotransitie/Ecologische modernisering
-- Meer aandachtig omgaan met fysisch milieu d.m.v. technologische vooruitgang, milieubewustzijn en beloningen door overheid
-#### Politieke ecologie
-- Milieuprobleem is deel van maatschappij (ecologische problemen bestaan niet)
-- We kunnen niet andere landen afstraffen voor dingen wat we zelf hebben gedaan (industriële revolutie)
+
 ## Mijnbouw & landbouw
 
 ### Mijnbouw
