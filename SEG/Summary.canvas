@@ -1,0 +1,26 @@
+{
+	"nodes":[
+		{"id":"64cb51b851e779fc","type":"group","x":240,"y":-580,"width":1920,"height":1160,"label":"Hoofdstuk 2: Verspreiding van de bevolking"},
+		{"id":"8e4bd3a09d5c9583","type":"group","x":-480,"y":-580,"width":700,"height":800,"label":"Hoofdstuk 1: Europa in het continentale schema"},
+		{"id":"e2732f96897d0fe8","type":"file","file":"SEG/Definities/Europa.md","x":-460,"y":-540,"width":280,"height":280},
+		{"id":"f9a55ed1c8191658","type":"file","file":"SEG/Definities/Belgie.md","x":-140,"y":-540,"width":300,"height":360},
+		{"id":"f6b8c26d0e6b0f23","type":"file","file":"SEG/Definities/Vlaanderen.md","x":-140,"y":-140,"width":300,"height":330},
+		{"id":"d3425092363f309b","type":"file","file":"SEG/Definities/Vlaamse tweespalt.md","x":-460,"y":-230,"width":280,"height":420},
+		{"id":"af76222748b562a6","type":"file","file":"SEG/Definities/Hedendaagse differentiatie binnen mens.md","x":280,"y":-540,"width":380,"height":440},
+		{"id":"5f2b189384ae29c2","type":"file","file":"SEG/Definities/Hypotheses oorsprong mens.md","x":280,"y":-40,"width":380,"height":360},
+		{"id":"93ecd739650e2c48","type":"file","file":"SEG/Definities/Oorsprong mens.md","x":820,"y":-540,"width":380,"height":340},
+		{"id":"795fc8872be5900a","type":"file","file":"SEG/Definities/Grootschalige migraties.md","x":780,"y":-60,"width":380,"height":460},
+		{"id":"1fd9fd05fdcea9a9","type":"file","file":"SEG/Definities/Spreidingspatroon.md","x":1280,"y":-540,"width":398,"height":340},
+		{"id":"be6b88f251bad1b2","x":1280,"y":-100,"width":398,"height":275,"type":"file","file":"SEG/Definities/Hedendaagse bevolkingsmix.md"}
+	],
+	"edges":[
+		{"id":"0bc613ea815d8f14","fromNode":"e2732f96897d0fe8","fromSide":"right","toNode":"f9a55ed1c8191658","toSide":"left"},
+		{"id":"6bc5cc6801ed33b9","fromNode":"f9a55ed1c8191658","fromSide":"bottom","toNode":"f6b8c26d0e6b0f23","toSide":"top"},
+		{"id":"7e804e7670b61692","fromNode":"f6b8c26d0e6b0f23","fromSide":"left","toNode":"d3425092363f309b","toSide":"right"},
+		{"id":"667b4a5cc19a2573","fromNode":"93ecd739650e2c48","fromSide":"left","toNode":"af76222748b562a6","toSide":"right"},
+		{"id":"a21ec22803af9f64","fromNode":"93ecd739650e2c48","fromSide":"left","toNode":"5f2b189384ae29c2","toSide":"right"},
+		{"id":"80b081f19132276f","fromNode":"93ecd739650e2c48","fromSide":"right","toNode":"1fd9fd05fdcea9a9","toSide":"left"},
+		{"id":"2cd16836b3869a76","fromNode":"93ecd739650e2c48","fromSide":"bottom","toNode":"795fc8872be5900a","toSide":"top"},
+		{"id":"0784aad07c8a950f","fromNode":"795fc8872be5900a","fromSide":"right","toNode":"be6b88f251bad1b2","toSide":"left"}
+	]
+}

@@ -13,11 +13,11 @@
             "state": {
               "type": "canvas",
               "state": {
-                "file": "SEG/Untitled 2.canvas",
+                "file": "SEG/Summary.canvas",
                 "viewState": {
-                  "x": 27.4285888671875,
-                  "y": -156.00933267363723,
-                  "zoom": 0
+                  "x": 1333.7055708428065,
+                  "y": 142.01083094331642,
+                  "zoom": -0.08645365851890974
                 }
               }
             }
@@ -117,7 +117,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "SEG/Untitled 2.canvas",
+                "file": "SEG/Summary.canvas",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -134,7 +134,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "SEG/Untitled 2.canvas",
+                "file": "SEG/Summary.canvas",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -146,7 +146,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "SEG/Untitled 2.canvas"
+                "file": "SEG/Summary.canvas"
               }
             }
           },
@@ -179,23 +179,32 @@
   },
   "active": "7110f6ae794ac6b4",
   "lastOpenFiles": [
-    "SEG/Hoofdstuk 2.md",
-    "SEG/Hoofdstuk 1.md",
+    "SEG/Definities/Hedendaagse bevolkingsmix.md",
+    "SEG/Summary.canvas",
+    "SEG/Definities/Spreidingspatroon.md",
+    "SEG/Begrippenlijst.md",
+    "SEG/Definities/Grootschalige migraties.md",
+    "SEG/Definities/Hedendaagse differentiatie binnen mens.md",
     "SEG/Definities/Vlaamse tweespalt.md",
-    "SEG/Untitled 2.canvas",
+    "SEG/Definities/Hypotheses oorsprong mens.md",
+    "SEG/Definities/Oorsprong mens.md",
+    "SEG/Hoofdstuk 2.md",
+    "SEG/Definities/Vlaanderen.md",
+    "SEG/Definities/Belgie.md",
+    "SEG/Definities/Europa.md",
+    "SEG/Pasted image 20240722211640.png",
+    "GIS/GIS.md",
+    "SEG/Definities/Sociaal-economisch.md",
+    "SEG/Hoofdstuk 1.md",
+    "SEG/Hoofdstuk 3.md",
+    "SEG/Hoofdstuk 4.md",
+    "SEG/Hoofdstuk 5.md",
+    "SEG/Definities/Grens.md",
     "Untitled 1.canvas",
     "Untitled.canvas",
-    "SEG/Definities/Vlaanderen.md",
-    "SEG/Definities/Europa.md",
-    "SEG/Hoofdstuk 3.md",
-    "SEG/Definities/Belgie.md",
-    "SEG/Definities/Grens.md",
-    "SEG/Definities/Sociaal-economisch.md",
-    "SEG/Begrippenlijst.md",
     "SEG/Definities",
     "conflict-files-obsidian-git.md",
     "SEG/SEG.md",
-    "GIS/GIS.md",
     "Topografie/Topografie.md",
     "Pasted image 20240822203018.png",
     "Topografie/Pasted image 20240822203013.png",
@@ -203,17 +212,8 @@
     "Topografie/Pasted image 20240822202836.png",
     "Geologie/Hoofdstuk 5.md",
     "README.md",
-    "SEG/Pasted image 20240722211640.png",
     "Geologie/Partim S. Louwye.md",
-    "Geologie/Hoofdstuk 2.md",
-    "Geologie/Hoofdstuk 1.md",
-    "Geologie/Begrippenlijst.md",
-    "SEG/Hoofdstuk 5.md",
-    "SEG/Hoofdstuk 4.md",
-    "Geologie/Hoofdstuk 4.md",
-    "Geologie/Hoofdstuk 3.md",
     "Geologie/Pasted image 20240715190411.png",
-    "Economie/Economie.md",
     "Topografie",
     "GIS/Pasted image 20240721135020.png",
     "GIS/Pasted image 20240721132257.png",
