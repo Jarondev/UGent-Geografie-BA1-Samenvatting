@@ -6,7 +6,7 @@
 | Fysisch determinisme       | Binden sociale & economische concepten aan fysische geografie<br>	-> bv: in Afrika is het warm dus mensen zijn lui                                       |
 | GATT                       | General Agreement on Tarrifs and Trade: samenwerkingsovereenkomst na WO2 met oog op regulering wereldhandel                                              |
 | Gini-coefficient           | Cijfer tussen 0 en 1 die Lorenz-curve aantoont (0 = perfecte inkomensgelijkheid, 1 = perfecte ongelijkheid)                                              |
-| Great-acceleration         | Versnelling socio-economische & biofysische trends na 1950                                                                                               |
+| Great-acceleration         | Term die verwijst naar versnelling socio-economische & biofysische trends na 1950                                                                        |
 | Handelsoverschotten        | Export - import                                                                                                                                          |
 | Hegemonie                  | Overheersende positie van een staat, groep of cultuur                                                                                                    |
 | Kondratieffgolven          | Economische cycli van 50 a 60 jaar met periodes van innovatie en groei, gevolgd door correctie en neergang                                               |
@@ -17,10 +17,13 @@
 | Neolithische revolutie     | Landbouwrevolutie na laatste glaciaal maximum                                                                                                            |
 | Oecumene wereld            | Bewoonde wereld                                                                                                                                          |
 | OPEC                       | Organization of the Petroleum Exporting Countries                                                                                                        |
-| Planetaire verstedelijking | Verstedelijking die hele aarde beinvloedt                                                                                                                |
+| Planetaire verstedelijking | Verstedelijkingsprocessen beinvloeden hele planeet                                                                                                       |
 | Productieregimes           | Veranderende organisatie van de economische productie                                                                                                    |
 | Space-time compression     | Technologische vooruitgang en globalisering verminderen betekenis afstands- en tijdsbarrieres tussen plaatsen                                            |
 | Technologisch determinisme | Binden sociale & economische concepten aan technologie                                                                                                   |
 | Diaspora                   | Verspreiding weg van originele thuisland, meestal gedwongen                                                                                              |
 | Allometrisch               | Verschillende aangroei in verschillende delen van populatie                                                                                              |
 | Neolithische revolutie     | Landbouwrevolutie ~10.000j geleden, valt samen met warmere periode na laatste glaciaal maximum                                                           |
+| PPP                        | Purchasing Power Parity: Prijsverschil                                                                                                                   |
+| Capability approach        | Concept om het dagelijkse leven van mensen in acht te nemen bij het meten van ontwikkeling (vb. HDI)                                                     |
+| Malthusian trap            | Mensheid zal op rand van een ramp balanceren door overmatig gebruik fysisch milieu die leidt tot rampscenario's m.b.t. draagkracht                       |

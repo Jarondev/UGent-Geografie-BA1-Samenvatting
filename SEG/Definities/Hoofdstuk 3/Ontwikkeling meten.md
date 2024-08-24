@@ -1,0 +1,5 @@
+- **BNP/BBP** per capita
+- **HDI**
+- ***Lorenz-curve & GINI-coefficient*** (verdeling welvaart)
+- ***PPP*** (prijsverschil voor zelfde product)
+- ***Capability approach*** (belang dagelijkse leven)

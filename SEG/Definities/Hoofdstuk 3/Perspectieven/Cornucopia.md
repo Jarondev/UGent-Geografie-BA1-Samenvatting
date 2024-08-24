@@ -1,0 +1,1 @@
+**We vinden wel een oplossing** op korte termijn, er is geen structurele crisis

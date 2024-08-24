@@ -1,0 +1,3 @@
+- Milieuprobleem is **deel van maatschappij** (ecologische problemen bestaan niet)
+- Anderen kunnen niet afgestraft worden voor dingen dat we zelf hebben gedaan
+	-> bv. industriele revolutie

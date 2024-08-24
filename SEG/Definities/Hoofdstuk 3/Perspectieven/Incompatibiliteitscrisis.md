@@ -1,0 +1,1 @@
+**Internaliseren externe kosten niet haalbaar** op lange termijn: grotere probleem niet aangepakt

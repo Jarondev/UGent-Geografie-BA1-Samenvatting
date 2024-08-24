@@ -1,25 +1,4 @@
 # Gebruik fysisch milieu
-
-## Fysisch milieu & ontwikkeling
-### Meten ontwikkeling
-- BNP/BBP per capita
-- HDI
-- GINI (vordering welvaart)
-- PPP (prijsverschil voor zelfde product)
-- Capability approach (dagelijkse leven)
-## Fysisch milieu & bevolking
-### Neo-Malthusianisme
-**Bevolking neemt exponentieel toe -> voedselproductie niet -> rampscenario 
-Oplossing: bevolking vrijwillig beperken**
-##### Kritiek: 
-- Ontwikkelingslanden mogen niet ontwikkelen (CO2)
-- Draagkracht aarde is dynamisch omwille van technologische innovatie
-- We zijn innovatief en zullen nieuwe dingen uitvinden
-### Boserup-Geertz
-**Groei kan positief effect hebben -> er wordt meer nagedacht over efficientie**
-##### Kritiek: 
-- Levenskwaliteit niet mee in acht gehouden
-- Meer uitzondering dan regel
 ## Fysisch milieu & ecologische problemen
 ### Perspectieven
 #### Cornucopia
