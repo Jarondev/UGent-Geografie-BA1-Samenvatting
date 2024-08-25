@@ -1,28 +1,5 @@
 # Gebruik fysisch milieu
-## Handel en buitenlandse investeringen
 
-- Handel stijgt sneller dan totale industriele productie
-- Vrijmaking wereldhandel via WHO blijft onvolledig:
-	- WHO-landbouwakkoord houdt veel ruimte over voor subsidies en andere bescherming
-	- Sommige vormen zijn niet te dereguleren
-	- WHO nog steeds onvolledig ('observers')
-### TTIP
-- Douane/handelsbarrières wegwerken
-- Overheid dwingt af op algemene regels
-	-> kan afschermen door bv. subsidies
-#### Nadelen: 
-- Nadeel voor lokale markten
-- Bedrijven krijgen meer macht
-### Foreign Direct Investment (FDI)
-- Buitenlandse investeringen met het oog tot verkrijgen van controle over andere firma
-	-> Mergers & acquisitions
-	-> Opzetten nieuwe vestiging
-- Portfolio investment
-#### Aantrekkelijkheid landen voor FDI
-- Omvang plaatselijke macht (grotere markt aantrekkelijker)
-- Aanwezigheid hulpbronnen
-- Openheid wereldeconomie
-- Bereikbaarheid
 ## Technologie en transport
 
 - Technologie een van belangrijkste katalysator in economisch-geografische vooruitgang

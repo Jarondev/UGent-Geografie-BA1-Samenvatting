@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "SEG/Definities/Hoofdstuk 3/Handel en buitenlandse investeringen/Huidige situatie.md",
+                "file": "SEG/Definities/Hoofdstuk 3/Technologie en transport.md",
                 "mode": "source",
                 "source": false
               }
@@ -114,7 +114,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "SEG/Definities/Hoofdstuk 3/Handel en buitenlandse investeringen/Huidige situatie.md",
+                "file": "SEG/Definities/Hoofdstuk 3/Technologie en transport.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -131,7 +131,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "SEG/Definities/Hoofdstuk 3/Handel en buitenlandse investeringen/Huidige situatie.md",
+                "file": "SEG/Definities/Hoofdstuk 3/Technologie en transport.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -143,7 +143,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "SEG/Definities/Hoofdstuk 3/Handel en buitenlandse investeringen/Huidige situatie.md"
+                "file": "SEG/Definities/Hoofdstuk 3/Technologie en transport.md"
               }
             }
           },
@@ -177,8 +177,10 @@
   "active": "f6fc335f908021a1",
   "lastOpenFiles": [
     "SEG/Hoofdstuk 3.md",
-    "SEG/Definities/Hoofdstuk 3/Handel en buitenlandse investeringen/Huidige situatie.md",
+    "SEG/Definities/Hoofdstuk 3/Technologie en transport.md",
     "SEG/Summary.canvas",
+    "SEG/Definities/Hoofdstuk 3/Handel en buitenlandse investeringen/Foreign Direct Investment (FDI).md",
+    "SEG/Definities/Hoofdstuk 3/Handel en buitenlandse investeringen/Huidige situatie.md",
     "SEG/Definities/Hoofdstuk 3/Handel en buitenlandse investeringen",
     "SEG/Definities/Hoofdstuk 3/Industriele productie en dienstverlening.md",
     "SEG/Definities/Hoofdstuk 3/Landbouw/Rol van de overheid.md",
@@ -206,8 +208,6 @@
     "SEG/Definities/Hoofdstuk 3/Relaties/Perspectieven/Ecotransitie.md",
     "SEG/Definities/Hoofdstuk 3/Relaties/Perspectieven/Internaliseren externe kosten.md",
     "SEG/Definities/Hoofdstuk 3/Relaties/Perspectieven/Incompatibiliteitscrisis.md",
-    "SEG/Definities/Hoofdstuk 3/Relaties/Perspectieven/Ecoscarcity.md",
-    "SEG/Definities/Hoofdstuk 3/Relaties/Perspectieven/Cornucopia.md",
     "SEG/Definities/Hoofdstuk 3/Relaties/Perspectieven",
     "SEG/Definities/Hoofdstuk 3",
     "SEG/Definities/Hoofdstuk 2",
