@@ -15,9 +15,9 @@
               "state": {
                 "file": "SEG/Summary.canvas",
                 "viewState": {
-                  "x": 1881.6111006067156,
-                  "y": 2261.1685474152264,
-                  "zoom": -2.1828275142594253
+                  "x": 856.7402729775063,
+                  "y": 3612.5002447195943,
+                  "zoom": -1.8403025147649497
                 }
               }
             }
@@ -34,7 +34,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "SEG/Hoofdstuk 3.md",
+                "file": "SEG/Hoofdstuk 4.md",
                 "mode": "source",
                 "source": false
               }
@@ -117,7 +117,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "SEG/Definities/Hoofdstuk 3/Technologie en transport.md",
+                "file": "SEG/Summary.canvas",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -134,7 +134,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "SEG/Definities/Hoofdstuk 3/Technologie en transport.md",
+                "file": "SEG/Summary.canvas",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -146,7 +146,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "SEG/Definities/Hoofdstuk 3/Technologie en transport.md"
+                "file": "SEG/Summary.canvas"
               }
             }
           },
@@ -179,10 +179,16 @@
   },
   "active": "f6fc335f908021a1",
   "lastOpenFiles": [
-    "SEG/Begrippenlijst.md",
-    "SEG/Definities/Hoofdstuk 3/Technologie en transport.md",
+    "SEG/Hoofdstuk 4.md",
+    "SEG/Hoofdstuk 2.md",
+    "SEG/Hoofdstuk 1.md",
     "SEG/Hoofdstuk 3.md",
     "SEG/Summary.canvas",
+    "SEG/Definities/Hoofdstuk 3/Economische globalisering en productieregimes/Fordisme.md",
+    "SEG/Definities/Hoofdstuk 3/Economische globalisering en productieregimes/Post-Fordisme.md",
+    "SEG/Definities/Hoofdstuk 3/Economische globalisering en productieregimes",
+    "SEG/Begrippenlijst.md",
+    "SEG/Definities/Hoofdstuk 3/Technologie en transport.md",
     "SEG/Definities/Hoofdstuk 3/Handel en buitenlandse investeringen/Foreign Direct Investment (FDI).md",
     "SEG/Definities/Hoofdstuk 3/Handel en buitenlandse investeringen/Huidige situatie.md",
     "SEG/Definities/Hoofdstuk 3/Handel en buitenlandse investeringen",
@@ -196,8 +202,6 @@
     "SEG/Definities/Hoofdstuk 3/Mijnbouw/Impact grondstoffen op ontwikkeling.md",
     "SEG/Definities/Hoofdstuk 3/Mijnbouw/Definitie.md",
     "SEG/Definities/Hoofdstuk 3/Mijnbouw/Types schaarste.md",
-    "SEG/Hoofdstuk 1.md",
-    "SEG/Hoofdstuk 4.md",
     "SEG/Definities/Hoofdstuk 3/Mijnbouw/Impact ontwikkeling op energieverbruik.md",
     "SEG/Definities/Hoofdstuk 3/Mijnbouw/Socio-ecologische kost huidig energiemodel.md",
     "SEG/Definities/Hoofdstuk 3/Mijnbouw/Regionale verschillen energiebalans.md",
@@ -209,12 +213,9 @@
     "SEG/Definities/Hoofdstuk 3/Relaties/Perspectieven/Politieke ecologie.md",
     "SEG/Definities/Hoofdstuk 3/Typologieen/Stedelijke samenleving.md",
     "SEG/Definities/Hoofdstuk 3/Relaties/Perspectieven/Ecotransitie.md",
-    "SEG/Definities/Hoofdstuk 3/Relaties/Perspectieven/Internaliseren externe kosten.md",
-    "SEG/Definities/Hoofdstuk 3/Relaties/Perspectieven/Incompatibiliteitscrisis.md",
     "SEG/Definities/Hoofdstuk 3/Relaties/Perspectieven",
     "SEG/Definities/Hoofdstuk 3",
     "SEG/Definities/Hoofdstuk 2",
-    "SEG/Definities/Algemeen/Untitled",
     "SEG/Pasted image 20240722211640.png",
     "Untitled 1.canvas",
     "Untitled.canvas",
