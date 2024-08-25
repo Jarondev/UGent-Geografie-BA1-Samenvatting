@@ -27,5 +27,5 @@
 | PPP                        | Purchasing Power Parity: Prijsverschil                                                                                                                   |
 | Productieregimes           | Veranderende organisatie van de economische productie                                                                                                    |
 | Space-time compression     | Technologische vooruitgang en globalisering verminderen betekenis afstands- en tijdsbarrieres tussen plaatsen                                            |
-| Technologisch determinisme | Binden sociale & economische concepten aan technologie                                                                                                   |
+| Technologisch determinisme | Binden sociale & economische concepten aan innovatie en technologie                                                                                      |
 | Sovereign wealth funds     | Overschot begroting gebruiken om stabiele return te krijgen                                                                                              |
