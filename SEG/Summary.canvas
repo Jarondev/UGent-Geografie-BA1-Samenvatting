@@ -12,6 +12,17 @@
       "label": "Hoofdstuk 3: Gebruik fysisch milieu"
     },
     {
+      "id": "bd3a3753805052da",
+      "type": "group",
+      "styleAttributes": {},
+      "x": -480,
+      "y": 3040,
+      "width": 2350,
+      "height": 1440,
+      "color": "6",
+      "label": "Hoofdstuk 4: Territoriaal samenlevingsverband"
+    },
+    {
       "id": "64cb51b851e779fc",
       "type": "group",
       "styleAttributes": {},
@@ -46,106 +57,6 @@
       "label": "Relaties"
     },
     {
-      "id": "903a999ae3562cb1",
-      "type": "group",
-      "styleAttributes": {},
-      "x": -440,
-      "y": 840,
-      "width": 1080,
-      "height": 1040,
-      "color": "4",
-      "label": "Typologieen"
-    },
-    {
-      "id": "16141ce7c882efba",
-      "type": "group",
-      "styleAttributes": {},
-      "x": 2410,
-      "y": 840,
-      "width": 940,
-      "height": 1140,
-      "color": "4",
-      "label": "Mijnbouw"
-    },
-    {
-      "id": "c758b896cf1d05fc",
-      "type": "group",
-      "styleAttributes": {},
-      "x": 2320,
-      "y": -520,
-      "width": 500,
-      "height": 1180,
-      "color": "4",
-      "label": "Dynamiek van de natuurlijke aangroei"
-    },
-    {
-      "id": "db1556fbac9f4c20",
-      "type": "group",
-      "styleAttributes": {},
-      "x": 780,
-      "y": 900,
-      "width": 920,
-      "height": 599,
-      "color": "5",
-      "label": "Bevolkingsgroei"
-    },
-    {
-      "id": "8e4bd3a09d5c9583",
-      "type": "group",
-      "styleAttributes": {},
-      "isStartNode": true,
-      "x": -480,
-      "y": -520,
-      "width": 700,
-      "height": 780,
-      "color": "6",
-      "label": "Hoofdstuk 1: Europa in het continentale schema"
-    },
-    {
-      "id": "7d51c45883030ff8",
-      "type": "group",
-      "styleAttributes": {},
-      "x": 120,
-      "y": 900,
-      "width": 460,
-      "height": 920,
-      "color": "5",
-      "label": "Op basis van relatie natuur, arbeid & maatschappij"
-    },
-    {
-      "id": "79badedc9020812d",
-      "type": "group",
-      "styleAttributes": {},
-      "x": -380,
-      "y": 900,
-      "width": 460,
-      "height": 920,
-      "color": "5",
-      "label": "Op basis van gebruik van milieu"
-    },
-    {
-      "id": "3617e0ce162e0753",
-      "type": "group",
-      "styleAttributes": {},
-      "x": 1820,
-      "y": 840,
-      "width": 540,
-      "height": 680,
-      "color": "4",
-      "label": "Economische globalisering en productieregimes"
-    },
-    {
-      "id": "bd3a3753805052da",
-      "type": "group",
-      "styleAttributes": {},
-      "x": -480,
-      "y": 3040,
-      "width": 2350,
-      "height": 1440,
-      "color": "6",
-      "label": "Hoofdstuk 4: Territoriaal samenlevingsverband"
-    },
-    {
       "id": "3f29aa2eb0f8fdb0",
       "type": "group",
       "styleAttributes": {},
@@ -168,6 +79,28 @@
       "label": "Staten"
     },
     {
+      "id": "903a999ae3562cb1",
+      "type": "group",
+      "styleAttributes": {},
+      "x": -440,
+      "y": 840,
+      "width": 1080,
+      "height": 1040,
+      "color": "4",
+      "label": "Typologieen"
+    },
+    {
+      "id": "16141ce7c882efba",
+      "type": "group",
+      "styleAttributes": {},
+      "x": 2410,
+      "y": 840,
+      "width": 940,
+      "height": 1140,
+      "color": "4",
+      "label": "Mijnbouw"
+    },
+    {
       "id": "27b0772739bcada0",
       "type": "group",
       "styleAttributes": {},
@@ -177,6 +110,17 @@
       "height": 760,
       "color": "4",
       "label": "Landbouw"
+    },
+    {
+      "id": "c758b896cf1d05fc",
+      "type": "group",
+      "styleAttributes": {},
+      "x": 2320,
+      "y": -520,
+      "width": 500,
+      "height": 1180,
+      "color": "4",
+      "label": "Dynamiek van de natuurlijke aangroei"
     },
     {
       "id": "0b09c1abc1ae5c63",
@@ -190,6 +134,17 @@
       "label": "Handel en buitenlandse investeringen"
     },
     {
+      "id": "db1556fbac9f4c20",
+      "type": "group",
+      "styleAttributes": {},
+      "x": 780,
+      "y": 900,
+      "width": 920,
+      "height": 599,
+      "color": "5",
+      "label": "Bevolkingsgroei"
+    },
+    {
       "id": "2dcad45babb2a2bd",
       "type": "group",
       "styleAttributes": {},
@@ -199,6 +154,18 @@
       "height": 600,
       "color": "5",
       "label": "Ecologische perspectieven"
+    },
+    {
+      "id": "8e4bd3a09d5c9583",
+      "type": "group",
+      "styleAttributes": {},
+      "isStartNode": true,
+      "x": -480,
+      "y": -520,
+      "width": 700,
+      "height": 780,
+      "color": "6",
+      "label": "Hoofdstuk 1: Europa in het continentale schema"
     },
     {
       "id": "d698b60019bb42f9",
@@ -223,6 +190,28 @@
       "label": "Sociale leefgemeenschappen"
     },
     {
+      "id": "7d51c45883030ff8",
+      "type": "group",
+      "styleAttributes": {},
+      "x": 120,
+      "y": 900,
+      "width": 460,
+      "height": 920,
+      "color": "5",
+      "label": "Op basis van relatie natuur, arbeid & maatschappij"
+    },
+    {
+      "id": "79badedc9020812d",
+      "type": "group",
+      "styleAttributes": {},
+      "x": -380,
+      "y": 900,
+      "width": 460,
+      "height": 920,
+      "color": "5",
+      "label": "Op basis van gebruik van milieu"
+    },
+    {
       "id": "29eb0b20c16cac13",
       "type": "group",
       "styleAttributes": {},
@@ -245,6 +234,17 @@
       "label": "Regionale geografie"
     },
     {
+      "id": "3617e0ce162e0753",
+      "type": "group",
+      "styleAttributes": {},
+      "x": 1820,
+      "y": 840,
+      "width": 540,
+      "height": 680,
+      "color": "4",
+      "label": "Economische globalisering en productieregimes"
+    },
+    {
       "id": "92079a0a47884e92",
       "type": "group",
       "styleAttributes": {},
@@ -254,16 +254,6 @@
       "height": 341,
       "color": "5",
       "label": "Ontwikkeling"
-    },
-    {
-      "id": "de4679a5b76a9102",
-      "type": "file",
-      "file": "SEG/Definities/Hoofdstuk 3/Typologieen/Markteconomie.md",
-      "styleAttributes": {},
-      "x": 140,
-      "y": 1520,
-      "width": 420,
-      "height": 241
     },
     {
       "id": "114c1602cc1b177f",
@@ -596,16 +586,6 @@
       "height": 191
     },
     {
-      "id": "65a9985ce0776284",
-      "type": "file",
-      "file": "SEG/Definities/Hoofdstuk 3/Typologieen/Maagschap (bloedverwant).md",
-      "styleAttributes": {},
-      "x": 140,
-      "y": 940,
-      "width": 420,
-      "height": 108
-    },
-    {
       "id": "f4ddbf1d1d371223",
       "type": "file",
       "file": "SEG/Definities/Hoofdstuk 3/Mijnbouw/Types schaarste.md",
@@ -624,16 +604,6 @@
       "y": 880,
       "width": 400,
       "height": 355
-    },
-    {
-      "id": "e040fd6979c10149",
-      "type": "file",
-      "file": "SEG/Definities/Hoofdstuk 3/Typologieen/Op schatting gebaseerd.md",
-      "styleAttributes": {},
-      "x": 140,
-      "y": 1086,
-      "width": 420,
-      "height": 189
     },
     {
       "id": "b3c992b6f8aeb379",
@@ -796,16 +766,6 @@
       "height": 335
     },
     {
-      "id": "d79532e14180fa5f",
-      "type": "file",
-      "file": "SEG/Definities/Hoofdstuk 3/Typologieen/Centraal geleide planeconomie.md",
-      "styleAttributes": {},
-      "x": 140,
-      "y": 1318,
-      "width": 420,
-      "height": 171
-    },
-    {
       "id": "fe95d498a76ac133",
       "type": "file",
       "file": "SEG/Definities/Hoofdstuk 3/Typologieen/Agrarische samenleving.md",
@@ -864,6 +824,46 @@
       "y": -80,
       "width": 300,
       "height": 330
+    },
+    {
+      "id": "de4679a5b76a9102",
+      "type": "file",
+      "file": "SEG/Definities/Hoofdstuk 3/Typologieen/Markteconomie.md",
+      "styleAttributes": {},
+      "x": 140,
+      "y": 1520,
+      "width": 420,
+      "height": 241
+    },
+    {
+      "id": "65a9985ce0776284",
+      "type": "file",
+      "file": "SEG/Definities/Hoofdstuk 3/Typologieen/Maagschap (bloedverwant).md",
+      "styleAttributes": {},
+      "x": 140,
+      "y": 940,
+      "width": 420,
+      "height": 108
+    },
+    {
+      "id": "e040fd6979c10149",
+      "type": "file",
+      "file": "SEG/Definities/Hoofdstuk 3/Typologieen/Op tribuut gebaseerd.md",
+      "styleAttributes": {},
+      "x": 140,
+      "y": 1086,
+      "width": 420,
+      "height": 189
+    },
+    {
+      "id": "d79532e14180fa5f",
+      "type": "file",
+      "file": "SEG/Definities/Hoofdstuk 3/Typologieen/Centraal geleide planeconomie.md",
+      "styleAttributes": {},
+      "x": 140,
+      "y": 1318,
+      "width": 420,
+      "height": 171
     }
   ],
   "edges": [
