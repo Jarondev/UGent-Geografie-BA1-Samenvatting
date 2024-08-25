@@ -2,23 +2,6 @@
 
 ## Mijnbouw & landbouw
 
-### Mijnbouw
-- Grondstoffen uit natuur systematisch ontginnen
-- Niet hernieuwbaar
-#### Beschikbaarheid
-- Gebruikte hoeveelheid
-- Bewezen reserve (Saudi-Arabië)
-- Conditionele reserve (delen Noordzee)
-- Hypothetische reserve (Antarctica)
-#### Types 'schaarste'
-- Fysieke
-- Geopolitieke (embargo, oorlog)
-- Economische
-- Ecologische (rampen)
-#### Regionale verschillen energiebalans:
-- Steenkool dominant in China, afwezig in Latijns-Amerika en Midden-Oosten
-- Brandhout in ontwikkelingslanden
-
 **OPEC enige landen met geslaagd voorbeeld grondstofkartel**
 
 #### Impact ontwikkeling op energieverbruik

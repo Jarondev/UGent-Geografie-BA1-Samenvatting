@@ -1,0 +1,4 @@
+- Fysieke
+- Geopolitieke (embargo)
+- Economische
+- Ecologische (rampen)
