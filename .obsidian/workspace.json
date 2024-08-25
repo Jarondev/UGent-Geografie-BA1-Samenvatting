@@ -163,7 +163,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 432
+    "width": 432,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -176,7 +177,7 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "f6fc335f908021a1",
+  "active": "2d78668dba397484",
   "lastOpenFiles": [
     "SEG/Hoofdstuk 3.md",
     "SEG/Summary.canvas",
