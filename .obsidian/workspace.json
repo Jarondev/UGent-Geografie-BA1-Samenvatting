@@ -15,9 +15,9 @@
               "state": {
                 "file": "SEG/Summary.canvas",
                 "viewState": {
-                  "x": 856.7402729775063,
-                  "y": 3612.5002447195943,
-                  "zoom": -1.8403025147649497
+                  "x": 659.000261801862,
+                  "y": 3338.3580524850395,
+                  "zoom": -1.3108351266354967
                 }
               }
             }
@@ -117,7 +117,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "SEG/Summary.canvas",
+                "file": "SEG/Hoofdstuk 4.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -134,7 +134,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "SEG/Summary.canvas",
+                "file": "SEG/Hoofdstuk 4.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -146,7 +146,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "SEG/Summary.canvas"
+                "file": "SEG/Hoofdstuk 4.md"
               }
             }
           },
@@ -177,17 +177,20 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "f6fc335f908021a1",
+  "active": "dcde96d6e3f61f7e",
   "lastOpenFiles": [
+    "SEG/Summary.canvas",
+    "SEG/Definities/Hoofdstuk 4/Staten/Classificaties.md",
     "SEG/Hoofdstuk 4.md",
+    "SEG/Begrippenlijst.md",
+    "SEG/Definities/Hoofdstuk 4/Staten",
+    "SEG/Definities/Hoofdstuk 4",
     "SEG/Hoofdstuk 2.md",
     "SEG/Hoofdstuk 1.md",
     "SEG/Hoofdstuk 3.md",
-    "SEG/Summary.canvas",
     "SEG/Definities/Hoofdstuk 3/Economische globalisering en productieregimes/Fordisme.md",
     "SEG/Definities/Hoofdstuk 3/Economische globalisering en productieregimes/Post-Fordisme.md",
     "SEG/Definities/Hoofdstuk 3/Economische globalisering en productieregimes",
-    "SEG/Begrippenlijst.md",
     "SEG/Definities/Hoofdstuk 3/Technologie en transport.md",
     "SEG/Definities/Hoofdstuk 3/Handel en buitenlandse investeringen/Foreign Direct Investment (FDI).md",
     "SEG/Definities/Hoofdstuk 3/Handel en buitenlandse investeringen/Huidige situatie.md",
@@ -211,11 +214,7 @@
     "SEG/Definities/Hoofdstuk 3/Typologieen",
     "Topografie/Topografie.md",
     "SEG/Definities/Hoofdstuk 3/Relaties/Perspectieven/Politieke ecologie.md",
-    "SEG/Definities/Hoofdstuk 3/Typologieen/Stedelijke samenleving.md",
-    "SEG/Definities/Hoofdstuk 3/Relaties/Perspectieven/Ecotransitie.md",
     "SEG/Definities/Hoofdstuk 3/Relaties/Perspectieven",
-    "SEG/Definities/Hoofdstuk 3",
-    "SEG/Definities/Hoofdstuk 2",
     "SEG/Pasted image 20240722211640.png",
     "Untitled 1.canvas",
     "Untitled.canvas",
