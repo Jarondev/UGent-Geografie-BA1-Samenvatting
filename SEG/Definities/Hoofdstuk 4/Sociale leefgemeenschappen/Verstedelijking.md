@@ -1,0 +1,11 @@
+- **Aspecten** verstedelijkingsprocessen:
+	- Morfologisch, sociaal-economisch, sociologisch
+	- Rurbanisatie, suburbanisatie, stadsgewestvorming, conurbaties
+	- Megasteden
+- Toenemende verstedelijking
+	-> in 2050 leeft 68% wereldbevolking in steden
+- Geen eenduidig transitieproces
+	-> **structurele transformatie**
+- Hedendaagse urbanisatie is kwantitatief en kwalitatief verschillend van 19e E Europa
+	-> kwantitatief: sterkere groeicijfers
+	-> kwalitatief: ontkoppeling ontwikkeling en verstedelijking

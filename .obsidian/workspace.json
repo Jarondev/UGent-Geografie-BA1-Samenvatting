@@ -4,20 +4,20 @@
     "type": "split",
     "children": [
       {
-        "id": "7738a75c6a58ef3f",
+        "id": "073481d0e68a854a",
         "type": "tabs",
         "children": [
           {
-            "id": "f6fc335f908021a1",
+            "id": "af734a706d9b0e27",
             "type": "leaf",
             "state": {
               "type": "canvas",
               "state": {
                 "file": "SEG/Summary.canvas",
                 "viewState": {
-                  "x": 659.000261801862,
-                  "y": 3338.3580524850395,
-                  "zoom": -1.3108351266354967
+                  "x": 936.0962799611987,
+                  "y": 2282.3514867356653,
+                  "zoom": -2.4941970367979738
                 }
               }
             }
@@ -25,7 +25,7 @@
         ]
       },
       {
-        "id": "f1c4d7b412e224ad",
+        "id": "1be74705cef6a36b",
         "type": "tabs",
         "children": [
           {
@@ -34,7 +34,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "SEG/Hoofdstuk 4.md",
+                "file": "SEG/Begrippenlijst.md",
                 "mode": "source",
                 "source": false
               }
@@ -117,7 +117,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "SEG/Hoofdstuk 4.md",
+                "file": "SEG/Summary.canvas",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -134,7 +134,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "SEG/Hoofdstuk 4.md",
+                "file": "SEG/Summary.canvas",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -146,7 +146,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "SEG/Hoofdstuk 4.md"
+                "file": "SEG/Summary.canvas"
               }
             }
           },
@@ -177,12 +177,31 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "dcde96d6e3f61f7e",
+  "active": "af734a706d9b0e27",
   "lastOpenFiles": [
+    "SEG/Definities/Hoofdstuk 5/Regionale geografie/Benaderingen.md",
     "SEG/Summary.canvas",
-    "SEG/Definities/Hoofdstuk 4/Staten/Classificaties.md",
-    "SEG/Hoofdstuk 4.md",
+    "SEG/Definities/Hoofdstuk 5/Regionale geografie/Definitie.md",
+    "SEG/Definities/Hoofdstuk 5/Regionale geografie",
+    "SEG/Definities/Hoofdstuk 5/Metageografieen.md",
     "SEG/Begrippenlijst.md",
+    "Topografie/Topografie.md",
+    "SEG/Definities/Hoofdstuk 5/Ruimtelijke schaalniveaus.md",
+    "SEG/Definities/Hoofdstuk 5/Aard relatie tussen mens en fysisch milieu.md",
+    "SEG/Hoofdstuk 5.md",
+    "SEG/Pasted image 20240722211640.png",
+    "SEG/Definities/Hoofdstuk 5",
+    "SEG/Definities/H.md",
+    "SEG/Hoofdstuk 4.md",
+    "SEG/Definities/Hoofdstuk 4/Sociale leefgemeenschappen/Verstedelijking.md",
+    "SEG/Definities/Hoofdstuk 4/Sociale leefgemeenschappen/Definitie.md",
+    "SEG/Definities/Hoofdstuk 4/Sociale leefgemeenschappen",
+    "SEG/Definities/Hoofdstuk 4/Volkeren/Culturele globalisering.md",
+    "SEG/Definities/Hoofdstuk 4/Volkeren/Types.md",
+    "SEG/Definities/Hoofdstuk 4/Volkeren",
+    "SEG/Definities/Hoofdstuk 4/Staten/Staten en naties.md",
+    "SEG/Definities/Hoofdstuk 4/Staten/Vorming en (des)integratie wereldkaart.md",
+    "SEG/Definities/Hoofdstuk 4/Staten/Classificaties.md",
     "SEG/Definities/Hoofdstuk 4/Staten",
     "SEG/Definities/Hoofdstuk 4",
     "SEG/Hoofdstuk 2.md",
@@ -195,27 +214,8 @@
     "SEG/Definities/Hoofdstuk 3/Handel en buitenlandse investeringen/Foreign Direct Investment (FDI).md",
     "SEG/Definities/Hoofdstuk 3/Handel en buitenlandse investeringen/Huidige situatie.md",
     "SEG/Definities/Hoofdstuk 3/Handel en buitenlandse investeringen",
-    "SEG/Definities/Hoofdstuk 3/Industriele productie en dienstverlening.md",
-    "SEG/Definities/Hoofdstuk 3/Landbouw/Rol van de overheid.md",
-    "SEG/Definities/Hoofdstuk 3/Landbouw/Onevenwicht tussen productie en consumptie.md",
-    "SEG/Definities/Hoofdstuk 3/Landbouw/Onevenwicht in consumptie.md",
-    "SEG/Definities/Hoofdstuk 3/Landbouw/Vrijhandel beste weg naar economische ontwikkeling.md",
-    "SEG/Definities/Hoofdstuk 3/Landbouw/Belangrijke evoluties.md",
     "SEG/Definities/Hoofdstuk 3/Landbouw",
-    "SEG/Definities/Hoofdstuk 3/Mijnbouw/Impact grondstoffen op ontwikkeling.md",
-    "SEG/Definities/Hoofdstuk 3/Mijnbouw/Definitie.md",
-    "SEG/Definities/Hoofdstuk 3/Mijnbouw/Types schaarste.md",
-    "SEG/Definities/Hoofdstuk 3/Mijnbouw/Impact ontwikkeling op energieverbruik.md",
-    "SEG/Definities/Hoofdstuk 3/Mijnbouw/Socio-ecologische kost huidig energiemodel.md",
-    "SEG/Definities/Hoofdstuk 3/Mijnbouw/Regionale verschillen energiebalans.md",
     "SEG/Definities/Hoofdstuk 3/Mijnbouw",
-    "SEG/Definities/Hoofdstuk 3/Relaties",
-    "SEG/Definities/Hoofdstuk 3/Typologieen/Untitled",
-    "SEG/Definities/Hoofdstuk 3/Typologieen",
-    "Topografie/Topografie.md",
-    "SEG/Definities/Hoofdstuk 3/Relaties/Perspectieven/Politieke ecologie.md",
-    "SEG/Definities/Hoofdstuk 3/Relaties/Perspectieven",
-    "SEG/Pasted image 20240722211640.png",
     "Untitled 1.canvas",
     "Untitled.canvas",
     "Pasted image 20240822203018.png",

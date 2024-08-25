@@ -1,0 +1,3 @@
+- Bedrijven die uitbreiden en leiden tot conformiteit en uniformiteit (**homogenisering**) van cultuur (bv. Coca-colonization & McDonaldization)
+	-> in praktijk vaak complexe interactie met bestaande culturele patronen (**indeginization**)
+	-> **soms weerstand** (McDonalds in Rusland)
