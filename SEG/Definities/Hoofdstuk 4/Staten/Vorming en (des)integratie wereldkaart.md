@@ -1,0 +1,12 @@
+- '**Staat**' is Europese uitvinding uit 16e eeuw die met **kolonialisme** werd geexporteerd
+- **Grenzen** zijn ook vaak van koloniale makelij
+### Desintegratie wereldkaart
+- **Centrifugale krachten** (desintegratie)
+	-> fysische factoren
+	-> wensen internationale gemeenschap
+	-> interne diversiteit (taal, religie, economie)
+- **Centripetale krachten** (integratie)
+	-> continuiteit staatsidee
+	-> gevoel samenhorigheid
+	-> legitimiteit staat word gebouwd op vermeende economische en maatschappelijke verwezenlijkingen ('American Dream')
+	-> sterk leiderschap

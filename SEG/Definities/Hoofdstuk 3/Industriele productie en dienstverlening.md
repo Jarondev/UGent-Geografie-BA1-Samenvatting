@@ -1,0 +1,7 @@
+- Tot begin WO2 bleef productie geconcentreerd tot beperkte groep landen (VK, VS, D, F, Japan)
+- **Na WO2** tot jaren '70: **ongekende groei** industriële productie in Eerste Wereld
+- Vandaag: 
+	- China neemt rol van Duitsland over als belangrijkste exporteur
+	- Veel meer landen betrokken in industriele productie
+	- '**Asian Tigers**' (HK, SG, SK, Taiwan)
+	- BRIC en MINT concepten na 'opening up' van China

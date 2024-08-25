@@ -1,0 +1,7 @@
+- **Traditionele regionale geografie**: regio is van buitenwereld af te bakenen en in zekere mate te isoleren gebied; regio heeft karakter door intra-regionale relaties
+	- Regio ontleent essentie van verschijnselen zoals klimaat, bevolking, infrastructuur..
+- **Regio als gebied binnen mondiaal systeem**: relaties in het wereldsysteem bepaalt karakter regio; veranderingen in externe relaties leiden tot verandering regio
+- **Opeenstapeling van historische lagen**: reeds aanwezige lagen beinvloeden mogelijkheden toekomstige ontwikkeling
+- **Vormgever van zijn eigen ontwikkeling**: evolutie bepaald door initiatieven in samenleving
+	- Mogelijk, maar afhankelijk van factoren (bestuur, hulpbronnen, strategie...)
+- **Netwerken van sociale relaties**: met hulp relaties construeren sociale groepen elk een 'eigen' regio

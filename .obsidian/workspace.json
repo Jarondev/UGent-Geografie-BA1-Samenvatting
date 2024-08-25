@@ -4,43 +4,38 @@
     "type": "split",
     "children": [
       {
-        "id": "7738a75c6a58ef3f",
+        "id": "f01be7f09e988b3c",
         "type": "tabs",
         "children": [
           {
-            "id": "f6fc335f908021a1",
+            "id": "dc1aa9e729023c3b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Geologie/Hoofdstuk 1.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "70af7d39368d9760",
             "type": "leaf",
             "state": {
               "type": "canvas",
               "state": {
                 "file": "SEG/Summary.canvas",
                 "viewState": {
-                  "x": 220.03981446497232,
-                  "y": 2191.256363972405,
-                  "zoom": -1.1482651671874935
+                  "x": 588,
+                  "y": 1564.0000283813476,
+                  "zoom": 0
                 }
               }
             }
           }
-        ]
-      },
-      {
-        "id": "9b079b9f117c5914",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "7110f6ae794ac6b4",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "SEG/Hoofdstuk 3.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -90,7 +85,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 254.99999618530273
+    "width": 200
   },
   "right": {
     "id": "97e66b02ee2fc326",
@@ -149,21 +144,13 @@
                 "file": "SEG/Summary.canvas"
               }
             }
-          },
-          {
-            "id": "2d78668dba397484",
-            "type": "leaf",
-            "state": {
-              "type": "git-view",
-              "state": {}
-            }
           }
-        ],
-        "currentTab": 4
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 432
+    "width": 471,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -176,55 +163,55 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "f6fc335f908021a1",
+  "active": "70af7d39368d9760",
   "lastOpenFiles": [
-    "SEG/Hoofdstuk 3.md",
-    "SEG/Summary.canvas",
     "Topografie/Topografie.md",
-    "SEG/Begrippenlijst.md",
-    "SEG/Definities/Hoofdstuk 3/Perspectieven/Politieke ecologie.md",
-    "SEG/Definities/Hoofdstuk 3/Stedelijke samenleving.md",
-    "SEG/Definities/Hoofdstuk 3/Perspectieven/Ecotransitie.md",
-    "SEG/Definities/Hoofdstuk 3/Perspectieven/Internaliseren externe kosten.md",
-    "SEG/Definities/Hoofdstuk 3/Perspectieven/Incompatibiliteitscrisis.md",
-    "SEG/Definities/Hoofdstuk 3/Perspectieven/Ecoscarcity.md",
-    "SEG/Definities/Hoofdstuk 3/Perspectieven/Cornucopia.md",
-    "SEG/Definities/Hoofdstuk 3/Perspectieven",
-    "SEG/Definities/Hoofdstuk 3/Boserup-Geertz.md",
-    "SEG/Definities/Hoofdstuk 3/Neo-Malthusianisme.md",
-    "SEG/Definities/Hoofdstuk 3/Ontwikkeling meten.md",
-    "SEG/Definities/Hoofdstuk 3/Markteconomie.md",
-    "SEG/Definities/Hoofdstuk 3/Centraal geleide planeconomie.md",
-    "SEG/Definities/Hoofdstuk 3/Maagschap (bloedverwant).md",
-    "SEG/Definities/Hoofdstuk 3/Op schatting gebaseerd.md",
-    "SEG/Definities/Hoofdstuk 3/Agrarische samenleving.md",
-    "SEG/Definities/Hoofdstuk 3/Jagers & verzamelaars.md",
-    "SEG/Definities/Hoofdstuk 3/Herdersvolkeren.md",
-    "SEG/Definities/Hoofdstuk 2/Demografische parameters.md",
-    "SEG/Definities/Hoofdstuk 3",
-    "SEG/Hoofdstuk 1.md",
-    "SEG/Hoofdstuk 2.md",
-    "SEG/Definities/Hoofdstuk 2/Demografische transitie.md",
-    "SEG/Definities/Hoofdstuk 2/Groei en draagkracht (r en K).md",
-    "SEG/Definities/Hoofdstuk 2",
-    "SEG/Definities/Algemeen/Untitled",
-    "SEG/Definities/Algemeen",
-    "SEG/Definities/Hoofdstuk 1",
-    "SEG/Pasted image 20240722211640.png",
-    "Untitled 1.canvas",
+    "SEG/Summary.canvas",
+    "SEG/Definities/Hoofdstuk 3/Relaties/Perspectieven/Politieke ecologie.md",
+    "SEG/Definities/Hoofdstuk 3/Relaties/Perspectieven/Internaliseren externe kosten.md",
+    "SEG/Definities/Hoofdstuk 3/Relaties/Perspectieven/Ecotransitie.md",
+    "SEG/Definities/Hoofdstuk 3/Relaties/Perspectieven/Incompatibiliteitscrisis.md",
+    "SEG/Definities/Hoofdstuk 3/Relaties/Perspectieven/Ecoscarcity.md",
+    "SEG/Definities/Hoofdstuk 3/Relaties/Perspectieven/Cornucopia.md",
+    "SEG/Definities/Hoofdstuk 5/Regionale geografie/Definitie.md",
+    "SEG/Definities/Hoofdstuk 5/Regionale geografie/Benaderingen.md",
+    "SEG/Definities/Hoofdstuk 4/Staten/Vorming en (des)integratie wereldkaart.md",
+    "SEG/Definities/Hoofdstuk 4/Staten/Staten en naties.md",
+    "SEG/Definities/Hoofdstuk 4/Staten/Classificaties.md",
+    "SEG/Definities/Hoofdstuk 4/Volkeren/Types.md",
+    "SEG/Definities/Hoofdstuk 4/Volkeren/Culturele globalisering.md",
+    "SEG/Definities/Hoofdstuk 4/Sociale leefgemeenschappen/Definitie.md",
+    "SEG/Definities/Hoofdstuk 4/Sociale leefgemeenschappen/Verstedelijking.md",
+    "SEG/Definities/Hoofdstuk 3/Typologieen/Stedelijke samenleving.md",
+    "SEG/Definities/Hoofdstuk 3/Typologieen/Op tribuut gebaseerd.md",
+    "SEG/Definities/Hoofdstuk 3/Typologieen/Markteconomie.md",
+    "SEG/Definities/Hoofdstuk 3/Typologieen/Maagschap (bloedverwant).md",
+    "SEG/Definities/Hoofdstuk 3/Typologieen/Jagers & verzamelaars.md",
+    "SEG/Definities/Hoofdstuk 3/Typologieen/Herdersvolkeren.md",
+    "SEG/Definities/Hoofdstuk 3/Relaties/Perspectieven",
+    "SEG/Definities/Hoofdstuk 3/Typologieen/Centraal geleide planeconomie.md",
+    "SEG/Definities/Hoofdstuk 3/Mijnbouw/Impact ontwikkeling op energieverbruik.md",
+    "SEG/Definities/Hoofdstuk 3/Typologieen/Agrarische samenleving.md",
+    "SEG/Definities/Hoofdstuk 3/Relaties/Ontwikkeling meten.md",
+    "SEG/Definities/Hoofdstuk 5/Regionale geografie",
+    "SEG/Definities/Hoofdstuk 4/Staten",
+    "SEG/Definities/Hoofdstuk 4/Volkeren",
+    "SEG/Definities/Hoofdstuk 4/Sociale leefgemeenschappen",
+    "SEG/Definities/Hoofdstuk 3/Typologieen",
+    "SEG/Definities/Hoofdstuk 3/Relaties",
+    "SEG/Definities/Hoofdstuk 3/Mijnbouw",
+    "SEG/Definities/Hoofdstuk 3/Landbouw",
+    "SEG/Definities/Hoofdstuk 3/Economische globalisering en productieregimes",
     "Untitled.canvas",
-    "SEG/Definities",
-    "Pasted image 20240822203018.png",
     "Topografie/Pasted image 20240822203013.png",
     "Topografie/Pasted image 20240822202928.png",
     "Topografie/Pasted image 20240822202836.png",
+    "SEG/Pasted image 20240722211640.png",
+    "Economie/Pasted image 20240709165919.png",
     "Geologie/Pasted image 20240715190411.png",
-    "Topografie",
+    "Pasted image 20240722211640.png",
     "GIS/Pasted image 20240721135020.png",
     "GIS/Pasted image 20240721132257.png",
-    "GIS/Pasted image 20240721122906.png",
-    "GIS/Pasted image 20240721132330.png",
-    "GIS",
-    "Geologie"
+    "GIS/Pasted image 20240721122906.png"
   ]
 }
