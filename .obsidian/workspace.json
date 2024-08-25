@@ -11,11 +11,14 @@
             "id": "f6fc335f908021a1",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "canvas",
               "state": {
-                "file": "SEG/Begrippenlijst.md",
-                "mode": "source",
-                "source": false
+                "file": "SEG/Summary.canvas",
+                "viewState": {
+                  "x": -226.72342139710793,
+                  "y": 2335.208750623338,
+                  "zoom": 0.024767905148942004
+                }
               }
             }
           }
@@ -114,7 +117,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "SEG/Begrippenlijst.md",
+                "file": "SEG/Summary.canvas",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -131,7 +134,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "SEG/Begrippenlijst.md",
+                "file": "SEG/Summary.canvas",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -143,7 +146,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "SEG/Begrippenlijst.md"
+                "file": "SEG/Summary.canvas"
               }
             }
           },
@@ -176,6 +179,7 @@
   },
   "active": "f6fc335f908021a1",
   "lastOpenFiles": [
+    "SEG/Begrippenlijst.md",
     "SEG/Definities/Hoofdstuk 3/Mijnbouw/Definitie.md",
     "SEG/Summary.canvas",
     "SEG/Definities/Hoofdstuk 3/Mijnbouw",
@@ -184,7 +188,6 @@
     "SEG/Definities/Hoofdstuk 3/Typologieen",
     "SEG/Hoofdstuk 3.md",
     "Topografie/Topografie.md",
-    "SEG/Begrippenlijst.md",
     "SEG/Definities/Hoofdstuk 3/Relaties/Perspectieven/Politieke ecologie.md",
     "SEG/Definities/Hoofdstuk 3/Typologieen/Stedelijke samenleving.md",
     "SEG/Definities/Hoofdstuk 3/Relaties/Perspectieven/Ecotransitie.md",
