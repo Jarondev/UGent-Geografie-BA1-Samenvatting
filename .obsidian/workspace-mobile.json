@@ -11,11 +11,14 @@
             "id": "2430bc249a42eb49",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "canvas",
               "state": {
-                "file": "Topografie/Topografie.md",
-                "mode": "preview",
-                "source": false
+                "file": "SEG/Summary.canvas",
+                "viewState": {
+                  "x": 701.6000000000001,
+                  "y": 134.61333333333334,
+                  "zoom": -1.0379678501990206
+                }
               }
             }
           }
@@ -85,7 +88,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Topografie/Topografie.md",
+            "file": "SEG/Definities/Hoofdstuk 1/Vlaamse tweespalt.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -102,7 +105,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "Topografie/Topografie.md",
+            "file": "SEG/Definities/Hoofdstuk 1/Vlaamse tweespalt.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -114,7 +117,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "Topografie/Topografie.md"
+            "file": "SEG/Definities/Hoofdstuk 1/Vlaamse tweespalt.md"
           }
         }
       },
@@ -142,6 +145,7 @@
   },
   "active": "2430bc249a42eb49",
   "lastOpenFiles": [
+    "Topografie/Topografie.md",
     "SEG/Summary.canvas",
     "SEG/Definities/Hoofdstuk 3/Perspectieven/Incompatibiliteitscrisis.md",
     "SEG/Definities/Hoofdstuk 3/Perspectieven/Politieke ecologie.md",
