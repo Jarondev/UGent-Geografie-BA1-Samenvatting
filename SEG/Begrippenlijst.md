@@ -27,3 +27,4 @@
 | PPP                        | Purchasing Power Parity: Prijsverschil                                                                                                                   |
 | Capability approach        | Concept om het dagelijkse leven van mensen in acht te nemen bij het meten van ontwikkeling (vb. HDI)                                                     |
 | Malthusian trap            | Mensheid zal op rand van een ramp balanceren door overmatig gebruik fysisch milieu die leidt tot rampscenario's m.b.t. draagkracht                       |
+| Peak oil                   | Punt in tijd wanneer maximale olie zal ontgonnen worden, daarna onomkeerbare achteruitgang                                                               |

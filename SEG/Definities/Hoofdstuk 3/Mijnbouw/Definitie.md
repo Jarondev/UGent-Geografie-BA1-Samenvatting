@@ -1,0 +1,6 @@
+- **Beschikbaarheid**
+	- Gebruikte hoeveelheid
+	- Bewezen reserve
+	- Conditionele reserve
+	- Speculatieve reserve
+- Dynamiek reserves hangt af van wereldwijde vraag
