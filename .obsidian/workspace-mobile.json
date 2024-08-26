@@ -4,22 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "18f5bdbdbc9d7079",
+        "id": "2c46969272a5370c",
         "type": "tabs",
         "children": [
           {
-            "id": "2430bc249a42eb49",
+            "id": "dd4c3434e740c017",
             "type": "leaf",
             "state": {
-              "type": "canvas",
-              "state": {
-                "file": "SEG/Summary.canvas",
-                "viewState": {
-                  "x": 2586.022232145565,
-                  "y": 1914.199651218881,
-                  "zoom": -0.2602931404593794
-                }
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -88,7 +81,6 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "SEG/Summary.canvas",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -105,7 +97,6 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "SEG/Summary.canvas",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -117,7 +108,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "SEG/Summary.canvas"
+            "file": "conflict-files-obsidian-git.md"
           }
         }
       },
@@ -143,8 +134,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "2430bc249a42eb49",
+  "active": "672ee07a1849f57a",
   "lastOpenFiles": [
+    "SEG/Summary.canvas",
+    "conflict-files-obsidian-git.md",
     "SEG/Definities/Hoofdstuk 3/Mijnbouw/Definitie.md",
     "SEG/Definities/Hoofdstuk 5/Regionale geografie/Benaderingen.md",
     "SEG/Definities/Hoofdstuk 3/Landbouw/Vrijhandel beste weg naar economische ontwikkeling.md",
@@ -169,8 +162,6 @@
     "SEG/Definities/Hoofdstuk 5/Aard relatie tussen mens en fysisch milieu.md",
     "SEG/Definities/Hoofdstuk 3/Handel en buitenlandse investeringen/Foreign Direct Investment (FDI).md",
     "SEG/Definities/Hoofdstuk 5/Regionale geografie/Definitie.md",
-    "SEG/Definities/Hoofdstuk 5/Ruimtelijke schaalniveaus.md",
-    "SEG/Definities/Hoofdstuk 4/Staten/Vorming en (des)integratie wereldkaart.md",
     "SEG/Definities/Hoofdstuk 3/Landbouw",
     "SEG/Definities/Hoofdstuk 3/Typologieen",
     "SEG/Definities/Hoofdstuk 3/Mijnbouw",
@@ -181,7 +172,6 @@
     "SEG/Definities/Hoofdstuk 4/Volkeren",
     "SEG/Definities/Hoofdstuk 4/Sociale leefgemeenschappen",
     "SEG/Definities/Hoofdstuk 4/Staten",
-    "SEG/Summary.canvas",
     "/SEG/Summary.canvas",
     "Topografie/Pasted image 20240822203013.png",
     "SEG/Pasted image 20240722211640.png",
