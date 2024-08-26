@@ -4,20 +4,20 @@
     "type": "split",
     "children": [
       {
-        "id": "18f5bdbdbc9d7079",
+        "id": "3698e01c00e5344f",
         "type": "tabs",
         "children": [
           {
-            "id": "2430bc249a42eb49",
+            "id": "900c3b1d1173c871",
             "type": "leaf",
             "state": {
               "type": "canvas",
               "state": {
-                "file": "SEG/Summary.canvas",
+                "file": "GIS/GIS Mindmap.canvas",
                 "viewState": {
-                  "x": 2586.022232145565,
-                  "y": 1914.199651218881,
-                  "zoom": -0.2602931404593794
+                  "x": -69.25746375603546,
+                  "y": 18.16258263109768,
+                  "zoom": -0.9305692424207224
                 }
               }
             }
@@ -88,7 +88,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "SEG/Summary.canvas",
+            "file": "GIS/GIS Mindmap.canvas",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -105,7 +105,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "SEG/Summary.canvas",
+            "file": "GIS/GIS Mindmap.canvas",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -117,7 +117,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "SEG/Summary.canvas"
+            "file": "GIS/GIS Mindmap.canvas"
           }
         }
       },
@@ -143,8 +143,15 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "2430bc249a42eb49",
+  "active": "900c3b1d1173c871",
   "lastOpenFiles": [
+    "/SEG/Summary.canvas",
+    "GIS/Begrippenlijst.md",
+    "/GIS/Begrippenlijst.md",
+    "GIS/GIS Mindmap.canvas",
+    "/GIS/GIS Mindmap.canvas",
+    "conflict-files-obsidian-git.md",
+    "SEG/Summary.canvas",
     "SEG/Definities/Hoofdstuk 3/Mijnbouw/Definitie.md",
     "SEG/Definities/Hoofdstuk 5/Regionale geografie/Benaderingen.md",
     "SEG/Definities/Hoofdstuk 3/Landbouw/Vrijhandel beste weg naar economische ontwikkeling.md",
@@ -167,10 +174,6 @@
     "SEG/Definities/Hoofdstuk 3/Mijnbouw/Regionale verschillen energiebalans.md",
     "SEG/Definities/Hoofdstuk 4/Sociale leefgemeenschappen/Definitie.md",
     "SEG/Definities/Hoofdstuk 5/Aard relatie tussen mens en fysisch milieu.md",
-    "SEG/Definities/Hoofdstuk 3/Handel en buitenlandse investeringen/Foreign Direct Investment (FDI).md",
-    "SEG/Definities/Hoofdstuk 5/Regionale geografie/Definitie.md",
-    "SEG/Definities/Hoofdstuk 5/Ruimtelijke schaalniveaus.md",
-    "SEG/Definities/Hoofdstuk 4/Staten/Vorming en (des)integratie wereldkaart.md",
     "SEG/Definities/Hoofdstuk 3/Landbouw",
     "SEG/Definities/Hoofdstuk 3/Typologieen",
     "SEG/Definities/Hoofdstuk 3/Mijnbouw",
@@ -181,8 +184,6 @@
     "SEG/Definities/Hoofdstuk 4/Volkeren",
     "SEG/Definities/Hoofdstuk 4/Sociale leefgemeenschappen",
     "SEG/Definities/Hoofdstuk 4/Staten",
-    "SEG/Summary.canvas",
-    "/SEG/Summary.canvas",
     "Topografie/Pasted image 20240822203013.png",
     "SEG/Pasted image 20240722211640.png",
     "Untitled.canvas",
