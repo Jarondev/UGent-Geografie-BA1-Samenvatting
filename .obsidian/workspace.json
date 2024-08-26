@@ -33,9 +33,20 @@
                 }
               }
             }
+          },
+          {
+            "id": "66b9f81a3f582761",
+            "type": "leaf",
+            "state": {
+              "type": "diff-view",
+              "state": {
+                "file": "conflict-files-obsidian-git.md",
+                "staged": false
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -112,7 +123,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "SEG/Summary.canvas",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -129,7 +139,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "SEG/Summary.canvas",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -140,9 +149,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "SEG/Summary.canvas"
-              }
+              "state": {}
             }
           },
           {
@@ -171,10 +178,17 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "166e6358eca6f684",
+  "active": "66b9f81a3f582761",
   "lastOpenFiles": [
-    "Topografie/Topografie.md",
+    "GIS/GIS Mindmap.canvas",
+    "conflict-files-obsidian-git.md",
     "SEG/Summary.canvas",
+    "GIS/Definities/Kaarten/Types kaarten.md",
+    "GIS/Definities/Spatial data.md",
+    "GIS/Definities/Kaarten",
+    "GIS/Definities",
+    "GIS/Begrippenlijst.md",
+    "Topografie/Topografie.md",
     "SEG/Definities/Hoofdstuk 3/Relaties/Perspectieven/Politieke ecologie.md",
     "SEG/Definities/Hoofdstuk 3/Relaties/Perspectieven/Internaliseren externe kosten.md",
     "SEG/Definities/Hoofdstuk 3/Relaties/Perspectieven/Ecotransitie.md",
@@ -195,12 +209,7 @@
     "SEG/Definities/Hoofdstuk 3/Typologieen/Markteconomie.md",
     "SEG/Definities/Hoofdstuk 3/Typologieen/Maagschap (bloedverwant).md",
     "SEG/Definities/Hoofdstuk 3/Typologieen/Jagers & verzamelaars.md",
-    "SEG/Definities/Hoofdstuk 3/Typologieen/Herdersvolkeren.md",
     "SEG/Definities/Hoofdstuk 3/Relaties/Perspectieven",
-    "SEG/Definities/Hoofdstuk 3/Typologieen/Centraal geleide planeconomie.md",
-    "SEG/Definities/Hoofdstuk 3/Mijnbouw/Impact ontwikkeling op energieverbruik.md",
-    "SEG/Definities/Hoofdstuk 3/Typologieen/Agrarische samenleving.md",
-    "SEG/Definities/Hoofdstuk 3/Relaties/Ontwikkeling meten.md",
     "SEG/Definities/Hoofdstuk 5/Regionale geografie",
     "SEG/Definities/Hoofdstuk 4/Staten",
     "SEG/Definities/Hoofdstuk 4/Volkeren",
@@ -208,8 +217,6 @@
     "SEG/Definities/Hoofdstuk 3/Typologieen",
     "SEG/Definities/Hoofdstuk 3/Relaties",
     "SEG/Definities/Hoofdstuk 3/Mijnbouw",
-    "SEG/Definities/Hoofdstuk 3/Landbouw",
-    "SEG/Definities/Hoofdstuk 3/Economische globalisering en productieregimes",
     "Untitled.canvas",
     "Topografie/Pasted image 20240822203013.png",
     "Topografie/Pasted image 20240822202928.png",

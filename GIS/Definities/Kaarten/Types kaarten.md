@@ -1,0 +1,3 @@
+- **Thematisch**: data gerelateerd met welbepaald thema
+- **Topografisch**: data van diverse thema's of onderwerpen
+- **Schets**
