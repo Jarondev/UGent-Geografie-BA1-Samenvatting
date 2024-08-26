@@ -39,3 +39,4 @@
 | Tilling                       | Uitbreiding om performantie te doen toenemen door een dataset op te delen in rechthoekige blokken van pixels                            |
 | Voxel                         | Een pixel in 3 dimensies                                                                                                                |
 | ZVI                           | Zone of Visual Influence                                                                                                                |
+| Connectiviteitsmatrix         | Matrix die verbindingen of relaties tussen verschillende entiteiten beschrijft                                                          |
