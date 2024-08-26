@@ -87,36 +87,6 @@
       "height": 165
     },
     {
-      "id": "f024bb138111e19c",
-      "type": "text",
-      "text": "# Raster \n- Ruimtelijke eenheid = **pixel**\n- **Celgrootte** bepaalt **resolutie**\n- Beperkt gebruik in cartografie\n",
-      "styleAttributes": {},
-      "x": -680,
-      "y": -264,
-      "width": 400,
-      "height": 141
-    },
-    {
-      "id": "f025f85b7ce30d45",
-      "type": "file",
-      "file": "GIS/Definities/Spatial data.md",
-      "styleAttributes": {},
-      "x": 33,
-      "y": -175,
-      "width": 400,
-      "height": 103
-    },
-    {
-      "id": "7de5df9f9146c252",
-      "type": "text",
-      "text": "## Netwerk\nLocaties verbonden door segmenten waar langs transport/communicatie mogelijk is\n\nDikwijls topologisch, aanvullend met afstanden\n**Chinese postman, handelsreizigers**...\n### Types\n- **Boomnetwerk** (hierarchisch)\n- **Circuitnetwerk** (gesloten lus)\n",
-      "styleAttributes": {},
-      "x": -280,
-      "y": -634,
-      "width": 400,
-      "height": 322
-    },
-    {
       "id": "18ebf624c2d005c6",
       "type": "text",
       "text": "### Chain Coding\n- Ketting beschrijft **grens** (boundary)\n- Geen info over binnenkant",
@@ -135,16 +105,6 @@
       "y": -640,
       "width": 250,
       "height": 160
-    },
-    {
-      "id": "dc2a513e57cae630",
-      "type": "text",
-      "text": "- Volkstellingen, enquetes\n- Luchtfoto's\n\t-> verticaal vs obliek\n- Sattelietbeelden\n- GPS\n- Field Data: surveying",
-      "styleAttributes": {},
-      "x": 260,
-      "y": -517,
-      "width": 400,
-      "height": 166
     },
     {
       "id": "0cf74764c5252d8a",
@@ -177,6 +137,46 @@
       "height": 208
     },
     {
+      "id": "94ac95daac325d4a",
+      "type": "text",
+      "text": "# Manual digitizing\n- Manueel, voor veel data\n- Indien data **topologie** moet hebben (bv. luchtfoto verwerking)\n- Fouten afhankelijk van schaal, ervaring, kwaliteit..",
+      "styleAttributes": {},
+      "x": 180,
+      "y": -1158,
+      "width": 310,
+      "height": 219
+    },
+    {
+      "id": "f025f85b7ce30d45",
+      "type": "file",
+      "file": "GIS/Definities/Spatial Data.md",
+      "styleAttributes": {},
+      "x": 33,
+      "y": -175,
+      "width": 400,
+      "height": 103
+    },
+    {
+      "id": "7de5df9f9146c252",
+      "type": "text",
+      "text": "## Netwerk\nLocaties verbonden door segmenten waar langs transport/communicatie mogelijk is\n\nDikwijls topologisch, aanvullend met afstanden\n**Chinese postman, handelsreizigers**...\n### Types\n- **Boomnetwerk** (hierarchisch)\n- **Circuitnetwerk** (gesloten lus)\n",
+      "styleAttributes": {},
+      "x": -280,
+      "y": -634,
+      "width": 400,
+      "height": 322
+    },
+    {
+      "id": "dc2a513e57cae630",
+      "type": "text",
+      "text": "- Volkstellingen, enquetes\n- Luchtfoto's\n\t-> verticaal vs obliek\n- Sattelietbeelden\n- GPS\n- Field Data: surveying",
+      "styleAttributes": {},
+      "x": 260,
+      "y": -517,
+      "width": 400,
+      "height": 166
+    },
+    {
       "id": "c6c585cf8614f279",
       "type": "text",
       "text": "# Fouten in data\n- Afhankelijk van brondata, encodering, conversie\n",
@@ -207,16 +207,6 @@
       "height": 100
     },
     {
-      "id": "94ac95daac325d4a",
-      "type": "text",
-      "text": "# Manual digitizing\n- Manueel, voor veel data\n- Indien data **topologie** moet hebben (bv. luchtfoto verwerking)\n- Fouten afhankelijk van schaal, ervaring, kwaliteit..",
-      "styleAttributes": {},
-      "x": 180,
-      "y": -1158,
-      "width": 310,
-      "height": 219
-    },
-    {
       "id": "0da4ec1adc28cb38",
       "type": "text",
       "text": "Algoritme om een curve te transformeren naar een gelijkaardige curve met minder punten",
@@ -237,6 +227,16 @@
       "height": 310
     },
     {
+      "id": "abccb9f93af58cae",
+      "type": "text",
+      "text": "# Buffering\n**Bufferzone** rond punt, lijn & polygoon",
+      "styleAttributes": {},
+      "x": 7,
+      "y": 198,
+      "width": 250,
+      "height": 185
+    },
+    {
       "id": "3946a8468893e114",
       "type": "file",
       "file": "GIS/Pasted image 20240719152605.png",
@@ -245,16 +245,6 @@
       "y": -2193,
       "width": 400,
       "height": 207
-    },
-    {
-      "id": "a36794c5b9d04ed8",
-      "type": "text",
-      "text": "# Surface Analysis\n**Oppervlakten interpolatie** kunnen **geanalyseerd** worden (vaak in 2,5D ipv 3D)\n## Factoren\n- **Helling** (steilte gemeten in graden of %)\n- **Aspect** (richting, gemeten in graden tov noorden)\n## Weergeven factoren\n- **Analytical hillshading**: berekening locatie schaduw en hoeveelheid bezonning\n- **Curvature**: beschrijving **verandering helling/aspect**\n\t-> convex, concaaf & vlak",
-      "styleAttributes": {},
-      "x": -140,
-      "y": 1080,
-      "width": 397,
-      "height": 500
     },
     {
       "id": "22b7c2a67a20d21e",
@@ -274,16 +264,6 @@
       "x": -600,
       "y": 1620,
       "width": 400,
-      "height": 232
-    },
-    {
-      "id": "37e1f0397cf649d8",
-      "type": "text",
-      "text": "# Network Analysis\nShortest path: **Dijkstra-algoritme**\n\nDubbele vraag: welke **orde** van stops? welk **pad**?",
-      "styleAttributes": {},
-      "x": -140,
-      "y": 1620,
-      "width": 397,
       "height": 232
     },
     {
@@ -317,36 +297,6 @@
       "height": 165
     },
     {
-      "id": "dad2e2f40ae05ac4",
-      "type": "text",
-      "text": "# Databank\nGeorganiseerde verzameling gegevens\n## Soorten\n- Eenvoudig (Excel)\n- Eenvoudig relationeel (Access)\n- Complex relationeel (MySQL)\n- Niet-relationeel (MongoDB)\n\n## Gegevens\n- **Ruimtelijke** gegevens (waar?)\n- **Attribuutgegevens** (wat?)\n## Redenen\n- Toegang data is **gecontroleerd en gecentraliseerd**\n- Beperkte **redundantie**\n- Data wordt los van toepassing opgeslagen\n- Eenvoudig te onderhouden",
-      "styleAttributes": {},
-      "x": 410,
-      "y": 400,
-      "width": 390,
-      "height": 619
-    },
-    {
-      "id": "b61b9c7a1ae356ca",
-      "type": "file",
-      "file": "GIS/Pasted image 20240721135020.png",
-      "styleAttributes": {},
-      "x": 520,
-      "y": 1330,
-      "width": 400,
-      "height": 364
-    },
-    {
-      "id": "59b3b3495b2f2beb",
-      "type": "text",
-      "text": "# Measurements\n**Euclidische afstand**: vogelvlucht\n**Manhattan afstand**: snelste route genomen door een grid netwerk",
-      "styleAttributes": {},
-      "x": -600,
-      "y": 198,
-      "width": 278,
-      "height": 185
-    },
-    {
       "id": "a007eb0d5ce99e41",
       "type": "text",
       "text": "# Map Overlay\n## Vector Overlay\n- **Point-in-polygon**: kijkt als punt in polygoon ligt door aantal kruisingen te tellen\n- **Line-in-polygon**: splitst lijn in stukken indien nodig afhankelijk van zone waarin het ligt\n- **Polygon-on-polygon**:\n\t- *Union* (OR): combineert alle gebieden\n\t- *Erase* (NOT): verwijdert overlappende delen\n\t- *Intersect* (AND): behoudt alleen overlappende delen\n## Raster Overlay\n- **Kaartalgebra** (map algebra)\n\t- Herklasseren naar **booleaanse kaart** met conditie\n- Complexe overlays mogelijk\n- **Aandachtspunten**:\n\t- Verschillende resoluties\n\t- Verschillende meetschalen\n",
@@ -367,16 +317,6 @@
       "height": 639
     },
     {
-      "id": "abccb9f93af58cae",
-      "type": "text",
-      "text": "# Buffering\n**Bufferzone** rond punt, lijn & polygoon",
-      "styleAttributes": {},
-      "x": 7,
-      "y": 198,
-      "width": 250,
-      "height": 185
-    },
-    {
       "id": "8fdbfa3f647dcd80",
       "type": "text",
       "text": "# Queries\nEnkelvoudig\n\nSamengesteld (met **booleaanse operator** AND)",
@@ -385,6 +325,56 @@
       "y": 198,
       "width": 280,
       "height": 185
+    },
+    {
+      "id": "f024bb138111e19c",
+      "type": "text",
+      "text": "# Raster \n- Ruimtelijke eenheid = **pixel**\n- **Celgrootte** bepaalt **resolutie**\n- Beperkt gebruik in cartografie\n",
+      "styleAttributes": {},
+      "x": -680,
+      "y": -264,
+      "width": 400,
+      "height": 141
+    },
+    {
+      "id": "a36794c5b9d04ed8",
+      "type": "text",
+      "text": "# Surface Analysis\n**Oppervlakten interpolatie** kunnen **geanalyseerd** worden (vaak in 2,5D ipv 3D)\n## Factoren\n- **Helling** (steilte gemeten in graden of %)\n- **Aspect** (richting, gemeten in graden tov noorden)\n## Weergeven factoren\n- **Analytical hillshading**: berekening locatie schaduw en hoeveelheid bezonning\n- **Curvature**: beschrijving **verandering helling/aspect**\n\t-> convex, concaaf & vlak",
+      "styleAttributes": {},
+      "x": -140,
+      "y": 1080,
+      "width": 397,
+      "height": 500
+    },
+    {
+      "id": "37e1f0397cf649d8",
+      "type": "text",
+      "text": "# Network Analysis\nShortest path: **Dijkstra-algoritme**\n\nDubbele vraag: welke **orde** van stops? welk **pad**?",
+      "styleAttributes": {},
+      "x": -140,
+      "y": 1620,
+      "width": 397,
+      "height": 232
+    },
+    {
+      "id": "dad2e2f40ae05ac4",
+      "type": "text",
+      "text": "# Databank\nGeorganiseerde verzameling gegevens\n## Soorten\n- Eenvoudig (Excel)\n- Eenvoudig relationeel (Access)\n- Complex relationeel (MySQL)\n- Niet-relationeel (MongoDB)\n\n## Gegevens\n- **Ruimtelijke** gegevens (waar?)\n- **Attribuutgegevens** (wat?)\n## Redenen\n- Toegang data is **gecontroleerd en gecentraliseerd**\n- Beperkte **redundantie**\n- Data wordt los van toepassing opgeslagen\n- Eenvoudig te onderhouden",
+      "styleAttributes": {},
+      "x": 410,
+      "y": 400,
+      "width": 390,
+      "height": 619
+    },
+    {
+      "id": "b61b9c7a1ae356ca",
+      "type": "file",
+      "file": "GIS/Pasted image 20240721135020.png",
+      "styleAttributes": {},
+      "x": 520,
+      "y": 1330,
+      "width": 400,
+      "height": 364
     },
     {
       "id": "109e21c5c139dab8",
@@ -407,16 +397,6 @@
       "height": 250
     },
     {
-      "id": "8c39e97b9d8c0e42",
-      "type": "text",
-      "text": "# Relationele databank\n- **Relatie** tussen **tabellen** is basis\n- Elke rij is **uniek** (in GIS vaak locatie)\n- 1 waarde per cel\n- **Sleutels** linken tabellen",
-      "styleAttributes": {},
-      "x": 880,
-      "y": 438,
-      "width": 390,
-      "height": 169
-    },
-    {
       "id": "3b6ef35bb2fba8f8",
       "type": "text",
       "text": "# Vector\n- **Reele getallen**\n- **Meeteenheid** bepaalt **resolutie**\n- Objectgericht",
@@ -437,6 +417,26 @@
       "height": 80
     },
     {
+      "id": "59b3b3495b2f2beb",
+      "type": "text",
+      "text": "# Measurements\n**Euclidische afstand**: vogelvlucht\n**Manhattan afstand**: snelste route genomen door een grid netwerk",
+      "styleAttributes": {},
+      "x": -600,
+      "y": 198,
+      "width": 278,
+      "height": 185
+    },
+    {
+      "id": "8c39e97b9d8c0e42",
+      "type": "text",
+      "text": "# Relationele databank\n- **Relatie** tussen **tabellen** is basis\n- Elke rij is **uniek** (in GIS vaak locatie)\n- 1 waarde per cel\n- **Sleutels** linken tabellen",
+      "styleAttributes": {},
+      "x": 880,
+      "y": 438,
+      "width": 390,
+      "height": 169
+    },
+    {
       "id": "fe7cc8d71cb6737a",
       "type": "text",
       "text": "### Topological data structure\nTopologie behouden zonder redundantie\n- Punt: een locatie\n- Lijn: beginpunt naar eindpunt\n- Polygoon: geordende verzameling punten",
@@ -455,6 +455,56 @@
       "y": 290,
       "width": 400,
       "height": 360
+    },
+    {
+      "id": "aa8512b58c68d26d",
+      "type": "text",
+      "text": "# 4. Voorstelling\nKiezen welke objecten, afhankelijk van schaal",
+      "styleAttributes": {},
+      "x": 1360,
+      "y": -380,
+      "width": 400,
+      "height": 80
+    },
+    {
+      "id": "50245dc6c1b54e9b",
+      "type": "text",
+      "text": "# 1. Doel\nBepaalt ruimtelijke nauwkeurigheid, nodige gegevens & schaal",
+      "styleAttributes": {},
+      "x": 1360,
+      "y": -537,
+      "width": 400,
+      "height": 107
+    },
+    {
+      "id": "6114c53372b75f37",
+      "type": "text",
+      "text": "# 7. Ruimtelijke referentiesysteem\n2D, 3D?\n\n- **Geografisch** coordinatensysteem: lengte- en breedtegraad\n- **Rechthoekig** coordinatensysteem: 2D met grid (kleine gebieden)\n- **Niet**-coordinatensysteem: beschrijvende code ipv coordinaten (bv postcode)",
+      "styleAttributes": {},
+      "x": 1880,
+      "y": 157,
+      "width": 400,
+      "height": 297
+    },
+    {
+      "id": "5cf24875ddcd75f7",
+      "type": "text",
+      "text": "# Thematisch\n- **Nominaal**: gegevens zonder rangorde of volgorde\n\t-> bv. geslacht\n- **Ordinaal**: gegevens met inherente volgorde\n\t-> bv. rangen in een wedstrijd\n- **Interval**: gelijke afstanden tussen waarden zonder nulpunt \n\t-> bv. kalenderdata\n- **Ratio**: interval met nulpunt\n\t-> bv. lengte, gewicht..\n# Temporeel\n- **Lineair**: jaartallen\n- **Vertakt**: scenario-analyses\n- **Cyclisch**: seizoenscycli\n",
+      "styleAttributes": {},
+      "x": 800,
+      "y": -160,
+      "width": 400,
+      "height": 471
+    },
+    {
+      "id": "7b82db14816a2edb",
+      "type": "text",
+      "text": "- **Thematisch**: over 1 welbepaald thema\n- **Topografisch**: over meerdere thema's\n- Schets",
+      "styleAttributes": {},
+      "x": 700,
+      "y": -580,
+      "width": 400,
+      "height": 83
     },
     {
       "id": "56e632a5c90a6eb3",
@@ -507,26 +557,6 @@
       "height": 287
     },
     {
-      "id": "aa8512b58c68d26d",
-      "type": "text",
-      "text": "# 4. Voorstelling\nKiezen welke objecten, afhankelijk van schaal",
-      "styleAttributes": {},
-      "x": 1360,
-      "y": -380,
-      "width": 400,
-      "height": 80
-    },
-    {
-      "id": "50245dc6c1b54e9b",
-      "type": "text",
-      "text": "# 1. Doel\nBepaalt ruimtelijke nauwkeurigheid, nodige gegevens & schaal",
-      "styleAttributes": {},
-      "x": 1360,
-      "y": -537,
-      "width": 400,
-      "height": 107
-    },
-    {
       "id": "84635a6eec442706",
       "type": "text",
       "text": "# 6. Projectie\nAfhankelijk doel en gebied\n## Soorten\n- **Cylindrisch**: vervormingen weg van de evenaar\n- **Azimutaal**: vervormingen weg van centraal punt (goed voor poolgebied)\n- **Conisch**: vervormingen weg van gekozen breedtecirkels",
@@ -535,36 +565,6 @@
       "y": -220,
       "width": 400,
       "height": 333
-    },
-    {
-      "id": "6114c53372b75f37",
-      "type": "text",
-      "text": "# 7. Ruimtelijke referentiesysteem\n2D, 3D?\n\n- **Geografisch** coordinatensysteem: lengte- en breedtegraad\n- **Rechthoekig** coordinatensysteem: 2D met grid (kleine gebieden)\n- **Niet**-coordinatensysteem: beschrijvende code ipv coordinaten (bv postcode)",
-      "styleAttributes": {},
-      "x": 1880,
-      "y": 157,
-      "width": 400,
-      "height": 297
-    },
-    {
-      "id": "5cf24875ddcd75f7",
-      "type": "text",
-      "text": "# Thematisch\n- **Nominaal**: gegevens zonder rangorde of volgorde\n\t-> bv. geslacht\n- **Ordinaal**: gegevens met inherente volgorde\n\t-> bv. rangen in een wedstrijd\n- **Interval**: gelijke afstanden tussen waarden zonder nulpunt \n\t-> bv. kalenderdata\n- **Ratio**: interval met nulpunt\n\t-> bv. lengte, gewicht..\n# Temporeel\n- **Lineair**: jaartallen\n- **Vertakt**: scenario-analyses\n- **Cyclisch**: seizoenscycli\n",
-      "styleAttributes": {},
-      "x": 800,
-      "y": -160,
-      "width": 400,
-      "height": 471
-    },
-    {
-      "id": "7b82db14816a2edb",
-      "type": "text",
-      "text": "- **Thematisch**: over 1 welbepaald thema\n- **Topografisch**: over meerdere thema's\n- Schets",
-      "styleAttributes": {},
-      "x": 700,
-      "y": -580,
-      "width": 400,
-      "height": 83
     },
     {
       "id": "124498b16c0cf719",
