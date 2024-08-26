@@ -12,6 +12,61 @@
       "label": "Hoofdstuk 3: Gebruik fysisch milieu"
     },
     {
+      "id": "bd3a3753805052da",
+      "type": "group",
+      "styleAttributes": {},
+      "x": -480,
+      "y": 3040,
+      "width": 2350,
+      "height": 1440,
+      "color": "6",
+      "label": "Hoofdstuk 4: Territoriaal samenlevingsverband"
+    },
+    {
+      "id": "3f29aa2eb0f8fdb0",
+      "type": "group",
+      "styleAttributes": {},
+      "x": 2000,
+      "y": 3040,
+      "width": 1560,
+      "height": 1120,
+      "color": "6",
+      "label": "Hoofdstuk 5: Geografische denkpatronen"
+    },
+    {
+      "id": "8c39801a09bee674",
+      "type": "group",
+      "styleAttributes": {},
+      "x": -430,
+      "y": 3100,
+      "width": 1060,
+      "height": 1300,
+      "color": "5",
+      "label": "Staten"
+    },
+    {
+      "id": "d698b60019bb42f9",
+      "type": "group",
+      "styleAttributes": {},
+      "x": 700,
+      "y": 3100,
+      "width": 520,
+      "height": 900,
+      "color": "5",
+      "label": "Volkeren "
+    },
+    {
+      "id": "8758a8e8c817d57a",
+      "type": "group",
+      "styleAttributes": {},
+      "x": 1319,
+      "y": 3100,
+      "width": 481,
+      "height": 940,
+      "color": "5",
+      "label": "Sociale leefgemeenschappen"
+    },
+    {
       "id": "6f3cfb36fbc2f270",
       "type": "group",
       "styleAttributes": {},
@@ -100,17 +155,6 @@
       "label": "Economische globalisering en productieregimes"
     },
     {
-      "id": "bd3a3753805052da",
-      "type": "group",
-      "styleAttributes": {},
-      "x": -480,
-      "y": 3040,
-      "width": 2350,
-      "height": 1440,
-      "color": "6",
-      "label": "Hoofdstuk 4: Territoriaal samenlevingsverband"
-    },
-    {
       "id": "64cb51b851e779fc",
       "type": "group",
       "styleAttributes": {},
@@ -132,28 +176,6 @@
       "height": 1180,
       "color": "4",
       "label": "Oorsprong en verspreiding"
-    },
-    {
-      "id": "3f29aa2eb0f8fdb0",
-      "type": "group",
-      "styleAttributes": {},
-      "x": 2000,
-      "y": 3040,
-      "width": 1560,
-      "height": 1120,
-      "color": "6",
-      "label": "Hoofdstuk 5: Geografische denkpatronen"
-    },
-    {
-      "id": "8c39801a09bee674",
-      "type": "group",
-      "styleAttributes": {},
-      "x": -430,
-      "y": 3100,
-      "width": 1060,
-      "height": 1300,
-      "color": "5",
-      "label": "Staten"
     },
     {
       "id": "16141ce7c882efba",
@@ -199,28 +221,6 @@
       "height": 780,
       "color": "6",
       "label": "Hoofdstuk 1: Europa in het continentale schema"
-    },
-    {
-      "id": "d698b60019bb42f9",
-      "type": "group",
-      "styleAttributes": {},
-      "x": 700,
-      "y": 3100,
-      "width": 520,
-      "height": 900,
-      "color": "5",
-      "label": "Volkeren "
-    },
-    {
-      "id": "8758a8e8c817d57a",
-      "type": "group",
-      "styleAttributes": {},
-      "x": 1319,
-      "y": 3100,
-      "width": 481,
-      "height": 940,
-      "color": "5",
-      "label": "Sociale leefgemeenschappen"
     },
     {
       "id": "29eb0b20c16cac13",
@@ -326,46 +326,6 @@
       "height": 180
     },
     {
-      "id": "4a53ed5872da4cf3",
-      "type": "file",
-      "file": "SEG/Definities/Hoofdstuk 4/Sociale leefgemeenschappen/Definitie.md",
-      "styleAttributes": {},
-      "x": 1360,
-      "y": 3139,
-      "width": 400,
-      "height": 341
-    },
-    {
-      "id": "32df37e64c91de3e",
-      "type": "file",
-      "file": "SEG/Definities/Hoofdstuk 4/Sociale leefgemeenschappen/Verstedelijking.md",
-      "styleAttributes": {},
-      "x": 1360,
-      "y": 3543,
-      "width": 400,
-      "height": 445
-    },
-    {
-      "id": "a41ea3103f27fef0",
-      "type": "file",
-      "file": "SEG/Definities/Hoofdstuk 4/Volkeren/Types.md",
-      "styleAttributes": {},
-      "x": 760,
-      "y": 3139,
-      "width": 400,
-      "height": 499
-    },
-    {
-      "id": "6732625c07e26465",
-      "type": "file",
-      "file": "SEG/Definities/Hoofdstuk 4/Volkeren/Culturele globalisering.md",
-      "styleAttributes": {},
-      "x": 760,
-      "y": 3680,
-      "width": 400,
-      "height": 263
-    },
-    {
       "id": "aa0e272dcf107e49",
       "type": "file",
       "file": "SEG/Definities/Hoofdstuk 5/Ruimtelijke schaalniveaus.md",
@@ -374,36 +334,6 @@
       "y": 3100,
       "width": 400,
       "height": 412
-    },
-    {
-      "id": "acf3fc320ca55ca4",
-      "type": "file",
-      "file": "SEG/Definities/Hoofdstuk 4/Staten/Classificaties.md",
-      "styleAttributes": {},
-      "x": -350,
-      "y": 3720,
-      "width": 400,
-      "height": 623
-    },
-    {
-      "id": "135882a9738b3908",
-      "type": "file",
-      "file": "SEG/Definities/Hoofdstuk 4/Staten/Vorming en (des)integratie wereldkaart.md",
-      "styleAttributes": {},
-      "x": -350,
-      "y": 3140,
-      "width": 400,
-      "height": 529
-    },
-    {
-      "id": "b5aa8485c05a217d",
-      "type": "file",
-      "file": "SEG/Definities/Hoofdstuk 4/Staten/Staten en naties.md",
-      "styleAttributes": {},
-      "x": 110,
-      "y": 3140,
-      "width": 400,
-      "height": 996
     },
     {
       "id": "9acbd2b68fbe5b39",
@@ -864,6 +794,76 @@
       "y": 880,
       "width": 400,
       "height": 264
+    },
+    {
+      "id": "b5aa8485c05a217d",
+      "type": "file",
+      "file": "SEG/Definities/Hoofdstuk 4/Staten/Staten en naties.md",
+      "styleAttributes": {},
+      "x": 110,
+      "y": 3140,
+      "width": 400,
+      "height": 996
+    },
+    {
+      "id": "4a53ed5872da4cf3",
+      "type": "file",
+      "file": "SEG/Definities/Hoofdstuk 4/Sociale leefgemeenschappen/Definitie.md",
+      "styleAttributes": {},
+      "x": 1360,
+      "y": 3139,
+      "width": 400,
+      "height": 341
+    },
+    {
+      "id": "32df37e64c91de3e",
+      "type": "file",
+      "file": "SEG/Definities/Hoofdstuk 4/Sociale leefgemeenschappen/Verstedelijking.md",
+      "styleAttributes": {},
+      "x": 1360,
+      "y": 3543,
+      "width": 400,
+      "height": 445
+    },
+    {
+      "id": "a41ea3103f27fef0",
+      "type": "file",
+      "file": "SEG/Definities/Hoofdstuk 4/Volkeren/Types.md",
+      "styleAttributes": {},
+      "x": 760,
+      "y": 3139,
+      "width": 400,
+      "height": 499
+    },
+    {
+      "id": "6732625c07e26465",
+      "type": "file",
+      "file": "SEG/Definities/Hoofdstuk 4/Volkeren/Culturele globalisering.md",
+      "styleAttributes": {},
+      "x": 760,
+      "y": 3680,
+      "width": 400,
+      "height": 263
+    },
+    {
+      "id": "acf3fc320ca55ca4",
+      "type": "file",
+      "file": "SEG/Definities/Hoofdstuk 4/Staten/Classificaties.md",
+      "styleAttributes": {},
+      "x": -350,
+      "y": 3720,
+      "width": 400,
+      "height": 623
+    },
+    {
+      "id": "135882a9738b3908",
+      "type": "file",
+      "file": "SEG/Definities/Hoofdstuk 4/Staten/Vorming en (des)integratie wereldkaart.md",
+      "styleAttributes": {},
+      "x": -350,
+      "y": 3140,
+      "width": 400,
+      "height": 529
     }
   ],
   "edges": [
