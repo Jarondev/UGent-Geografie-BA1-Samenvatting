@@ -806,16 +806,6 @@
       "height": 996
     },
     {
-      "id": "39ddedce76a79011",
-      "type": "file",
-      "file": "SEG/Definities/Hoofdstuk 3/Landbouw/Rol van de overheid.md",
-      "styleAttributes": {},
-      "x": 2910,
-      "y": 2294,
-      "width": 400,
-      "height": 297
-    },
-    {
       "id": "b8285e616e7e6ee0",
       "type": "file",
       "file": "SEG/Definities/Hoofdstuk 3/Landbouw/Onevenwicht tussen productie en consumptie.md",
@@ -864,6 +854,16 @@
       "y": 1272,
       "width": 400,
       "height": 309
+    },
+    {
+      "id": "39ddedce76a79011",
+      "type": "file",
+      "file": "SEG/Definities/Hoofdstuk 3/Landbouw/Rol van de overheid.md",
+      "styleAttributes": {},
+      "x": 2910,
+      "y": 2294,
+      "width": 400,
+      "height": 297
     }
   ],
   "edges": [
