@@ -12,94 +12,6 @@
       "label": "Hoofdstuk 3: Gebruik fysisch milieu"
     },
     {
-      "id": "6f3cfb36fbc2f270",
-      "type": "group",
-      "styleAttributes": {},
-      "x": 720,
-      "y": 840,
-      "width": 1035,
-      "height": 1861,
-      "color": "4",
-      "label": "Relaties"
-    },
-    {
-      "id": "903a999ae3562cb1",
-      "type": "group",
-      "styleAttributes": {},
-      "x": -440,
-      "y": 840,
-      "width": 1080,
-      "height": 1040,
-      "color": "4",
-      "label": "Typologieen"
-    },
-    {
-      "id": "0b09c1abc1ae5c63",
-      "type": "group",
-      "styleAttributes": {},
-      "x": -360,
-      "y": 2040,
-      "width": 920,
-      "height": 600,
-      "color": "4",
-      "label": "Handel en buitenlandse investeringen"
-    },
-    {
-      "id": "db1556fbac9f4c20",
-      "type": "group",
-      "styleAttributes": {},
-      "x": 780,
-      "y": 900,
-      "width": 920,
-      "height": 599,
-      "color": "5",
-      "label": "Bevolkingsgroei"
-    },
-    {
-      "id": "2dcad45babb2a2bd",
-      "type": "group",
-      "styleAttributes": {},
-      "x": 788,
-      "y": 1580,
-      "width": 912,
-      "height": 600,
-      "color": "5",
-      "label": "Ecologische perspectieven"
-    },
-    {
-      "id": "7d51c45883030ff8",
-      "type": "group",
-      "styleAttributes": {},
-      "x": 120,
-      "y": 900,
-      "width": 460,
-      "height": 920,
-      "color": "5",
-      "label": "Op basis van relatie natuur, arbeid & maatschappij"
-    },
-    {
-      "id": "79badedc9020812d",
-      "type": "group",
-      "styleAttributes": {},
-      "x": -380,
-      "y": 900,
-      "width": 460,
-      "height": 920,
-      "color": "5",
-      "label": "Op basis van gebruik van milieu"
-    },
-    {
-      "id": "3617e0ce162e0753",
-      "type": "group",
-      "styleAttributes": {},
-      "x": 1820,
-      "y": 840,
-      "width": 540,
-      "height": 680,
-      "color": "4",
-      "label": "Economische globalisering en productieregimes"
-    },
-    {
       "id": "bd3a3753805052da",
       "type": "group",
       "styleAttributes": {},
@@ -109,6 +21,17 @@
       "height": 1440,
       "color": "6",
       "label": "Hoofdstuk 4: Territoriaal samenlevingsverband"
+    },
+    {
+      "id": "8c39801a09bee674",
+      "type": "group",
+      "styleAttributes": {},
+      "x": -430,
+      "y": 3100,
+      "width": 1060,
+      "height": 1300,
+      "color": "5",
+      "label": "Staten"
     },
     {
       "id": "64cb51b851e779fc",
@@ -134,6 +57,17 @@
       "label": "Oorsprong en verspreiding"
     },
     {
+      "id": "6f3cfb36fbc2f270",
+      "type": "group",
+      "styleAttributes": {},
+      "x": 720,
+      "y": 840,
+      "width": 1035,
+      "height": 1861,
+      "color": "4",
+      "label": "Relaties"
+    },
+    {
       "id": "3f29aa2eb0f8fdb0",
       "type": "group",
       "styleAttributes": {},
@@ -145,15 +79,15 @@
       "label": "Hoofdstuk 5: Geografische denkpatronen"
     },
     {
-      "id": "8c39801a09bee674",
+      "id": "903a999ae3562cb1",
       "type": "group",
       "styleAttributes": {},
-      "x": -430,
-      "y": 3100,
-      "width": 1060,
-      "height": 1300,
-      "color": "5",
-      "label": "Staten"
+      "x": -440,
+      "y": 840,
+      "width": 1080,
+      "height": 1040,
+      "color": "4",
+      "label": "Typologieen"
     },
     {
       "id": "16141ce7c882efba",
@@ -187,6 +121,39 @@
       "height": 1180,
       "color": "4",
       "label": "Dynamiek van de natuurlijke aangroei"
+    },
+    {
+      "id": "0b09c1abc1ae5c63",
+      "type": "group",
+      "styleAttributes": {},
+      "x": -360,
+      "y": 2040,
+      "width": 920,
+      "height": 600,
+      "color": "4",
+      "label": "Handel en buitenlandse investeringen"
+    },
+    {
+      "id": "db1556fbac9f4c20",
+      "type": "group",
+      "styleAttributes": {},
+      "x": 780,
+      "y": 900,
+      "width": 920,
+      "height": 599,
+      "color": "5",
+      "label": "Bevolkingsgroei"
+    },
+    {
+      "id": "2dcad45babb2a2bd",
+      "type": "group",
+      "styleAttributes": {},
+      "x": 788,
+      "y": 1580,
+      "width": 912,
+      "height": 600,
+      "color": "5",
+      "label": "Ecologische perspectieven"
     },
     {
       "id": "8e4bd3a09d5c9583",
@@ -223,6 +190,28 @@
       "label": "Sociale leefgemeenschappen"
     },
     {
+      "id": "7d51c45883030ff8",
+      "type": "group",
+      "styleAttributes": {},
+      "x": 120,
+      "y": 900,
+      "width": 460,
+      "height": 920,
+      "color": "5",
+      "label": "Op basis van relatie natuur, arbeid & maatschappij"
+    },
+    {
+      "id": "79badedc9020812d",
+      "type": "group",
+      "styleAttributes": {},
+      "x": -380,
+      "y": 900,
+      "width": 460,
+      "height": 920,
+      "color": "5",
+      "label": "Op basis van gebruik van milieu"
+    },
+    {
       "id": "29eb0b20c16cac13",
       "type": "group",
       "styleAttributes": {},
@@ -245,6 +234,17 @@
       "label": "Regionale geografie"
     },
     {
+      "id": "3617e0ce162e0753",
+      "type": "group",
+      "styleAttributes": {},
+      "x": 1820,
+      "y": 840,
+      "width": 540,
+      "height": 680,
+      "color": "4",
+      "label": "Economische globalisering en productieregimes"
+    },
+    {
       "id": "92079a0a47884e92",
       "type": "group",
       "styleAttributes": {},
@@ -254,6 +254,36 @@
       "height": 341,
       "color": "5",
       "label": "Ontwikkeling"
+    },
+    {
+      "id": "114c1602cc1b177f",
+      "type": "file",
+      "file": "SEG/Definities/Hoofdstuk 3/Relaties/Perspectieven/Internaliseren externe kosten.md",
+      "styleAttributes": {},
+      "x": 1248,
+      "y": 1760,
+      "width": 400,
+      "height": 140
+    },
+    {
+      "id": "2e46204c8f343549",
+      "type": "file",
+      "file": "SEG/Definities/Hoofdstuk 3/Relaties/Perspectieven/Politieke ecologie.md",
+      "styleAttributes": {},
+      "x": 1248,
+      "y": 1949,
+      "width": 400,
+      "height": 186
+    },
+    {
+      "id": "85d8fb2215d2c25b",
+      "type": "file",
+      "file": "SEG/Definities/Hoofdstuk 3/Relaties/Perspectieven/Incompatibiliteitscrisis.md",
+      "styleAttributes": {},
+      "x": 1248,
+      "y": 1620,
+      "width": 400,
+      "height": 103
     },
     {
       "id": "6348513379105fcf",
@@ -286,6 +316,46 @@
       "height": 330
     },
     {
+      "id": "f7e7fd5c330fbe44",
+      "type": "file",
+      "file": "SEG/Definities/Hoofdstuk 3/Relaties/Perspectieven/Cornucopia.md",
+      "styleAttributes": {},
+      "x": 829,
+      "y": 1620,
+      "width": 400,
+      "height": 103
+    },
+    {
+      "id": "b557816f6a27cb15",
+      "type": "file",
+      "file": "SEG/Definities/Hoofdstuk 3/Typologieen/Stedelijke samenleving.md",
+      "styleAttributes": {},
+      "x": -320,
+      "y": 1640,
+      "width": 350,
+      "height": 160
+    },
+    {
+      "id": "a1b764086fda6a1a",
+      "type": "file",
+      "file": "SEG/Definities/Hoofdstuk 3/Relaties/Perspectieven/Ecotransitie.md",
+      "styleAttributes": {},
+      "x": 829,
+      "y": 1980,
+      "width": 400,
+      "height": 155
+    },
+    {
+      "id": "7539c6694c26e063",
+      "type": "file",
+      "file": "SEG/Definities/Hoofdstuk 3/Relaties/Perspectieven/Ecoscarcity.md",
+      "styleAttributes": {},
+      "x": 829,
+      "y": 1760,
+      "width": 400,
+      "height": 175
+    },
+    {
       "id": "3dc2b04773c7b02f",
       "type": "file",
       "file": "SEG/Definities/Hoofdstuk 3/Mijnbouw/Regionale verschillen energiebalans.md",
@@ -294,6 +364,16 @@
       "y": 1620,
       "width": 400,
       "height": 287
+    },
+    {
+      "id": "730310e0da338b05",
+      "type": "file",
+      "file": "SEG/Definities/Hoofdstuk 3/Technologie en transport.md",
+      "styleAttributes": {},
+      "x": 1870,
+      "y": 1620,
+      "width": 400,
+      "height": 408
     },
     {
       "id": "828bd4bc41055736",
@@ -376,26 +456,6 @@
       "height": 412
     },
     {
-      "id": "acf3fc320ca55ca4",
-      "type": "file",
-      "file": "SEG/Definities/Hoofdstuk 4/Staten/Classificaties.md",
-      "styleAttributes": {},
-      "x": -350,
-      "y": 3720,
-      "width": 400,
-      "height": 623
-    },
-    {
-      "id": "135882a9738b3908",
-      "type": "file",
-      "file": "SEG/Definities/Hoofdstuk 4/Staten/Vorming en (des)integratie wereldkaart.md",
-      "styleAttributes": {},
-      "x": -350,
-      "y": 3140,
-      "width": 400,
-      "height": 529
-    },
-    {
       "id": "b5aa8485c05a217d",
       "type": "file",
       "file": "SEG/Definities/Hoofdstuk 4/Staten/Staten en naties.md",
@@ -436,6 +496,26 @@
       "height": 571
     },
     {
+      "id": "e7c66d8d230f58db",
+      "type": "file",
+      "file": "SEG/Definities/Hoofdstuk 3/Handel en buitenlandse investeringen/Foreign Direct Investment (FDI).md",
+      "styleAttributes": {},
+      "x": 110,
+      "y": 2080,
+      "width": 400,
+      "height": 531
+    },
+    {
+      "id": "3d809d173f28d627",
+      "type": "file",
+      "file": "SEG/Definities/Hoofdstuk 3/Handel en buitenlandse investeringen/Huidige situatie.md",
+      "styleAttributes": {},
+      "x": -320,
+      "y": 2080,
+      "width": 400,
+      "height": 462
+    },
+    {
       "id": "6b1d23fa8bc37ea7",
       "type": "file",
       "file": "SEG/Definities/Hoofdstuk 3/Relaties/Ontwikkeling meten.md",
@@ -444,6 +524,46 @@
       "y": 2286,
       "width": 400,
       "height": 274
+    },
+    {
+      "id": "4356a206e96507d3",
+      "type": "file",
+      "file": "SEG/Definities/Hoofdstuk 3/Economische globalisering en productieregimes/Fordisme.md",
+      "styleAttributes": {},
+      "x": 1860,
+      "y": 880,
+      "width": 400,
+      "height": 264
+    },
+    {
+      "id": "675daca106a39a21",
+      "type": "file",
+      "file": "SEG/Definities/Hoofdstuk 3/Relaties/Neo-Malthusianisme.md",
+      "styleAttributes": {},
+      "x": 821,
+      "y": 940,
+      "width": 400,
+      "height": 523
+    },
+    {
+      "id": "cc57eca7fec32575",
+      "type": "file",
+      "file": "SEG/Definities/Hoofdstuk 3/Relaties/Boserup-Geertz.md",
+      "styleAttributes": {},
+      "x": 1260,
+      "y": 940,
+      "width": 400,
+      "height": 298
+    },
+    {
+      "id": "d5881598abb251de",
+      "type": "file",
+      "file": "SEG/Definities/Hoofdstuk 3/Typologieen/Jagers & verzamelaars.md",
+      "styleAttributes": {},
+      "x": -320,
+      "y": 940,
+      "width": 350,
+      "height": 191
     },
     {
       "id": "f4ddbf1d1d371223",
@@ -474,6 +594,26 @@
       "y": 1100,
       "width": 400,
       "height": 213
+    },
+    {
+      "id": "dac89e2cc1cc27df",
+      "type": "file",
+      "file": "SEG/Definities/Hoofdstuk 3/Typologieen/Herdersvolkeren.md",
+      "styleAttributes": {},
+      "x": -320,
+      "y": 1181,
+      "width": 350,
+      "height": 160
+    },
+    {
+      "id": "6d4c2084ef34e6e2",
+      "type": "file",
+      "file": "SEG/Definities/Hoofdstuk 3/Economische globalisering en productieregimes/Post-Fordisme.md",
+      "styleAttributes": {},
+      "x": 1870,
+      "y": 1200,
+      "width": 400,
+      "height": 264
     },
     {
       "id": "28ae114b689c70f8",
@@ -606,6 +746,16 @@
       "height": 335
     },
     {
+      "id": "fe95d498a76ac133",
+      "type": "file",
+      "file": "SEG/Definities/Hoofdstuk 3/Typologieen/Agrarische samenleving.md",
+      "styleAttributes": {},
+      "x": -320,
+      "y": 1380,
+      "width": 350,
+      "height": 217
+    },
+    {
       "id": "df90d8cc2f3bc8eb",
       "type": "file",
       "file": "SEG/Definities/Hoofdstuk 3/Mijnbouw/Impact grondstoffen op ontwikkeling.md",
@@ -656,126 +806,6 @@
       "height": 330
     },
     {
-      "id": "b557816f6a27cb15",
-      "type": "file",
-      "file": "SEG/Definities/Hoofdstuk 3/Typologieen/Stedelijke samenleving.md",
-      "styleAttributes": {},
-      "x": -320,
-      "y": 1640,
-      "width": 350,
-      "height": 160
-    },
-    {
-      "id": "730310e0da338b05",
-      "type": "file",
-      "file": "SEG/Definities/Hoofdstuk 3/Technologie en transport.md",
-      "styleAttributes": {},
-      "x": 1870,
-      "y": 1620,
-      "width": 400,
-      "height": 408
-    },
-    {
-      "id": "e7c66d8d230f58db",
-      "type": "file",
-      "file": "SEG/Definities/Hoofdstuk 3/Handel en buitenlandse investeringen/Foreign Direct Investment (FDI).md",
-      "styleAttributes": {},
-      "x": 110,
-      "y": 2080,
-      "width": 400,
-      "height": 531
-    },
-    {
-      "id": "3d809d173f28d627",
-      "type": "file",
-      "file": "SEG/Definities/Hoofdstuk 3/Handel en buitenlandse investeringen/Huidige situatie.md",
-      "styleAttributes": {},
-      "x": -320,
-      "y": 2080,
-      "width": 400,
-      "height": 462
-    },
-    {
-      "id": "d5881598abb251de",
-      "type": "file",
-      "file": "SEG/Definities/Hoofdstuk 3/Typologieen/Jagers & verzamelaars.md",
-      "styleAttributes": {},
-      "x": -320,
-      "y": 940,
-      "width": 350,
-      "height": 191
-    },
-    {
-      "id": "dac89e2cc1cc27df",
-      "type": "file",
-      "file": "SEG/Definities/Hoofdstuk 3/Typologieen/Herdersvolkeren.md",
-      "styleAttributes": {},
-      "x": -320,
-      "y": 1181,
-      "width": 350,
-      "height": 160
-    },
-    {
-      "id": "6d4c2084ef34e6e2",
-      "type": "file",
-      "file": "SEG/Definities/Hoofdstuk 3/Economische globalisering en productieregimes/Post-Fordisme.md",
-      "styleAttributes": {},
-      "x": 1870,
-      "y": 1200,
-      "width": 400,
-      "height": 264
-    },
-    {
-      "id": "fe95d498a76ac133",
-      "type": "file",
-      "file": "SEG/Definities/Hoofdstuk 3/Typologieen/Agrarische samenleving.md",
-      "styleAttributes": {},
-      "x": -320,
-      "y": 1380,
-      "width": 350,
-      "height": 217
-    },
-    {
-      "id": "85d8fb2215d2c25b",
-      "type": "file",
-      "file": "SEG/Definities/Hoofdstuk 3/Relaties/Perspectieven/Incompatibiliteitscrisis.md",
-      "styleAttributes": {},
-      "x": 1248,
-      "y": 1620,
-      "width": 400,
-      "height": 103
-    },
-    {
-      "id": "f7e7fd5c330fbe44",
-      "type": "file",
-      "file": "SEG/Definities/Hoofdstuk 3/Relaties/Perspectieven/Cornucopia.md",
-      "styleAttributes": {},
-      "x": 829,
-      "y": 1620,
-      "width": 400,
-      "height": 103
-    },
-    {
-      "id": "675daca106a39a21",
-      "type": "file",
-      "file": "SEG/Definities/Hoofdstuk 3/Relaties/Neo-Malthusianisme.md",
-      "styleAttributes": {},
-      "x": 821,
-      "y": 940,
-      "width": 400,
-      "height": 523
-    },
-    {
-      "id": "cc57eca7fec32575",
-      "type": "file",
-      "file": "SEG/Definities/Hoofdstuk 3/Relaties/Boserup-Geertz.md",
-      "styleAttributes": {},
-      "x": 1260,
-      "y": 940,
-      "width": 400,
-      "height": 298
-    },
-    {
       "id": "de4679a5b76a9102",
       "type": "file",
       "file": "SEG/Definities/Hoofdstuk 3/Typologieen/Markteconomie.md",
@@ -816,54 +846,24 @@
       "height": 171
     },
     {
-      "id": "114c1602cc1b177f",
+      "id": "acf3fc320ca55ca4",
       "type": "file",
-      "file": "SEG/Definities/Hoofdstuk 3/Relaties/Perspectieven/Internaliseren externe kosten.md",
+      "file": "SEG/Definities/Hoofdstuk 4/Staten/Classificaties.md",
       "styleAttributes": {},
-      "x": 1248,
-      "y": 1760,
+      "x": -350,
+      "y": 3720,
       "width": 400,
-      "height": 140
+      "height": 623
     },
     {
-      "id": "2e46204c8f343549",
+      "id": "135882a9738b3908",
       "type": "file",
-      "file": "SEG/Definities/Hoofdstuk 3/Relaties/Perspectieven/Politieke ecologie.md",
+      "file": "SEG/Definities/Hoofdstuk 4/Staten/Vorming en (des)integratie wereldkaart.md",
       "styleAttributes": {},
-      "x": 1248,
-      "y": 1949,
+      "x": -350,
+      "y": 3140,
       "width": 400,
-      "height": 186
-    },
-    {
-      "id": "a1b764086fda6a1a",
-      "type": "file",
-      "file": "SEG/Definities/Hoofdstuk 3/Relaties/Perspectieven/Ecotransitie.md",
-      "styleAttributes": {},
-      "x": 829,
-      "y": 1980,
-      "width": 400,
-      "height": 155
-    },
-    {
-      "id": "7539c6694c26e063",
-      "type": "file",
-      "file": "SEG/Definities/Hoofdstuk 3/Relaties/Perspectieven/Ecoscarcity.md",
-      "styleAttributes": {},
-      "x": 829,
-      "y": 1760,
-      "width": 400,
-      "height": 175
-    },
-    {
-      "id": "4356a206e96507d3",
-      "type": "file",
-      "file": "SEG/Definities/Hoofdstuk 3/Economische globalisering en productieregimes/Fordisme.md",
-      "styleAttributes": {},
-      "x": 1860,
-      "y": 880,
-      "width": 400,
-      "height": 264
+      "height": 529
     }
   ],
   "edges": [

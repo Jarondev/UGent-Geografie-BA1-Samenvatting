@@ -15,9 +15,9 @@
               "state": {
                 "file": "SEG/Summary.canvas",
                 "viewState": {
-                  "x": 956.7436196027126,
-                  "y": 3509.184408731529,
-                  "zoom": -1.546200962440842
+                  "x": -171.25348300288022,
+                  "y": 4008.207292371754,
+                  "zoom": -0.41261696096474687
                 }
               }
             }
@@ -88,7 +88,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "SEG/Definities/Hoofdstuk 3/Relaties/Boserup-Geertz.md",
+            "file": "SEG/Summary.canvas",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -105,7 +105,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "SEG/Definities/Hoofdstuk 3/Relaties/Boserup-Geertz.md",
+            "file": "SEG/Summary.canvas",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -117,7 +117,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "SEG/Definities/Hoofdstuk 3/Relaties/Boserup-Geertz.md"
+            "file": "SEG/Summary.canvas"
           }
         }
       },
