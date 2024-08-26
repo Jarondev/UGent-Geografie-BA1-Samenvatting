@@ -6,6 +6,7 @@
       {
         "id": "1be74705cef6a36b",
         "type": "tabs",
+        "dimension": 56.177402323125655,
         "children": [
           {
             "id": "dcde96d6e3f61f7e",
@@ -15,9 +16,9 @@
               "state": {
                 "file": "GIS/GIS Mindmap.canvas",
                 "viewState": {
-                  "x": 96.79410974284883,
-                  "y": 5.831966877556965,
-                  "zoom": 0
+                  "x": -153.7415132902534,
+                  "y": 756.1106798220699,
+                  "zoom": 0.01647243441443802
                 }
               }
             }
@@ -25,11 +26,12 @@
         ]
       },
       {
-        "id": "4a70cb9eb90fa6a9",
+        "id": "558885d58ab4668f",
         "type": "tabs",
+        "dimension": 43.822597676874345,
         "children": [
           {
-            "id": "57b87d9a997b38bd",
+            "id": "a1aaba9158d9f10b",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -179,6 +181,9 @@
   },
   "active": "dcde96d6e3f61f7e",
   "lastOpenFiles": [
+    "GIS/GIS.md",
+    "GIS/Begrippenlijst.md",
+    "GIS/GIS Mindmap.canvas",
     "GIS/Pasted image 20240718201616.png",
     "GIS/Pasted image 20240721120446.png",
     "GIS/Pasted image 20240719152605.png",
@@ -188,13 +193,10 @@
     "GIS/Pasted image 20240721132402.png",
     "GIS/Pasted image 20240721132330.png",
     "GIS/Pasted image 20240721135020.png",
-    "GIS/GIS Mindmap.canvas",
     "GIS/Definities/Kaarten/Types kaarten.md",
-    "GIS/GIS.md",
     "GIS/Definities/Spatial data.md",
     "GIS/Definities/Kaarten",
     "GIS/Definities",
-    "GIS/Begrippenlijst.md",
     "conflict-files-obsidian-git.md",
     "SEG/Definities/Hoofdstuk 3/Typologieen/Op tribuut gebaseerd.md",
     "SEG/Begrippenlijst.md",
@@ -227,7 +229,6 @@
     "SEG/Definities/Hoofdstuk 3/Economische globalisering en productieregimes",
     "SEG/Definities/Hoofdstuk 3/Handel en buitenlandse investeringen",
     "Untitled 1.canvas",
-    "Untitled.canvas",
-    "Pasted image 20240822203018.png"
+    "Untitled.canvas"
   ]
 }
