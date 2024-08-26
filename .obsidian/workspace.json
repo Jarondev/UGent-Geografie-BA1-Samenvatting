@@ -11,11 +11,14 @@
             "id": "dc1aa9e729023c3b",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "canvas",
               "state": {
-                "file": "GIS/Begrippenlijst.md",
-                "mode": "source",
-                "source": false
+                "file": "GIS/GIS Mindmap.canvas",
+                "viewState": {
+                  "x": 345.55281418658467,
+                  "y": 40.43176561295306,
+                  "zoom": -1.8258279864664806
+                }
               }
             }
           }
@@ -96,7 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "GIS/Begrippenlijst.md",
+                "file": "GIS/GIS Mindmap.canvas",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,7 +116,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "GIS/Begrippenlijst.md",
+                "file": "GIS/GIS Mindmap.canvas",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +128,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "GIS/Begrippenlijst.md"
+                "file": "GIS/GIS Mindmap.canvas"
               }
             }
           }
@@ -149,9 +152,9 @@
   },
   "active": "dc1aa9e729023c3b",
   "lastOpenFiles": [
+    "GIS/Begrippenlijst.md",
     "GIS/GIS Mindmap.canvas",
     "Geologie/Hoofdstuk 1.md",
-    "GIS/Begrippenlijst.md",
     "SEG/Summary.canvas",
     "Topografie/Topografie.md",
     "SEG/Definities/Hoofdstuk 3/Relaties/Perspectieven/Politieke ecologie.md",
