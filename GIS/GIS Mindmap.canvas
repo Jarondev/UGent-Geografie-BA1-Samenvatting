@@ -87,54 +87,64 @@
       "height": 160
     },
     {
-      "id": "3b6ef35bb2fba8f8",
+      "id": "bc6903ce88fc275d",
       "type": "text",
-      "text": "# Vector\n- **Reele getallen**\n- **Meeteenheid** bepaalt **resolutie**\n- Objectgericht",
+      "text": "### Quadtree\n- **Recursieve subdivisie** van vierkanten\n- Cel is in of out",
       "styleAttributes": {},
-      "x": -1040,
-      "y": -72,
-      "width": 400,
-      "height": 152
-    },
-    {
-      "id": "c2189f12b66a4f67",
-      "type": "text",
-      "text": "- Grid van **hoogtewaarden**\n- Accuraatheid afhankelijk van **complexiteit** en **resolutie**",
-      "styleAttributes": {},
-      "x": -1380,
-      "y": -360,
-      "width": 400,
-      "height": 80
-    },
-    {
-      "id": "109e21c5c139dab8",
-      "type": "text",
-      "text": "### Spaghetti structure\n- **Opeenvolging** van punten\n- Enkel X, Y is opgeslagen\n- **Redundante infromatie**",
-      "styleAttributes": {},
-      "x": -1460,
-      "y": 180,
+      "x": -640,
+      "y": -640,
       "width": 250,
-      "height": 220
+      "height": 160
     },
     {
-      "id": "fe7cc8d71cb6737a",
+      "id": "d769f1ec5e3d8cd7",
       "type": "text",
-      "text": "### Topological data structure\nTopologie behouden zonder redundantie\n- Punt: een locatie\n- Lijn: beginpunt naar eindpunt\n- Polygoon: geordende verzameling punten",
+      "text": "### Block Encoding\n- RLE in 2 dimensies\n- Coordinaten zijn nodig\n- Opgeslagen op **block size** (1, 4, 9..)",
       "styleAttributes": {},
-      "x": -1460,
-      "y": 420,
+      "x": -640,
+      "y": -840,
       "width": 250,
-      "height": 288
+      "height": 165
     },
     {
-      "id": "3e38d22489a9e6f2",
+      "id": "f024bb138111e19c",
       "type": "text",
-      "text": "### Vector grid\n-> nabootsing rasterbenadering\n## Triangulated Irregular Network (TIN)\n- Constructie **driehoeken**\n\t- hoekpunten: pieken, depressies\n\t- zijden: kammen, valleien\n\t- oppervlakten: gradient\n- Efficiente data-opslag door enkel gebruiken van significante punten",
+      "text": "# Raster \n- Ruimtelijke eenheid = **pixel**\n- **Celgrootte** bepaalt **resolutie**\n- Beperkt gebruik in cartografie\n",
       "styleAttributes": {},
-      "x": -1150,
-      "y": 290,
+      "x": -680,
+      "y": -264,
       "width": 400,
-      "height": 360
+      "height": 141
+    },
+    {
+      "id": "7de5df9f9146c252",
+      "type": "text",
+      "text": "## Netwerk\nLocaties verbonden door segmenten waar langs transport/communicatie mogelijk is\n\nDikwijls topologisch, aanvullend met afstanden\n**Chinese postman, handelsreizigers**...\n### Types\n- **Boomnetwerk** (hierarchisch)\n- **Circuitnetwerk** (gesloten lus)\n",
+      "styleAttributes": {},
+      "x": -280,
+      "y": -634,
+      "width": 400,
+      "height": 322
+    },
+    {
+      "id": "f025f85b7ce30d45",
+      "type": "file",
+      "file": "GIS/Definities/Spatial data.md",
+      "styleAttributes": {},
+      "x": 33,
+      "y": -175,
+      "width": 400,
+      "height": 103
+    },
+    {
+      "id": "dc2a513e57cae630",
+      "type": "text",
+      "text": "- Volkstellingen, enquetes\n- Luchtfoto's\n\t-> verticaal vs obliek\n- Sattelietbeelden\n- GPS\n- Field Data: surveying",
+      "styleAttributes": {},
+      "x": 260,
+      "y": -517,
+      "width": 400,
+      "height": 166
     },
     {
       "id": "a36794c5b9d04ed8",
@@ -175,6 +185,66 @@
       "y": 1620,
       "width": 397,
       "height": 232
+    },
+    {
+      "id": "59b3b3495b2f2beb",
+      "type": "text",
+      "text": "# Measurements\n**Euclidische afstand**: vogelvlucht\n**Manhattan afstand**: snelste route genomen door een grid netwerk",
+      "styleAttributes": {},
+      "x": -600,
+      "y": 198,
+      "width": 278,
+      "height": 185
+    },
+    {
+      "id": "0cf74764c5252d8a",
+      "type": "text",
+      "text": "# Scanning\n- **Raster**\n- Goed voor achtergrond\n- Problemen: optische distorties, koffievlekken\n- Kwaliteit afhankelijk van brondocument, hardware, software..\n# Line-following\n- **Vector**\n- Via image-processing software\n- Sterk bij conrasterende en eenvoudige lijnen",
+      "styleAttributes": {},
+      "x": -172,
+      "y": -1698,
+      "width": 358,
+      "height": 408
+    },
+    {
+      "id": "2a6669dc7487c6c9",
+      "type": "text",
+      "text": "# Electronic data transfer\n- Data verkregen via andere bronnen (GPS, LiDAR, satelliet)\n- Dikwijls **dataconversie** nodig voor veel formaten",
+      "styleAttributes": {},
+      "x": -180,
+      "y": -988,
+      "width": 344,
+      "height": 208
+    },
+    {
+      "id": "58d533ff191ba352",
+      "type": "text",
+      "text": "# Automatic digitizing\nComputer digitaliseert automatisch via algoritmen",
+      "styleAttributes": {},
+      "x": -172,
+      "y": -1194,
+      "width": 250,
+      "height": 145
+    },
+    {
+      "id": "7bf2807e9ed1987c",
+      "type": "text",
+      "text": "# Point mode\nMeer punten bij **complexere delen** van curve om vorm beter te benaderen\n# Stream mode\n**Gelijke interval** over hele curve",
+      "styleAttributes": {},
+      "x": 240,
+      "y": -1580,
+      "width": 250,
+      "height": 310
+    },
+    {
+      "id": "fefeae4db0f1359a",
+      "type": "text",
+      "text": "# Keyboard entry\nManueel, typfouten",
+      "styleAttributes": {},
+      "x": 240,
+      "y": -880,
+      "width": 250,
+      "height": 100
     },
     {
       "id": "abccb9f93af58cae",
@@ -227,166 +297,6 @@
       "height": 639
     },
     {
-      "id": "59b3b3495b2f2beb",
-      "type": "text",
-      "text": "# Measurements\n**Euclidische afstand**: vogelvlucht\n**Manhattan afstand**: snelste route genomen door een grid netwerk",
-      "styleAttributes": {},
-      "x": -600,
-      "y": 198,
-      "width": 278,
-      "height": 185
-    },
-    {
-      "id": "b61b9c7a1ae356ca",
-      "type": "file",
-      "file": "GIS/Pasted image 20240721135020.png",
-      "styleAttributes": {},
-      "x": 520,
-      "y": 1330,
-      "width": 400,
-      "height": 364
-    },
-    {
-      "id": "e85e256d0785b836",
-      "type": "text",
-      "text": "# Een database maken\n1. Data **onderzoeken**\n2. Data **modelleren**\n\t-> maken conceptueel model entiteiten en relaties\n3. Databank **ontwerp**\n\t-> creeren model in specifiek DBMS\n1. **Implementatie**\n2. **Onderhoud**",
-      "styleAttributes": {},
-      "x": 1000,
-      "y": 780,
-      "width": 433,
-      "height": 250
-    },
-    {
-      "id": "0cf74764c5252d8a",
-      "type": "text",
-      "text": "# Scanning\n- **Raster**\n- Goed voor achtergrond\n- Problemen: optische distorties, koffievlekken\n- Kwaliteit afhankelijk van brondocument, hardware, software..\n# Line-following\n- **Vector**\n- Via image-processing software\n- Sterk bij conrasterende en eenvoudige lijnen",
-      "styleAttributes": {},
-      "x": -172,
-      "y": -1698,
-      "width": 358,
-      "height": 408
-    },
-    {
-      "id": "2a6669dc7487c6c9",
-      "type": "text",
-      "text": "# Electronic data transfer\n- Data verkregen via andere bronnen (GPS, LiDAR, satelliet)\n- Dikwijls **dataconversie** nodig voor veel formaten",
-      "styleAttributes": {},
-      "x": -180,
-      "y": -988,
-      "width": 344,
-      "height": 208
-    },
-    {
-      "id": "58d533ff191ba352",
-      "type": "text",
-      "text": "# Automatic digitizing\nComputer digitaliseert automatisch via algoritmen",
-      "styleAttributes": {},
-      "x": -172,
-      "y": -1194,
-      "width": 250,
-      "height": 145
-    },
-    {
-      "id": "94ac95daac325d4a",
-      "type": "text",
-      "text": "# Manual digitizing\n- Manueel, voor veel data\n- Indien data **topologie** moet hebben (bv. luchtfoto verwerking)\n- Fouten afhankelijk van schaal, ervaring, kwaliteit..",
-      "styleAttributes": {},
-      "x": 180,
-      "y": -1158,
-      "width": 310,
-      "height": 219
-    },
-    {
-      "id": "0da4ec1adc28cb38",
-      "type": "text",
-      "text": "Algoritme om een curve te transformeren naar een gelijkaardige curve met minder punten",
-      "styleAttributes": {},
-      "x": 164,
-      "y": -1986,
-      "width": 400,
-      "height": 49
-    },
-    {
-      "id": "3946a8468893e114",
-      "type": "file",
-      "file": "GIS/Pasted image 20240719152605.png",
-      "styleAttributes": {},
-      "x": 164,
-      "y": -2193,
-      "width": 400,
-      "height": 207
-    },
-    {
-      "id": "8c39e97b9d8c0e42",
-      "type": "text",
-      "text": "# Relationele databank\n- **Relatie** tussen **tabellen** is basis\n- Elke rij is **uniek** (in GIS vaak locatie)\n- 1 waarde per cel\n- **Sleutels** linken tabellen",
-      "styleAttributes": {},
-      "x": 880,
-      "y": 438,
-      "width": 390,
-      "height": 169
-    },
-    {
-      "id": "c6c585cf8614f279",
-      "type": "text",
-      "text": "# Fouten in data\n- Afhankelijk van brondata, encodering, conversie\n",
-      "styleAttributes": {},
-      "x": 607,
-      "y": -907,
-      "width": 267,
-      "height": 154
-    },
-    {
-      "id": "2229332886e17991",
-      "type": "text",
-      "text": "# Detecteren\n- **Attribuutdata**\n\t- Manueel vergelijken met oorspronkelijke data\n\t- Systematisch\n\t\t-> onmogelijke waarden, extreme waarden, consistency check..\n- **Ruimtelijke data**\n\t- **Visuele vergelijking**\n\t- Afhankelijk van datamodel:\n\t\t- **Vectordata**: edit tools in GIS\n\t\t\t-> snel maar gevaarlijk door verkeerde tolerantie\n\t\t- **Rasterdata**: noise, missing entities",
-      "styleAttributes": {},
-      "x": 607,
-      "y": -1340,
-      "width": 493,
-      "height": 345
-    },
-    {
-      "id": "07d99644464775be",
-      "type": "text",
-      "text": "# Herprojectie, transformatie, generalisatie\nNaar **gemeenschappelijk coordinaatsysteem**\n## Transformatie\n- Translatie\n- Schaling\n- Roteren\n## Generalisatie\n- Voor combinatie verschillende schalen\n- Minder opslag, hogere snelheid\n#### Vectordata: **Lijngeneralisatie** (line thinning)\nVerwijdert elk zoveelste punt, behoudt karakteristiek vorm\n-> gebaseerd op **Douglas-Peucker** algoritme\n#### Rasterdata\n- **Aggregatie** pixels (**informatieverlies**)\n- Data **compactie**\n- **Filteren**",
-      "styleAttributes": {},
-      "x": 682,
-      "y": -2260,
-      "width": 398,
-      "height": 748
-    },
-    {
-      "id": "cc52d87bcbc9f6cb",
-      "type": "text",
-      "text": "# Edge matching & rubber sheeting\n## Edge matching\n- **Randen kaartbladen matchen**\n\t-> features matchen, klassen matchen\n- Topologie herbouwen\n- Verwijderen redundante lijnen\n## Rubber sheeting\n- Bij **herstellen complexe vervorming** of herprojectie met weinig details\n- **Controlepunten**\n\t- Goed herkenbaar\n\t- Met gekende coordinaat\n- **Moeilijkheden**\n\t- Gebrek aan geschikte controlepunten (bij extreme vervorming)\n\t- Berekeningstijd",
-      "styleAttributes": {},
-      "x": 1100,
-      "y": -2260,
-      "width": 398,
-      "height": 548
-    },
-    {
-      "id": "7bf2807e9ed1987c",
-      "type": "text",
-      "text": "# Point mode\nMeer punten bij **complexere delen** van curve om vorm beter te benaderen\n# Stream mode\n**Gelijke interval** over hele curve",
-      "styleAttributes": {},
-      "x": 240,
-      "y": -1580,
-      "width": 250,
-      "height": 310
-    },
-    {
-      "id": "a76c0554517d2191",
-      "type": "text",
-      "text": "# Geocoding address data\n- Converteren *niet-geografische* beschrijving (adres, kilometerpaal) via **geocoders**\n- Complex door **onduidelijkheden**\n\t-> spellingsfouten, afkortingen, taal...",
-      "styleAttributes": {},
-      "x": 1100,
-      "y": -1680,
-      "width": 398,
-      "height": 165
-    },
-    {
       "id": "7b82db14816a2edb",
       "type": "text",
       "text": "- **Thematisch**: over 1 welbepaald thema\n- **Topografisch**: over meerdere thema's\n- Schets",
@@ -427,44 +337,54 @@
       "height": 107
     },
     {
-      "id": "56e632a5c90a6eb3",
+      "id": "94ac95daac325d4a",
       "type": "text",
-      "text": "# 2. Schaal (observatiezone)",
+      "text": "# Manual digitizing\n- Manueel, voor veel data\n- Indien data **topologie** moet hebben (bv. luchtfoto verwerking)\n- Fouten afhankelijk van schaal, ervaring, kwaliteit..",
       "styleAttributes": {},
-      "x": 1880,
-      "y": -518,
-      "width": 400,
-      "height": 35
+      "x": 180,
+      "y": -1158,
+      "width": 310,
+      "height": 219
     },
     {
-      "id": "1ea8f658561c6e8f",
+      "id": "0da4ec1adc28cb38",
       "type": "text",
-      "text": "# 3. Ruimtelijke entiteiten bepalen\n- **Punt**: kleine zaken\n- **Lijn**: geordende opvolging punten\n- **Polygoon**: gesloten verzameling lijnen",
+      "text": "Algoritme om een curve te transformeren naar een gelijkaardige curve met minder punten",
       "styleAttributes": {},
-      "x": 1880,
-      "y": -440,
+      "x": 164,
+      "y": -1986,
       "width": 400,
-      "height": 178
+      "height": 49
     },
     {
-      "id": "84635a6eec442706",
-      "type": "text",
-      "text": "# 6. Projectie\nAfhankelijk doel en gebied\n## Soorten\n- **Cylindrisch**: vervormingen weg van de evenaar\n- **Azimutaal**: vervormingen weg van centraal punt (goed voor poolgebied)\n- **Conisch**: vervormingen weg van gekozen breedtecirkels",
+      "id": "3946a8468893e114",
+      "type": "file",
+      "file": "GIS/Pasted image 20240719152605.png",
       "styleAttributes": {},
-      "x": 1880,
-      "y": -220,
+      "x": 164,
+      "y": -2193,
       "width": 400,
-      "height": 333
+      "height": 207
     },
     {
-      "id": "6114c53372b75f37",
+      "id": "c6c585cf8614f279",
       "type": "text",
-      "text": "# 7. Ruimtelijke referentiesysteem\n2D, 3D?\n\n- **Geografisch** coordinatensysteem: lengte- en breedtegraad\n- **Rechthoekig** coordinatensysteem: 2D met grid (kleine gebieden)\n- **Niet**-coordinatensysteem: beschrijvende code ipv coordinaten (bv postcode)",
+      "text": "# Fouten in data\n- Afhankelijk van brondata, encodering, conversie\n",
       "styleAttributes": {},
-      "x": 1880,
-      "y": 157,
-      "width": 400,
-      "height": 297
+      "x": 607,
+      "y": -907,
+      "width": 267,
+      "height": 154
+    },
+    {
+      "id": "2229332886e17991",
+      "type": "text",
+      "text": "# Detecteren\n- **Attribuutdata**\n\t- Manueel vergelijken met oorspronkelijke data\n\t- Systematisch\n\t\t-> onmogelijke waarden, extreme waarden, consistency check..\n- **Ruimtelijke data**\n\t- **Visuele vergelijking**\n\t- Afhankelijk van datamodel:\n\t\t- **Vectordata**: edit tools in GIS\n\t\t\t-> snel maar gevaarlijk door verkeerde tolerantie\n\t\t- **Rasterdata**: noise, missing entities",
+      "styleAttributes": {},
+      "x": 607,
+      "y": -1340,
+      "width": 493,
+      "height": 345
     },
     {
       "id": "625ebeb436429e35",
@@ -507,74 +427,154 @@
       "height": 80
     },
     {
-      "id": "bc6903ce88fc275d",
-      "type": "text",
-      "text": "### Quadtree\n- **Recursieve subdivisie** van vierkanten\n- Cel is in of out",
+      "id": "b61b9c7a1ae356ca",
+      "type": "file",
+      "file": "GIS/Pasted image 20240721135020.png",
       "styleAttributes": {},
-      "x": -640,
-      "y": -640,
-      "width": 250,
-      "height": 160
+      "x": 520,
+      "y": 1330,
+      "width": 400,
+      "height": 364
     },
     {
-      "id": "d769f1ec5e3d8cd7",
+      "id": "e85e256d0785b836",
       "type": "text",
-      "text": "### Block Encoding\n- RLE in 2 dimensies\n- Coordinaten zijn nodig\n- Opgeslagen op **block size** (1, 4, 9..)",
+      "text": "# Een database maken\n1. Data **onderzoeken**\n2. Data **modelleren**\n\t-> maken conceptueel model entiteiten en relaties\n3. Databank **ontwerp**\n\t-> creeren model in specifiek DBMS\n1. **Implementatie**\n2. **Onderhoud**",
       "styleAttributes": {},
-      "x": -640,
-      "y": -840,
-      "width": 250,
+      "x": 1000,
+      "y": 780,
+      "width": 433,
+      "height": 250
+    },
+    {
+      "id": "8c39e97b9d8c0e42",
+      "type": "text",
+      "text": "# Relationele databank\n- **Relatie** tussen **tabellen** is basis\n- Elke rij is **uniek** (in GIS vaak locatie)\n- 1 waarde per cel\n- **Sleutels** linken tabellen",
+      "styleAttributes": {},
+      "x": 880,
+      "y": 438,
+      "width": 390,
+      "height": 169
+    },
+    {
+      "id": "07d99644464775be",
+      "type": "text",
+      "text": "# Herprojectie, transformatie, generalisatie\nNaar **gemeenschappelijk coordinaatsysteem**\n## Transformatie\n- Translatie\n- Schaling\n- Roteren\n## Generalisatie\n- Voor combinatie verschillende schalen\n- Minder opslag, hogere snelheid\n#### Vectordata: **Lijngeneralisatie** (line thinning)\nVerwijdert elk zoveelste punt, behoudt karakteristiek vorm\n-> gebaseerd op **Douglas-Peucker** algoritme\n#### Rasterdata\n- **Aggregatie** pixels (**informatieverlies**)\n- Data **compactie**\n- **Filteren**",
+      "styleAttributes": {},
+      "x": 682,
+      "y": -2260,
+      "width": 398,
+      "height": 748
+    },
+    {
+      "id": "cc52d87bcbc9f6cb",
+      "type": "text",
+      "text": "# Edge matching & rubber sheeting\n## Edge matching\n- **Randen kaartbladen matchen**\n\t-> features matchen, klassen matchen\n- Topologie herbouwen\n- Verwijderen redundante lijnen\n## Rubber sheeting\n- Bij **herstellen complexe vervorming** of herprojectie met weinig details\n- **Controlepunten**\n\t- Goed herkenbaar\n\t- Met gekende coordinaat\n- **Moeilijkheden**\n\t- Gebrek aan geschikte controlepunten (bij extreme vervorming)\n\t- Berekeningstijd",
+      "styleAttributes": {},
+      "x": 1100,
+      "y": -2260,
+      "width": 398,
+      "height": 548
+    },
+    {
+      "id": "a76c0554517d2191",
+      "type": "text",
+      "text": "# Geocoding address data\n- Converteren *niet-geografische* beschrijving (adres, kilometerpaal) via **geocoders**\n- Complex door **onduidelijkheden**\n\t-> spellingsfouten, afkortingen, taal...",
+      "styleAttributes": {},
+      "x": 1100,
+      "y": -1680,
+      "width": 398,
       "height": 165
     },
     {
-      "id": "f024bb138111e19c",
+      "id": "56e632a5c90a6eb3",
       "type": "text",
-      "text": "# Raster \n- Ruimtelijke eenheid = **pixel**\n- **Celgrootte** bepaalt **resolutie**\n- Beperkt gebruik in cartografie\n",
+      "text": "# 2. Schaal (observatiezone)",
       "styleAttributes": {},
-      "x": -680,
-      "y": -264,
+      "x": 1880,
+      "y": -518,
       "width": 400,
-      "height": 141
+      "height": 35
     },
     {
-      "id": "fefeae4db0f1359a",
+      "id": "1ea8f658561c6e8f",
       "type": "text",
-      "text": "# Keyboard entry\nManueel, typfouten",
+      "text": "# 3. Ruimtelijke entiteiten bepalen\n- **Punt**: kleine zaken\n- **Lijn**: geordende opvolging punten\n- **Polygoon**: gesloten verzameling lijnen",
       "styleAttributes": {},
-      "x": 240,
-      "y": -880,
+      "x": 1880,
+      "y": -440,
+      "width": 400,
+      "height": 178
+    },
+    {
+      "id": "84635a6eec442706",
+      "type": "text",
+      "text": "# 6. Projectie\nAfhankelijk doel en gebied\n## Soorten\n- **Cylindrisch**: vervormingen weg van de evenaar\n- **Azimutaal**: vervormingen weg van centraal punt (goed voor poolgebied)\n- **Conisch**: vervormingen weg van gekozen breedtecirkels",
+      "styleAttributes": {},
+      "x": 1880,
+      "y": -220,
+      "width": 400,
+      "height": 333
+    },
+    {
+      "id": "3b6ef35bb2fba8f8",
+      "type": "text",
+      "text": "# Vector\n- **Reele getallen**\n- **Meeteenheid** bepaalt **resolutie**\n- Objectgericht",
+      "styleAttributes": {},
+      "x": -1040,
+      "y": -72,
+      "width": 400,
+      "height": 152
+    },
+    {
+      "id": "c2189f12b66a4f67",
+      "type": "text",
+      "text": "- Grid van **hoogtewaarden**\n- Accuraatheid afhankelijk van **complexiteit** en **resolutie**",
+      "styleAttributes": {},
+      "x": -1380,
+      "y": -360,
+      "width": 400,
+      "height": 80
+    },
+    {
+      "id": "109e21c5c139dab8",
+      "type": "text",
+      "text": "### Spaghetti structure\n- **Opeenvolging** van punten\n- Enkel X, Y is opgeslagen\n- **Redundante infromatie**",
+      "styleAttributes": {},
+      "x": -1460,
+      "y": 180,
       "width": 250,
-      "height": 100
+      "height": 220
     },
     {
-      "id": "7de5df9f9146c252",
+      "id": "fe7cc8d71cb6737a",
       "type": "text",
-      "text": "## Netwerk\nLocaties verbonden door segmenten waar langs transport/communicatie mogelijk is\n\nDikwijls topologisch, aanvullend met afstanden\n**Chinese postman, handelsreizigers**...\n### Types\n- **Boomnetwerk** (hierarchisch)\n- **Circuitnetwerk** (gesloten lus)\n",
+      "text": "### Topological data structure\nTopologie behouden zonder redundantie\n- Punt: een locatie\n- Lijn: beginpunt naar eindpunt\n- Polygoon: geordende verzameling punten",
       "styleAttributes": {},
-      "x": -280,
-      "y": -634,
-      "width": 400,
-      "height": 322
+      "x": -1460,
+      "y": 420,
+      "width": 250,
+      "height": 288
     },
     {
-      "id": "f025f85b7ce30d45",
-      "type": "file",
-      "file": "GIS/Definities/Spatial data.md",
-      "styleAttributes": {},
-      "x": 33,
-      "y": -175,
-      "width": 400,
-      "height": 103
-    },
-    {
-      "id": "dc2a513e57cae630",
+      "id": "3e38d22489a9e6f2",
       "type": "text",
-      "text": "- Volkstellingen, enquetes\n- Luchtfoto's\n\t-> verticaal vs obliek\n- Sattelietbeelden\n- GPS\n- Field Data: surveying",
+      "text": "### Vector grid\n-> nabootsing rasterbenadering\n## Triangulated Irregular Network (TIN)\n- Constructie **driehoeken**\n\t- hoekpunten: pieken, depressies\n\t- zijden: kammen, valleien\n\t- oppervlakten: gradient\n- Efficiente data-opslag door enkel gebruiken van significante punten",
       "styleAttributes": {},
-      "x": 260,
-      "y": -517,
+      "x": -1150,
+      "y": 290,
       "width": 400,
-      "height": 166
+      "height": 360
+    },
+    {
+      "id": "6114c53372b75f37",
+      "type": "text",
+      "text": "# 7. Ruimtelijke referentiesysteem\n2D, 3D?\n\n- **Geografisch** coordinatensysteem: lengte- en breedtegraad\n- **Rechthoekig** coordinatensysteem: 2D met grid (kleine gebieden)\n- **Niet**-coordinatensysteem: beschrijvende code ipv coordinaten (bv postcode)",
+      "styleAttributes": {},
+      "x": 1880,
+      "y": 157,
+      "width": 400,
+      "height": 297
     }
   ],
   "edges": [
