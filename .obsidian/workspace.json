@@ -11,11 +11,14 @@
             "id": "dcde96d6e3f61f7e",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "canvas",
               "state": {
-                "file": "GIS/Begrippenlijst.md",
-                "mode": "source",
-                "source": false
+                "file": "GIS/GIS Mindmap.canvas",
+                "viewState": {
+                  "x": 669.2275904490058,
+                  "y": 797.8442960225411,
+                  "zoom": -1.4023481504915778
+                }
               }
             }
           }
@@ -96,7 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "GIS/Begrippenlijst.md",
+                "file": "GIS/GIS Mindmap.canvas",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,7 +116,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "GIS/Begrippenlijst.md",
+                "file": "GIS/GIS Mindmap.canvas",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +128,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "GIS/Begrippenlijst.md"
+                "file": "GIS/GIS Mindmap.canvas"
               }
             }
           },
@@ -158,9 +161,10 @@
   },
   "active": "dcde96d6e3f61f7e",
   "lastOpenFiles": [
-    "GIS/GIS.md",
     "GIS/Begrippenlijst.md",
     "GIS/GIS Mindmap.canvas",
+    "GIS/Definities/Spatial data.md",
+    "GIS/GIS.md",
     "GIS/Pasted image 20240721135020.png",
     "GIS/Pasted image 20240721132402.png",
     "GIS/Pasted image 20240721132330.png",
@@ -171,7 +175,6 @@
     "GIS/Pasted image 20240721132257.png",
     "GIS/Pasted image 20240721132314.png",
     "GIS/Definities/Kaarten/Types kaarten.md",
-    "GIS/Definities/Spatial data.md",
     "GIS/Definities/Kaarten",
     "GIS/Definities",
     "conflict-files-obsidian-git.md",
