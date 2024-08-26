@@ -6,37 +6,14 @@
       {
         "id": "1be74705cef6a36b",
         "type": "tabs",
-        "dimension": 56.177402323125655,
         "children": [
           {
             "id": "dcde96d6e3f61f7e",
             "type": "leaf",
             "state": {
-              "type": "canvas",
-              "state": {
-                "file": "GIS/GIS Mindmap.canvas",
-                "viewState": {
-                  "x": -153.7415132902534,
-                  "y": 756.1106798220699,
-                  "zoom": 0.01647243441443802
-                }
-              }
-            }
-          }
-        ]
-      },
-      {
-        "id": "558885d58ab4668f",
-        "type": "tabs",
-        "dimension": 43.822597676874345,
-        "children": [
-          {
-            "id": "a1aaba9158d9f10b",
-            "type": "leaf",
-            "state": {
               "type": "markdown",
               "state": {
-                "file": "GIS/GIS.md",
+                "file": "GIS/Begrippenlijst.md",
                 "mode": "source",
                 "source": false
               }
@@ -119,7 +96,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "GIS/GIS Mindmap.canvas",
+                "file": "GIS/Begrippenlijst.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -136,7 +113,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "GIS/GIS Mindmap.canvas",
+                "file": "GIS/Begrippenlijst.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -148,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "GIS/GIS Mindmap.canvas"
+                "file": "GIS/Begrippenlijst.md"
               }
             }
           },
@@ -184,15 +161,15 @@
     "GIS/GIS.md",
     "GIS/Begrippenlijst.md",
     "GIS/GIS Mindmap.canvas",
+    "GIS/Pasted image 20240721135020.png",
+    "GIS/Pasted image 20240721132402.png",
+    "GIS/Pasted image 20240721132330.png",
     "GIS/Pasted image 20240718201616.png",
     "GIS/Pasted image 20240721120446.png",
     "GIS/Pasted image 20240719152605.png",
     "GIS/Pasted image 20240721122906.png",
     "GIS/Pasted image 20240721132257.png",
     "GIS/Pasted image 20240721132314.png",
-    "GIS/Pasted image 20240721132402.png",
-    "GIS/Pasted image 20240721132330.png",
-    "GIS/Pasted image 20240721135020.png",
     "GIS/Definities/Kaarten/Types kaarten.md",
     "GIS/Definities/Spatial data.md",
     "GIS/Definities/Kaarten",
