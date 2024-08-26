@@ -18,8 +18,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "bc89fda618a386b6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "conflict-files-obsidian-git.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -96,7 +109,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "GIS/GIS.md",
+                "file": "conflict-files-obsidian-git.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,7 +126,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "GIS/GIS.md",
+                "file": "conflict-files-obsidian-git.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "GIS/GIS.md"
+                "file": "conflict-files-obsidian-git.md"
               }
             }
           },
@@ -142,8 +155,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 432,
-    "collapsed": true
+    "width": 432
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -156,8 +168,11 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "dcde96d6e3f61f7e",
+  "active": "bc89fda618a386b6",
   "lastOpenFiles": [
+    "GIS/GIS.md",
+    "conflict-files-obsidian-git.md",
+    "SEG/Definities/Hoofdstuk 3/Typologieen/Op tribuut gebaseerd.md",
     "SEG/Begrippenlijst.md",
     "SEG/Summary.canvas",
     "SEG/Definities/Hoofdstuk 5/Regionale geografie/Benaderingen.md",
@@ -190,8 +205,6 @@
     "SEG/Definities/Hoofdstuk 3/Economische globalisering en productieregimes/Post-Fordisme.md",
     "SEG/Definities/Hoofdstuk 3/Economische globalisering en productieregimes",
     "SEG/Definities/Hoofdstuk 3/Technologie en transport.md",
-    "SEG/Definities/Hoofdstuk 3/Handel en buitenlandse investeringen/Foreign Direct Investment (FDI).md",
-    "SEG/Definities/Hoofdstuk 3/Handel en buitenlandse investeringen/Huidige situatie.md",
     "SEG/Definities/Hoofdstuk 3/Handel en buitenlandse investeringen",
     "SEG/Definities/Hoofdstuk 3/Landbouw",
     "SEG/Definities/Hoofdstuk 3/Mijnbouw",
