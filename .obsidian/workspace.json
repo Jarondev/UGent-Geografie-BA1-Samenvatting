@@ -13,29 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Geologie/Hoofdstuk 1.md",
+                "file": "GIS/Begrippenlijst.md",
                 "mode": "source",
                 "source": false
               }
             }
-          },
-          {
-            "id": "70af7d39368d9760",
-            "type": "leaf",
-            "state": {
-              "type": "canvas",
-              "state": {
-                "file": "SEG/Summary.canvas",
-                "viewState": {
-                  "x": 588,
-                  "y": 1564.0000283813476,
-                  "zoom": 0
-                }
-              }
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -112,7 +96,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "SEG/Summary.canvas",
+                "file": "GIS/Begrippenlijst.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -129,7 +113,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "SEG/Summary.canvas",
+                "file": "GIS/Begrippenlijst.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -141,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "SEG/Summary.canvas"
+                "file": "GIS/Begrippenlijst.md"
               }
             }
           }
@@ -163,10 +147,13 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "70af7d39368d9760",
+  "active": "dc1aa9e729023c3b",
   "lastOpenFiles": [
-    "Topografie/Topografie.md",
+    "GIS/GIS Mindmap.canvas",
+    "Geologie/Hoofdstuk 1.md",
+    "GIS/Begrippenlijst.md",
     "SEG/Summary.canvas",
+    "Topografie/Topografie.md",
     "SEG/Definities/Hoofdstuk 3/Relaties/Perspectieven/Politieke ecologie.md",
     "SEG/Definities/Hoofdstuk 3/Relaties/Perspectieven/Internaliseren externe kosten.md",
     "SEG/Definities/Hoofdstuk 3/Relaties/Perspectieven/Ecotransitie.md",
@@ -190,9 +177,6 @@
     "SEG/Definities/Hoofdstuk 3/Typologieen/Herdersvolkeren.md",
     "SEG/Definities/Hoofdstuk 3/Relaties/Perspectieven",
     "SEG/Definities/Hoofdstuk 3/Typologieen/Centraal geleide planeconomie.md",
-    "SEG/Definities/Hoofdstuk 3/Mijnbouw/Impact ontwikkeling op energieverbruik.md",
-    "SEG/Definities/Hoofdstuk 3/Typologieen/Agrarische samenleving.md",
-    "SEG/Definities/Hoofdstuk 3/Relaties/Ontwikkeling meten.md",
     "SEG/Definities/Hoofdstuk 5/Regionale geografie",
     "SEG/Definities/Hoofdstuk 4/Staten",
     "SEG/Definities/Hoofdstuk 4/Volkeren",
