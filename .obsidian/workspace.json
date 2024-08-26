@@ -15,9 +15,9 @@
               "state": {
                 "file": "GIS/GIS Mindmap.canvas",
                 "viewState": {
-                  "x": 669.2275904490058,
-                  "y": 797.8442960225411,
-                  "zoom": -1.4023481504915778
+                  "x": -31.373160396839125,
+                  "y": -17.48967812236404,
+                  "zoom": -0.4023481504915778
                 }
               }
             }
@@ -145,8 +145,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 432,
-    "collapsed": true
+    "width": 432
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -161,8 +160,9 @@
   },
   "active": "dcde96d6e3f61f7e",
   "lastOpenFiles": [
-    "GIS/Begrippenlijst.md",
+    "SEG/Summary.canvas",
     "GIS/GIS Mindmap.canvas",
+    "GIS/Begrippenlijst.md",
     "GIS/Definities/Spatial data.md",
     "GIS/GIS.md",
     "GIS/Pasted image 20240721135020.png",
@@ -180,7 +180,6 @@
     "conflict-files-obsidian-git.md",
     "SEG/Definities/Hoofdstuk 3/Typologieen/Op tribuut gebaseerd.md",
     "SEG/Begrippenlijst.md",
-    "SEG/Summary.canvas",
     "SEG/Definities/Hoofdstuk 5/Regionale geografie/Benaderingen.md",
     "SEG/Definities/Hoofdstuk 5/Regionale geografie/Definitie.md",
     "SEG/Definities/Hoofdstuk 5/Regionale geografie",
