@@ -96,6 +96,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "GIS/GIS.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -112,6 +113,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "GIS/GIS.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -123,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "conflict-files-obsidian-git.md"
+                "file": "GIS/GIS.md"
               }
             }
           },
@@ -154,8 +156,9 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "2d78668dba397484",
+  "active": "dcde96d6e3f61f7e",
   "lastOpenFiles": [
+    "GIS/Begrippenlijst.md",
     "GIS/GIS.md",
     "conflict-files-obsidian-git.md",
     "SEG/Definities/Hoofdstuk 3/Typologieen/Op tribuut gebaseerd.md",
@@ -190,7 +193,6 @@
     "SEG/Definities/Hoofdstuk 3/Economische globalisering en productieregimes/Fordisme.md",
     "SEG/Definities/Hoofdstuk 3/Economische globalisering en productieregimes/Post-Fordisme.md",
     "SEG/Definities/Hoofdstuk 3/Economische globalisering en productieregimes",
-    "SEG/Definities/Hoofdstuk 3/Technologie en transport.md",
     "SEG/Definities/Hoofdstuk 3/Handel en buitenlandse investeringen",
     "SEG/Definities/Hoofdstuk 3/Landbouw",
     "SEG/Definities/Hoofdstuk 3/Mijnbouw",
