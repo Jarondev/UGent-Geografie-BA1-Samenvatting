@@ -1,0 +1,34 @@
+{
+	"nodes":[
+		{"id":"d726e7c2f7bee900","type":"group","x":1260,"y":-520,"width":1000,"height":1240,"color":"5","label":"Proces om kaart te maken"},
+		{"id":"f025f85b7ce30d45","type":"file","file":"GIS/Definities/Spatial data.md","x":33,"y":-175,"width":400,"height":103},
+		{"id":"124498b16c0cf719","type":"text","text":"# Kaart\nManier om gegevens voor te stellen en te analyseren","x":600,"y":-408,"width":400,"height":136},
+		{"id":"7b82db14816a2edb","type":"text","text":"- **Thematisch**: over 1 welbepaald thema\n- **Topografisch**: over meerdere thema's\n- Schets","x":700,"y":-580,"width":400,"height":83},
+		{"id":"50245dc6c1b54e9b","type":"text","text":"# 1. Doel\nBepaalt ruimtelijke nauwkeurigheid, nodige gegevens & schaal","x":1300,"y":-497,"width":400,"height":107},
+		{"id":"56e632a5c90a6eb3","type":"text","text":"# 2. Schaal (observatiezone)","x":1820,"y":-478,"width":400,"height":35},
+		{"id":"1ea8f658561c6e8f","type":"text","text":"# 3. Ruimtelijke entiteiten bepalen\n- **Punt**: kleine zaken\n- **Lijn**: geordende opvolging punten\n- **Polygoon**: gesloten verzameling lijnen","x":1820,"y":-400,"width":400,"height":178},
+		{"id":"84635a6eec442706","type":"text","text":"# 6. Projectie\nAfhankelijk doel en gebied\n## Soorten\n- **Cylindrisch**: vervormingen weg van de evenaar\n- **Azimutaal**: vervormingen weg van centraal punt (goed voor poolgebied)\n- **Conisch**: vervormingen weg van gekozen breedtecirkels","x":1820,"y":-180,"width":400,"height":333},
+		{"id":"6114c53372b75f37","type":"text","text":"# 7. Ruimtelijke referentiesysteem\n2D, 3D?\n\n- **Geografisch** coordinatensysteem: lengte- en breedtegraad\n- **Rechthoekig** coordinatensysteem: 2D met grid (kleine gebieden)\n- **Niet**-coordinatensysteem: beschrijvende code ipv coordinaten (bv postcode)","x":1820,"y":197,"width":400,"height":297},
+		{"id":"aa8512b58c68d26d","type":"text","text":"# 4. Voorstelling\nKiezen welke objecten, afhankelijk van schaal","x":1300,"y":-340,"width":400,"height":80},
+		{"id":"625ebeb436429e35","type":"text","text":"# 5. Generalisatie\n- **Simplificatie** detail afhankelijk van schaal, *benadrukking*\n## Soorten\n- **Selectie**: welke features\n- **Vereenvoudig**: behoud essentiele trend\n- **Verplaatsing**: bij overdreven afstanden\n- **Afronding en verbetering**: smoothing techniques","x":1300,"y":-222,"width":400,"height":337},
+		{"id":"07389e299b3f8c83","type":"text","text":"# 8. Topologie\nEigenschappen objecten in de ruimte \n**Geometrische relaties**: 4-intersection matrix van Max Egenhofer","x":1300,"y":153,"width":400,"height":134},
+		{"id":"942ec16960966fe2","type":"file","file":"GIS/Pasted image 20240718201616.png","x":1300,"y":380,"width":400,"height":287},
+		{"id":"5cf24875ddcd75f7","type":"text","text":"# Thematisch\n- **Nominaal**: gegevens zonder rangorde of volgorde\n\t-> bv. geslacht\n- **Ordinaal**: gegevens met inherente volgorde\n\t-> bv. rangen in een wedstrijd\n- **Interval**: gelijke afstanden tussen waarden zonder nulpunt \n\t-> bv. kalenderdata\n- **Ratio**: interval met nulpunt\n\t-> bv. lengte, gewicht..\n# Temporeel\n- **Lineair**: jaartallen\n- **Vertakt**: scenario-analyses\n- **Cyclisch**: seizoenscycli\n","x":680,"y":-123,"width":400,"height":471},
+		{"id":"dc2a513e57cae630","type":"text","text":"- Volkstellingen, enquetes\n- Luchtfoto's\n\t-> verticaal vs obliek\n- Sattelietbeelden\n- GPS\n- Field Data: surveying","x":60,"y":-443,"width":400,"height":166}
+	],
+	"edges":[
+		{"id":"817eb7d00c7e81dd","fromNode":"f025f85b7ce30d45","fromSide":"right","toNode":"124498b16c0cf719","toSide":"left","label":"Kaarten"},
+		{"id":"4d1890c2ae567d3d","fromNode":"124498b16c0cf719","fromSide":"top","toNode":"7b82db14816a2edb","toSide":"bottom","label":"Soorten"},
+		{"id":"21a910fdc3d7762c","fromNode":"124498b16c0cf719","fromSide":"right","toNode":"50245dc6c1b54e9b","toSide":"left","label":"Proces om \nkaart te maken"},
+		{"id":"76109132db1539a2","fromNode":"50245dc6c1b54e9b","fromSide":"right","toNode":"56e632a5c90a6eb3","toSide":"left"},
+		{"id":"af638867de127b1b","fromNode":"56e632a5c90a6eb3","fromSide":"bottom","toNode":"1ea8f658561c6e8f","toSide":"top"},
+		{"id":"59cafccf7d1d4272","fromNode":"1ea8f658561c6e8f","fromSide":"left","toNode":"aa8512b58c68d26d","toSide":"right"},
+		{"id":"b7a8edbbf21b5a25","fromNode":"aa8512b58c68d26d","fromSide":"bottom","toNode":"625ebeb436429e35","toSide":"top"},
+		{"id":"e243bd45bd840535","fromNode":"625ebeb436429e35","fromSide":"right","toNode":"84635a6eec442706","toSide":"left"},
+		{"id":"761456b4f39ec90e","fromNode":"84635a6eec442706","fromSide":"bottom","toNode":"6114c53372b75f37","toSide":"top"},
+		{"id":"23baba4e45dae815","fromNode":"6114c53372b75f37","fromSide":"left","toNode":"07389e299b3f8c83","toSide":"right"},
+		{"id":"6aa62262203a5b62","fromNode":"07389e299b3f8c83","fromSide":"bottom","toNode":"942ec16960966fe2","toSide":"top"},
+		{"id":"ffa7f333ef4fd38e","fromNode":"f025f85b7ce30d45","fromSide":"right","toNode":"5cf24875ddcd75f7","toSide":"left","label":"Karakteristiek"},
+		{"id":"b31d2f584efdd599","fromNode":"f025f85b7ce30d45","fromSide":"top","toNode":"dc2a513e57cae630","toSide":"bottom","label":"Bronnen"}
+	]
+}

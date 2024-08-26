@@ -88,23 +88,23 @@
 	- Topografisch
 	- Schets
 - **Process** om kaart te maken:
-	- **Doel** (purpose):
+	1. **Doel** (purpose):
 		→ bepaalt ruimtelijke nauwkeurigheid, nodige gegevens & schaal
-	- **Schaal** (observatiezone)
-	- **Ruimtelijke entiteiten** bepalen
+	2. **Schaal** (observatiezone)
+	3. **Ruimtelijke entiteiten** bepalen
 		→ **punt**: kleine zaken
 		→ **lijn**: geordende opeenvolging punten
 		→ **vlak (polygoon)**: gesloten verzameling lijnen
-	- **Voorstelling**: afhankelijk van schaal
-	- **Generalisatie**
+	4. **Voorstelling**: afhankelijk van schaal
+	5. **Generalisatie**
 		→ simplificatie detail afhankelijk van schaal, benadrukking,... → selectie, vereenvoudig, vetplaatsing, afronding & verbetering
-	- **Projectie**: afhankelijk vandoel & gebied
-	- **Ruimtelijk referentiesysteem**: 2D, 3D?
+	6. **Projectie**: afhankelijk vandoel & gebied
+	7. **Ruimtelijk referentiesysteem**: 2D, 3D?
 		- **Geografisch** coordinatensysteem: **lengte- en breedtegraad**
 		- **Rechthoekig** coordinatensysteem: 2D met **grid** (kleine gebieden) 
 		- **Niet**-coordinatensysteem: **beschrijvende code** ipv coordinaten
 			→ beter voor bv postbode
-	- **Topologie**: eigenschappen objecten in de ruimte (geometrische relaties)
+	8. **Topologie**: eigenschappen objecten in de ruimte (geometrische relaties)
 		→ 4-intersection matrix
 		![[Pasted image 20240718201616.png]]
 ## Karakteristiek
@@ -139,7 +139,7 @@
 	- **meeteenheid** bepaalt resolutie
 	- objectgericht
 ### Douglas-Peucker algoritme
-- algoritme om een curve te transformeren naar een gelijkaardige curve met minder punten
+- Algoritme om een curve te transformeren naar een gelijkaardige curve met minder punten
 ![[Pasted image 20240719152605.png|700]]
 ## Spatial Data Structures
 ### Raster Data Structures
