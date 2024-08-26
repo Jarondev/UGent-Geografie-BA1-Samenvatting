@@ -12,6 +12,28 @@
       "label": "Hoofdstuk 3: Gebruik fysisch milieu"
     },
     {
+      "id": "16141ce7c882efba",
+      "type": "group",
+      "styleAttributes": {},
+      "x": 2410,
+      "y": 840,
+      "width": 940,
+      "height": 1140,
+      "color": "4",
+      "label": "Mijnbouw"
+    },
+    {
+      "id": "27b0772739bcada0",
+      "type": "group",
+      "styleAttributes": {},
+      "x": 2410,
+      "y": 2030,
+      "width": 940,
+      "height": 760,
+      "color": "4",
+      "label": "Landbouw"
+    },
+    {
       "id": "bd3a3753805052da",
       "type": "group",
       "styleAttributes": {},
@@ -190,17 +212,6 @@
       "label": "Hoofdstuk 5: Geografische denkpatronen"
     },
     {
-      "id": "27b0772739bcada0",
-      "type": "group",
-      "styleAttributes": {},
-      "x": 2410,
-      "y": 2030,
-      "width": 940,
-      "height": 760,
-      "color": "4",
-      "label": "Landbouw"
-    },
-    {
       "id": "aa74dd883cce30c8",
       "type": "group",
       "styleAttributes": {},
@@ -210,17 +221,6 @@
       "height": 827,
       "color": "5",
       "label": "Regionale geografie"
-    },
-    {
-      "id": "16141ce7c882efba",
-      "type": "group",
-      "styleAttributes": {},
-      "x": 2410,
-      "y": 840,
-      "width": 940,
-      "height": 1140,
-      "color": "4",
-      "label": "Mijnbouw"
     },
     {
       "id": "29eb0b20c16cac13",
@@ -254,16 +254,6 @@
       "height": 1180,
       "color": "4",
       "label": "Dynamiek van de natuurlijke aangroei"
-    },
-    {
-      "id": "b8285e616e7e6ee0",
-      "type": "file",
-      "file": "SEG/Definities/Hoofdstuk 3/Landbouw/Onevenwicht tussen productie en consumptie.md",
-      "styleAttributes": {},
-      "x": 2910,
-      "y": 2071,
-      "width": 400,
-      "height": 180
     },
     {
       "id": "4356a206e96507d3",
@@ -406,16 +396,6 @@
       "height": 340
     },
     {
-      "id": "df90d8cc2f3bc8eb",
-      "type": "file",
-      "file": "SEG/Definities/Hoofdstuk 3/Mijnbouw/Impact grondstoffen op ontwikkeling.md",
-      "styleAttributes": {},
-      "x": 2910,
-      "y": 1379,
-      "width": 400,
-      "height": 528
-    },
-    {
       "id": "e2732f96897d0fe8",
       "type": "file",
       "file": "SEG/Definities/Hoofdstuk 1/Europa.md",
@@ -436,16 +416,6 @@
       "height": 360
     },
     {
-      "id": "3dc2b04773c7b02f",
-      "type": "file",
-      "file": "SEG/Definities/Hoofdstuk 3/Mijnbouw/Regionale verschillen energiebalans.md",
-      "styleAttributes": {},
-      "x": 2450,
-      "y": 1620,
-      "width": 400,
-      "height": 287
-    },
-    {
       "id": "730310e0da338b05",
       "type": "file",
       "file": "SEG/Definities/Hoofdstuk 3/Technologie en transport.md",
@@ -464,26 +434,6 @@
       "y": 2170,
       "width": 400,
       "height": 412
-    },
-    {
-      "id": "48f52247adcf31ee",
-      "type": "file",
-      "file": "SEG/Definities/Hoofdstuk 3/Landbouw/Belangrijke evoluties.md",
-      "styleAttributes": {},
-      "x": 2470,
-      "y": 2071,
-      "width": 400,
-      "height": 305
-    },
-    {
-      "id": "28ae114b689c70f8",
-      "type": "file",
-      "file": "SEG/Definities/Hoofdstuk 3/Mijnbouw/Impact ontwikkeling op energieverbruik.md",
-      "styleAttributes": {},
-      "x": 2450,
-      "y": 1272,
-      "width": 400,
-      "height": 309
     },
     {
       "id": "9acbd2b68fbe5b39",
@@ -534,16 +484,6 @@
       "y": 2627,
       "width": 400,
       "height": 129
-    },
-    {
-      "id": "39ddedce76a79011",
-      "type": "file",
-      "file": "SEG/Definities/Hoofdstuk 3/Landbouw/Rol van de overheid.md",
-      "styleAttributes": {},
-      "x": 2910,
-      "y": 2294,
-      "width": 400,
-      "height": 297
     },
     {
       "id": "0d5f2ee79c77be29",
@@ -864,6 +804,66 @@
       "y": 3140,
       "width": 400,
       "height": 996
+    },
+    {
+      "id": "b8285e616e7e6ee0",
+      "type": "file",
+      "file": "SEG/Definities/Hoofdstuk 3/Landbouw/Onevenwicht tussen productie en consumptie.md",
+      "styleAttributes": {},
+      "x": 2910,
+      "y": 2071,
+      "width": 400,
+      "height": 180
+    },
+    {
+      "id": "df90d8cc2f3bc8eb",
+      "type": "file",
+      "file": "SEG/Definities/Hoofdstuk 3/Mijnbouw/Impact grondstoffen op ontwikkeling.md",
+      "styleAttributes": {},
+      "x": 2910,
+      "y": 1379,
+      "width": 400,
+      "height": 528
+    },
+    {
+      "id": "3dc2b04773c7b02f",
+      "type": "file",
+      "file": "SEG/Definities/Hoofdstuk 3/Mijnbouw/Regionale verschillen energiebalans.md",
+      "styleAttributes": {},
+      "x": 2450,
+      "y": 1620,
+      "width": 400,
+      "height": 287
+    },
+    {
+      "id": "48f52247adcf31ee",
+      "type": "file",
+      "file": "SEG/Definities/Hoofdstuk 3/Landbouw/Belangrijke evoluties.md",
+      "styleAttributes": {},
+      "x": 2470,
+      "y": 2071,
+      "width": 400,
+      "height": 305
+    },
+    {
+      "id": "28ae114b689c70f8",
+      "type": "file",
+      "file": "SEG/Definities/Hoofdstuk 3/Mijnbouw/Impact ontwikkeling op energieverbruik.md",
+      "styleAttributes": {},
+      "x": 2450,
+      "y": 1272,
+      "width": 400,
+      "height": 309
+    },
+    {
+      "id": "39ddedce76a79011",
+      "type": "file",
+      "file": "SEG/Definities/Hoofdstuk 3/Landbouw/Rol van de overheid.md",
+      "styleAttributes": {},
+      "x": 2910,
+      "y": 2294,
+      "width": 400,
+      "height": 297
     }
   ],
   "edges": [
