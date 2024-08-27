@@ -1,58 +1,3 @@
-- [1. GIS?](#1.%20GIS?)
-	- [Definitie](#Definitie)
-	- [Componenten](#Componenten)
-	- [Spatial data](#Spatial%20data)
-	- [Mensen en GIS](#Mensen%20en%20GIS)
-- [2. Spatial Data](#2.%20Spatial%20Data)
-	- [Intro](#Intro)
-	- [Kaarten en inzichten](#Kaarten%20en%20inzichten)
-	- [Karakteristiek](#Karakteristiek)
-		- [Attributen](#Attributen)
-		- [Temporeel](#Temporeel)
-	- [Bronnen](#Bronnen)
-- [3. Spatial Data Modelling](#3.%20Spatial%20Data%20Modelling)
-	- [Entity Definition](#Entity%20Definition)
-	- [Spatial Data Models](#Spatial%20Data%20Models)
-		- [Douglas-Peucker algoritme](#Douglas-Peucker%20algoritme)
-	- [Spatial Data Structures](#Spatial%20Data%20Structures)
-		- [Raster Data Structures](#Raster%20Data%20Structures)
-	- [Modeling Surfaces](#Modeling%20Surfaces)
-		- [DTM](#DTM)
-		- [Raster](#Raster)
-		- [Vector](#Vector)
-	- [Modelling Networks](#Modelling%20Networks)
-	- [Benaderingen](#Benaderingen)
-- [4. Database Management](#4.%20Database%20Management)
-	- [Intro](#Intro)
-	- [Waarom databank?](#Waarom%20databank?)
-	- [Relationele Databank](#Relationele%20Databank)
-	- [Een database maken](#Een%20database%20maken)
-- [5. Data Input and Editing](#5.%20Data%20Input%20and%20Editing)
-	- [Methods of data input](#Methods%20of%20data%20input)
-	- [Data Editing](#Data%20Editing)
-		- [Fouten detecteren en corrigeren](#Fouten%20detecteren%20en%20corrigeren)
-		- [Detecteren](#Detecteren)
-	- [Reprojection, transformation, generalization](#Reprojection,%20transformation,%20generalization)
-	- [Edge matching and rubber sheeting](#Edge%20matching%20and%20rubber%20sheeting)
-		- [Edge matching](#Edge%20matching)
-		- [Rubber sheeting](#Rubber%20sheeting)
-	- [Geocoding address data](#Geocoding%20address%20data)
-	- [Updating and maintaining databases](#Updating%20and%20maintaining%20databases)
-- [6. Data Analysis](#6.%20Data%20Analysis)
-	- [Measurements](#Measurements)
-	- [Queries](#Queries)
-	- [Buffering](#Buffering)
-	- [Filters](#Filters)
-	- [Map Overlay](#Map%20Overlay)
-		- [Vector Overlay](#Vector%20Overlay)
-		- [Raster Overlay](#Raster%20Overlay)
-	- [Spatial Interpolation](#Spatial%20Interpolation)
-	- [Surface Analysis](#Surface%20Analysis)
-		- [Factoren](#Factoren)
-		- [Weergeven van factoren](#Weergeven%20van%20factoren)
-	- [Visibility Analysis](#Visibility%20Analysis)
-	- [Network Analysis](#Network%20Analysis)
-
 # 1. GIS?
 ## Definitie
 - Veel definities: afhankelijk van wie
@@ -88,23 +33,23 @@
 	- Topografisch
 	- Schets
 - **Process** om kaart te maken:
-	1. **Doel** (purpose):
+	- **Doel** (purpose):
 		→ bepaalt ruimtelijke nauwkeurigheid, nodige gegevens & schaal
-	2. **Schaal** (observatiezone)
-	3. **Ruimtelijke entiteiten** bepalen
+	- **Schaal** (observatiezone)
+	- **Ruimtelijke entiteiten** bepalen
 		→ **punt**: kleine zaken
 		→ **lijn**: geordende opeenvolging punten
 		→ **vlak (polygoon)**: gesloten verzameling lijnen
-	4. **Voorstelling**: afhankelijk van schaal
-	5. **Generalisatie**
+	- **Voorstelling**: afhankelijk van schaal
+	- **Generalisatie**
 		→ simplificatie detail afhankelijk van schaal, benadrukking,... → selectie, vereenvoudig, vetplaatsing, afronding & verbetering
-	6. **Projectie**: afhankelijk vandoel & gebied
-	7. **Ruimtelijk referentiesysteem**: 2D, 3D?
+	- **Projectie**: afhankelijk vandoel & gebied
+	- **Ruimtelijk referentiesysteem**: 2D, 3D?
 		- **Geografisch** coordinatensysteem: **lengte- en breedtegraad**
 		- **Rechthoekig** coordinatensysteem: 2D met **grid** (kleine gebieden) 
 		- **Niet**-coordinatensysteem: **beschrijvende code** ipv coordinaten
 			→ beter voor bv postbode
-	8. **Topologie**: eigenschappen objecten in de ruimte (geometrische relaties)
+	- **Topologie**: eigenschappen objecten in de ruimte (geometrische relaties)
 		→ 4-intersection matrix
 		![[Pasted image 20240718201616.png]]
 ## Karakteristiek
@@ -139,7 +84,7 @@
 	- **meeteenheid** bepaalt resolutie
 	- objectgericht
 ### Douglas-Peucker algoritme
-- Algoritme om een curve te transformeren naar een gelijkaardige curve met minder punten
+- algoritme om een curve te transformeren naar een gelijkaardige curve met minder punten
 ![[Pasted image 20240719152605.png|700]]
 ## Spatial Data Structures
 ### Raster Data Structures

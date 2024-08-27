@@ -16,26 +16,13 @@
                 "file": "GIS/GIS Mindmap.canvas",
                 "viewState": {
                   "x": 420,
-                  "y": -190,
+                  "y": -276.91341463414636,
                   "zoom": 0.0976518495084222
                 }
               }
             }
-          },
-          {
-            "id": "ac4f880a6d149ab3",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "conflict-files-obsidian-git.md",
-                "mode": "source",
-                "source": false
-              }
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -171,10 +158,11 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "ac4f880a6d149ab3",
+  "active": "2d78668dba397484",
   "lastOpenFiles": [
-    "GIS/GIS Mindmap.canvas",
     "conflict-files-obsidian-git.md",
+    "GIS/Definities/Spatial Data.md",
+    "GIS/GIS Mindmap.canvas",
     "GIS/Begrippenlijst.md",
     "SEG/Summary.canvas",
     "GIS/Definities/Spatial data.md",
