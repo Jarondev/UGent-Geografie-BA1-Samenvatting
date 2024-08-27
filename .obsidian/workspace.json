@@ -13,6 +13,24 @@
             "state": {
               "type": "markdown",
               "state": {
+                "file": "Economie/Begrippenlijst.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      },
+      {
+        "id": "afb65a9ac1c00260",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "6d8f107a38a9b30f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
                 "file": "Economie/Economie.md",
                 "mode": "source",
                 "source": false
@@ -96,7 +114,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Economie/Economie.md",
+                "file": "Economie/Begrippenlijst.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,7 +131,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Economie/Economie.md",
+                "file": "Economie/Begrippenlijst.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +143,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Economie/Economie.md"
+                "file": "Economie/Begrippenlijst.md"
               }
             }
           },
@@ -157,6 +175,8 @@
   },
   "active": "dcde96d6e3f61f7e",
   "lastOpenFiles": [
+    "Economie/Economie.md",
+    "Economie/Begrippenlijst.md",
     "GIS/GIS Mindmap.canvas",
     "canvas-export.html",
     "GIS/GIS.md",
@@ -202,7 +222,6 @@
     "SEG/Definities/Hoofdstuk 4/Staten/Classificaties.md",
     "SEG/Definities/Hoofdstuk 4/Staten",
     "SEG/Definities/Hoofdstuk 4",
-    "SEG/Hoofdstuk 2.md",
     "SEG/Definities/Hoofdstuk 3/Economische globalisering en productieregimes",
     "Untitled 1.canvas",
     "Untitled.canvas"
