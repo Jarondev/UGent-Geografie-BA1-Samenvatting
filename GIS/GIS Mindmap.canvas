@@ -23,17 +23,6 @@
       "label": "Proces om kaart te maken"
     },
     {
-      "id": "7817e290c4159b19",
-      "type": "group",
-      "styleAttributes": {},
-      "x": -220,
-      "y": -1740,
-      "width": 740,
-      "height": 1000,
-      "color": "5",
-      "label": "Data Input Methods"
-    },
-    {
       "id": "d492157f45d7bab5",
       "type": "group",
       "styleAttributes": {},
@@ -54,6 +43,17 @@
       "height": 800,
       "color": "5",
       "label": "Data Editing"
+    },
+    {
+      "id": "7817e290c4159b19",
+      "type": "group",
+      "styleAttributes": {},
+      "x": -220,
+      "y": -1740,
+      "width": 740,
+      "height": 1000,
+      "color": "5",
+      "label": "Data Input Methods"
     },
     {
       "id": "4f62e1e997c93aa3",
@@ -229,12 +229,12 @@
     {
       "id": "e85e256d0785b836",
       "type": "text",
-      "text": "# Een database maken\n1. Data **onderzoeken**\n2. Data **modelleren**\n\t-> maken conceptueel model entiteiten en relaties\n3. Databank **ontwerp**\n\t-> creeren model in specifiek DBMS\n1. **Implementatie**\n2. **Onderhoud**",
+      "text": "# Een database maken\n1. Data **onderzoeken**\n2. Data **modelleren**\n\t1. Identificeren identiteiten\n\t2. Identificeren relaties\n\t3. Identificeren attributen\n\t4. Creeren van tabel\n3. Databank **ontwerp**\n\t-> creeren model in specifiek DBMS\n4. **Implementatie**\n5. **Onderhoud**",
       "styleAttributes": {},
       "x": 1000,
       "y": 780,
       "width": 433,
-      "height": 250
+      "height": 327
     },
     {
       "id": "b61b9c7a1ae356ca",
