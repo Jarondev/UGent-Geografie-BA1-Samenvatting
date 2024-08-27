@@ -21,8 +21,21 @@
                 }
               }
             }
+          },
+          {
+            "id": "ac4f880a6d149ab3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "conflict-files-obsidian-git.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -99,7 +112,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "GIS/GIS Mindmap.canvas",
+                "file": "conflict-files-obsidian-git.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -116,7 +129,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "GIS/GIS Mindmap.canvas",
+                "file": "conflict-files-obsidian-git.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -128,7 +141,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "GIS/GIS Mindmap.canvas"
+                "file": "conflict-files-obsidian-git.md"
               }
             }
           },
@@ -145,8 +158,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 432,
-    "collapsed": true
+    "width": 432
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -159,10 +171,11 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "dcde96d6e3f61f7e",
+  "active": "ac4f880a6d149ab3",
   "lastOpenFiles": [
-    "GIS/Begrippenlijst.md",
     "GIS/GIS Mindmap.canvas",
+    "conflict-files-obsidian-git.md",
+    "GIS/Begrippenlijst.md",
     "SEG/Summary.canvas",
     "GIS/Definities/Spatial data.md",
     "GIS/GIS.md",
@@ -178,7 +191,6 @@
     "GIS/Definities/Kaarten/Types kaarten.md",
     "GIS/Definities/Kaarten",
     "GIS/Definities",
-    "conflict-files-obsidian-git.md",
     "SEG/Definities/Hoofdstuk 3/Typologieen/Op tribuut gebaseerd.md",
     "SEG/Begrippenlijst.md",
     "SEG/Definities/Hoofdstuk 5/Regionale geografie/Benaderingen.md",
