@@ -11,14 +11,11 @@
             "id": "dcde96d6e3f61f7e",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "markdown",
               "state": {
-                "file": "GIS/GIS Mindmap.canvas",
-                "viewState": {
-                  "x": 422.0461891032875,
-                  "y": 518.8211832296149,
-                  "zoom": -0.4023481504915778
-                }
+                "file": "Economie/Economie.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -99,7 +96,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "GIS/GIS Mindmap.canvas",
+                "file": "Economie/Economie.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -116,7 +113,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "GIS/GIS Mindmap.canvas",
+                "file": "Economie/Economie.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -128,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "GIS/GIS Mindmap.canvas"
+                "file": "Economie/Economie.md"
               }
             }
           },
@@ -160,10 +157,10 @@
   },
   "active": "dcde96d6e3f61f7e",
   "lastOpenFiles": [
+    "GIS/GIS Mindmap.canvas",
     "canvas-export.html",
     "GIS/GIS.md",
     "GIS/Begrippenlijst GIS.md",
-    "GIS/GIS Mindmap.canvas",
     "GIS/Definities/Spatial data.md",
     "GIS/Definities/Kaarten/Types kaarten.md",
     "conflict-files-obsidian-git.md",
@@ -207,7 +204,6 @@
     "SEG/Definities/Hoofdstuk 4",
     "SEG/Hoofdstuk 2.md",
     "SEG/Definities/Hoofdstuk 3/Economische globalisering en productieregimes",
-    "SEG/Definities/Hoofdstuk 3/Handel en buitenlandse investeringen",
     "Untitled 1.canvas",
     "Untitled.canvas"
   ]
