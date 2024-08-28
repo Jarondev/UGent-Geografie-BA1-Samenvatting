@@ -1,4 +1,4 @@
-- [De geologische tijd](#De%20geologische%20tijd)
+w- [De geologische tijd](#De%20geologische%20tijd)
 	- [Relatieve datering](#Relatieve%20datering)
 		- [Principe van superpositie](#Principe%20van%20superpositie)
 		- [Principe van oorspronkelijke horizontaliteit](#Principe%20van%20oorspronkelijke%20horizontaliteit)

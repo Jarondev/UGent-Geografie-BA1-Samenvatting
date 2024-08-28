@@ -30,6 +30,7 @@
 | Monetair beleid              | Beleid van de centrale bank om de geldhoeveelheid en rentevoeten te beheersen om inflatie, werkloosheid en economische groei te beinvloeden |
 | NBP                          | BBP - Afschrijvingen (onderhoud materiaal)                                                                                                  |
 | Opportuniteitskost           | Niet gerealiseerde opbrengst van best mogelijk alternatief                                                                                  |
+| Opportuniteitskost           | Waarde van het beste alternatief dat je opgeeft wanneer je een bepaalde keuze maakt                                                         |
 | Perfecte informatie          | Kopers en verkopers hebben perfecte kennis                                                                                                  |
 | Perfecte prijsdiscriminatie  | Verkoper kent exacte bereidheid tot betalen van elke klant                                                                                  |
 | Pigouviaanse belastingen     | Belastingen om negatieve externe effecten te corrigeren                                                                                     |

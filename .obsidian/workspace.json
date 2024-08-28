@@ -4,34 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "1be74705cef6a36b",
+        "id": "6fc51649c96d5c4b",
         "type": "tabs",
         "children": [
           {
-            "id": "dcde96d6e3f61f7e",
+            "id": "40f3575e0d4f350e",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Economie/Begrippenlijst.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          }
-        ]
-      },
-      {
-        "id": "afb65a9ac1c00260",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "6d8f107a38a9b30f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Economie/Economie.md",
+                "file": "Geologie/Hoofdstuk 5.md",
                 "mode": "source",
                 "source": false
               }
@@ -114,7 +96,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Economie/Begrippenlijst.md",
+                "file": "Geologie/Hoofdstuk 5.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -131,7 +113,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Economie/Begrippenlijst.md",
+                "file": "Geologie/Hoofdstuk 5.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -143,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Economie/Begrippenlijst.md"
+                "file": "Geologie/Hoofdstuk 5.md"
               }
             }
           },
@@ -160,7 +142,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 432
+    "width": 432,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -173,18 +156,23 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "dcde96d6e3f61f7e",
+  "active": "40f3575e0d4f350e",
   "lastOpenFiles": [
-    "Economie/Economie.md",
-    "Economie/Begrippenlijst.md",
-    "GIS/GIS Mindmap.canvas",
-    "canvas-export.html",
+    "2024-08-28.md",
     "GIS/GIS.md",
+    "Geologie/Hoofdstuk 1.md",
+    "Geologie/Begrippenlijst.md",
+    "GIS/GIS Mindmap.canvas",
+    "SEG/Summary.canvas",
+    "Geologie/Partim S. Louwye.md",
+    "Geologie/Hoofdstuk 5.md",
+    "Economie/Begrippenlijst.md",
+    "Economie/Economie.md",
+    "canvas-export.html",
     "GIS/Begrippenlijst GIS.md",
     "GIS/Definities/Spatial data.md",
     "GIS/Definities/Kaarten/Types kaarten.md",
     "conflict-files-obsidian-git.md",
-    "SEG/Summary.canvas",
     "GIS/Definities/Spatial Data.md",
     "GIS/Definities/Kaarten",
     "GIS/Pasted image 20240721135020.png",
@@ -214,12 +202,7 @@
     "SEG/Definities/Hoofdstuk 4/Sociale leefgemeenschappen/Verstedelijking.md",
     "SEG/Definities/Hoofdstuk 4/Sociale leefgemeenschappen/Definitie.md",
     "SEG/Definities/Hoofdstuk 4/Sociale leefgemeenschappen",
-    "SEG/Definities/Hoofdstuk 4/Volkeren/Culturele globalisering.md",
-    "SEG/Definities/Hoofdstuk 4/Volkeren/Types.md",
     "SEG/Definities/Hoofdstuk 4/Volkeren",
-    "SEG/Definities/Hoofdstuk 4/Staten/Staten en naties.md",
-    "SEG/Definities/Hoofdstuk 4/Staten/Vorming en (des)integratie wereldkaart.md",
-    "SEG/Definities/Hoofdstuk 4/Staten/Classificaties.md",
     "SEG/Definities/Hoofdstuk 4/Staten",
     "SEG/Definities/Hoofdstuk 4",
     "SEG/Definities/Hoofdstuk 3/Economische globalisering en productieregimes",
