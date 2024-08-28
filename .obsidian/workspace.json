@@ -11,14 +11,11 @@
             "id": "5324f9dcb142b64e",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "markdown",
               "state": {
-                "file": "GIS/GIS Mindmap.canvas",
-                "viewState": {
-                  "x": -101.06673181159206,
-                  "y": 682.4959777536183,
-                  "zoom": -0.8872355340402684
-                }
+                "file": "Chemie/Begrippenlijst.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -99,7 +96,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "GIS/GIS Mindmap.canvas",
+                "file": "Chemie/Begrippenlijst.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -116,7 +113,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "GIS/GIS Mindmap.canvas",
+                "file": "Chemie/Begrippenlijst.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -128,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "GIS/GIS Mindmap.canvas"
+                "file": "Chemie/Begrippenlijst.md"
               }
             }
           },
@@ -172,14 +169,14 @@
   },
   "active": "5324f9dcb142b64e",
   "lastOpenFiles": [
-    "GIS/GIS.md",
+    "Chemie/Chemie.md",
     "GIS/GIS Mindmap.canvas",
+    "GIS/GIS.md",
     "SEG/Begrippenlijst.md",
     "SEG/Definities/Hoofdstuk 3/Economische globalisering en productieregimes/Fordisme.md",
     "SEG/Summary.canvas",
     "Chemie/Begrippenlijst.md",
     "Economie/Begrippenlijst.md",
-    "Chemie/Chemie.md",
     "Chemie",
     "Geologie/Hoofdstuk 2.md",
     "Geologie/Hoofdstuk 4.md",
