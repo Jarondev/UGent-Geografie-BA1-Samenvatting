@@ -32,5 +32,6 @@
   "sanctum@@table-hover-row": false,
   "sanctum@@tag-radius": "2em",
   "sanctum@@sticky-view-actions": false,
-  "sanctum@@stendig": false
+  "sanctum@@stendig": false,
+  "sanctum@@file-line-width": 50
 }

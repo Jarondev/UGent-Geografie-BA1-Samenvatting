@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "6fc51649c96d5c4b",
+        "id": "c13c69ea8aa347c8",
         "type": "tabs",
         "children": [
           {
-            "id": "40f3575e0d4f350e",
+            "id": "5324f9dcb142b64e",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -138,7 +138,7 @@
             }
           },
           {
-            "id": "b8d071a295343529",
+            "id": "444150abfb21c5f9",
             "type": "leaf",
             "state": {
               "type": "calendar",
@@ -146,12 +146,11 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
-    "width": 432,
-    "collapsed": true
+    "width": 432
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -164,21 +163,21 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "40f3575e0d4f350e",
+  "active": "5324f9dcb142b64e",
   "lastOpenFiles": [
-    "GIS/GIS Mindmap.canvas",
-    "GIS/Begrippenlijst GIS.md",
-    "GIS/GIS.md",
-    "GIS/Pasted image 20240719152605.png",
-    "GIS/Pasted image 20240718201616.png",
-    "Geologie/Hoofdstuk 2.md",
     "Geologie/Hoofdstuk 3.md",
     "Geologie/Hoofdstuk 4.md",
+    "GIS/GIS.md",
+    "GIS/Begrippenlijst GIS.md",
+    "2024-08-28.md",
     "Geologie/Begrippenlijst.md",
+    "GIS/GIS Mindmap.canvas",
+    "Geologie/Hoofdstuk 1.md",
+    "Geologie/Hoofdstuk 2.md",
+    "GIS/Pasted image 20240719152605.png",
+    "GIS/Pasted image 20240718201616.png",
     "SEG/Summary.canvas",
     "Geologie/Hoofdstuk 5.md",
-    "2024-08-28.md",
-    "Geologie/Hoofdstuk 1.md",
     "Geologie/Partim S. Louwye.md",
     "Economie/Begrippenlijst.md",
     "Economie/Economie.md",
