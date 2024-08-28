@@ -11,11 +11,14 @@
             "id": "5324f9dcb142b64e",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "canvas",
               "state": {
-                "file": "Economie/Begrippenlijst.md",
-                "mode": "source",
-                "source": false
+                "file": "GIS/GIS Mindmap.canvas",
+                "viewState": {
+                  "x": -101.06673181159206,
+                  "y": 682.4959777536183,
+                  "zoom": -0.8872355340402684
+                }
               }
             }
           }
@@ -96,7 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Economie/Begrippenlijst.md",
+                "file": "GIS/GIS Mindmap.canvas",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,7 +116,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Economie/Begrippenlijst.md",
+                "file": "GIS/GIS Mindmap.canvas",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +128,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Economie/Begrippenlijst.md"
+                "file": "GIS/GIS Mindmap.canvas"
               }
             }
           },
@@ -150,7 +153,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 432
+    "width": 432,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -168,10 +172,17 @@
   },
   "active": "5324f9dcb142b64e",
   "lastOpenFiles": [
+    "GIS/GIS.md",
+    "GIS/GIS Mindmap.canvas",
+    "SEG/Begrippenlijst.md",
+    "SEG/Definities/Hoofdstuk 3/Economische globalisering en productieregimes/Fordisme.md",
+    "SEG/Summary.canvas",
+    "Chemie/Begrippenlijst.md",
+    "Economie/Begrippenlijst.md",
+    "Chemie/Chemie.md",
+    "Chemie",
     "Geologie/Hoofdstuk 2.md",
     "Geologie/Hoofdstuk 4.md",
-    "GIS/GIS Mindmap.canvas",
-    "GIS/GIS.md",
     "Geologie/Hoofdstuk 3.md",
     "GIS/Begrippenlijst GIS.md",
     "2024-08-28.md",
@@ -179,10 +190,8 @@
     "Geologie/Hoofdstuk 1.md",
     "GIS/Pasted image 20240719152605.png",
     "GIS/Pasted image 20240718201616.png",
-    "SEG/Summary.canvas",
     "Geologie/Hoofdstuk 5.md",
     "Geologie/Partim S. Louwye.md",
-    "Economie/Begrippenlijst.md",
     "Economie/Economie.md",
     "canvas-export.html",
     "GIS/Definities/Spatial data.md",
@@ -199,22 +208,17 @@
     "GIS/Pasted image 20240721132314.png",
     "GIS/Definities",
     "SEG/Definities/Hoofdstuk 3/Typologieen/Op tribuut gebaseerd.md",
-    "SEG/Begrippenlijst.md",
     "SEG/Definities/Hoofdstuk 5/Regionale geografie/Benaderingen.md",
     "SEG/Definities/Hoofdstuk 5/Regionale geografie/Definitie.md",
     "SEG/Definities/Hoofdstuk 5/Regionale geografie",
     "SEG/Definities/Hoofdstuk 5/Metageografieen.md",
     "Topografie/Topografie.md",
-    "SEG/Definities/Hoofdstuk 5/Ruimtelijke schaalniveaus.md",
-    "SEG/Definities/Hoofdstuk 5/Aard relatie tussen mens en fysisch milieu.md",
-    "SEG/Hoofdstuk 5.md",
     "SEG/Pasted image 20240722211640.png",
     "SEG/Definities/Hoofdstuk 5",
     "SEG/Definities/Hoofdstuk 4/Sociale leefgemeenschappen",
     "SEG/Definities/Hoofdstuk 4/Volkeren",
     "SEG/Definities/Hoofdstuk 4/Staten",
     "SEG/Definities/Hoofdstuk 4",
-    "SEG/Definities/Hoofdstuk 3/Economische globalisering en productieregimes",
     "Untitled 1.canvas",
     "Untitled.canvas"
   ]
