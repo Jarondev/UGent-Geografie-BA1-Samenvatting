@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "GIS/GIS.md",
+                "file": "Economie/Begrippenlijst.md",
                 "mode": "source",
                 "source": false
               }
@@ -96,7 +96,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "GIS/GIS.md",
+                "file": "Economie/Begrippenlijst.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,7 +113,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "GIS/GIS.md",
+                "file": "Economie/Begrippenlijst.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "GIS/GIS.md"
+                "file": "Economie/Begrippenlijst.md"
               }
             }
           },
@@ -146,7 +146,7 @@
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -160,20 +160,23 @@
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "table-editor-obsidian:Advanced Tables Toolbar": false
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "pdf-plus:PDF++: Toggle auto-copy": false,
+      "pdf-plus:PDF++: Toggle auto-focus": false,
+      "pdf-plus:PDF++: Toggle auto-paste": false
     }
   },
   "active": "5324f9dcb142b64e",
   "lastOpenFiles": [
-    "Geologie/Hoofdstuk 3.md",
+    "Geologie/Hoofdstuk 2.md",
     "Geologie/Hoofdstuk 4.md",
+    "GIS/GIS Mindmap.canvas",
     "GIS/GIS.md",
+    "Geologie/Hoofdstuk 3.md",
     "GIS/Begrippenlijst GIS.md",
     "2024-08-28.md",
     "Geologie/Begrippenlijst.md",
-    "GIS/GIS Mindmap.canvas",
     "Geologie/Hoofdstuk 1.md",
-    "Geologie/Hoofdstuk 2.md",
     "GIS/Pasted image 20240719152605.png",
     "GIS/Pasted image 20240718201616.png",
     "SEG/Summary.canvas",
