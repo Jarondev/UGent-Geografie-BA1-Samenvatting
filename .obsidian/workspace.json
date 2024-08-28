@@ -11,11 +11,14 @@
             "id": "40f3575e0d4f350e",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "canvas",
               "state": {
-                "file": "Geologie/Hoofdstuk 5.md",
-                "mode": "source",
-                "source": false
+                "file": "GIS/GIS Mindmap.canvas",
+                "viewState": {
+                  "x": 21.78180233968675,
+                  "y": -61.84570341367561,
+                  "zoom": -0.3414852956284975
+                }
               }
             }
           }
@@ -96,7 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Geologie/Hoofdstuk 5.md",
+                "file": "GIS/GIS Mindmap.canvas",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,7 +116,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Geologie/Hoofdstuk 5.md",
+                "file": "GIS/GIS Mindmap.canvas",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +128,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Geologie/Hoofdstuk 5.md"
+                "file": "GIS/GIS Mindmap.canvas"
               }
             }
           },
@@ -158,14 +161,14 @@
   },
   "active": "40f3575e0d4f350e",
   "lastOpenFiles": [
+    "SEG/Summary.canvas",
+    "Geologie/Hoofdstuk 5.md",
     "2024-08-28.md",
     "GIS/GIS.md",
     "Geologie/Hoofdstuk 1.md",
     "Geologie/Begrippenlijst.md",
     "GIS/GIS Mindmap.canvas",
-    "SEG/Summary.canvas",
     "Geologie/Partim S. Louwye.md",
-    "Geologie/Hoofdstuk 5.md",
     "Economie/Begrippenlijst.md",
     "Economie/Economie.md",
     "canvas-export.html",
@@ -200,7 +203,6 @@
     "SEG/Definities/H.md",
     "SEG/Hoofdstuk 4.md",
     "SEG/Definities/Hoofdstuk 4/Sociale leefgemeenschappen/Verstedelijking.md",
-    "SEG/Definities/Hoofdstuk 4/Sociale leefgemeenschappen/Definitie.md",
     "SEG/Definities/Hoofdstuk 4/Sociale leefgemeenschappen",
     "SEG/Definities/Hoofdstuk 4/Volkeren",
     "SEG/Definities/Hoofdstuk 4/Staten",

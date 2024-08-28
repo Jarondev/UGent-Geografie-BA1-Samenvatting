@@ -1,7 +1,8 @@
 {
   "accentColor": "",
-  "cssTheme": "Primary",
+  "cssTheme": "Prism",
   "nativeMenus": true,
   "baseFontSize": 14,
-  "theme": "obsidian"
+  "theme": "system",
+  "showViewHeader": false
 }

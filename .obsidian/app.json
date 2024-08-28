@@ -1,7 +1,8 @@
 {
-  "showInlineTitle": true,
+  "showInlineTitle": false,
   "showLineNumber": false,
   "rightToLeft": false,
   "spellcheck": false,
-  "alwaysUpdateLinks": true
+  "alwaysUpdateLinks": true,
+  "showRibbon": true
 }
