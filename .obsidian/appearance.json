@@ -4,5 +4,8 @@
   "nativeMenus": true,
   "baseFontSize": 15,
   "theme": "system",
-  "showViewHeader": false
+  "showViewHeader": false,
+  "enabledCssSnippets": [
+    "Colored Sidebar Items"
+  ]
 }

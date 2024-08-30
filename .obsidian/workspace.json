@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Economie/Economie.md",
+                "file": "Chemie/Begrippenlijst.md",
                 "mode": "source",
                 "source": false
               }
@@ -96,7 +96,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Economie/Economie.md",
+                "file": "Chemie/Begrippenlijst.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,7 +113,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Economie/Economie.md",
+                "file": "Chemie/Begrippenlijst.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Economie/Economie.md"
+                "file": "Chemie/Begrippenlijst.md"
               }
             }
           },
@@ -168,8 +168,8 @@
   },
   "active": "5324f9dcb142b64e",
   "lastOpenFiles": [
-    "Chemie/Begrippenlijst.md",
     "Economie/Economie.md",
+    "Chemie/Begrippenlijst.md",
     "Economie/Begrippenlijst.md",
     "Chemie/Chemie.md",
     "GIS/GIS Mindmap.canvas",

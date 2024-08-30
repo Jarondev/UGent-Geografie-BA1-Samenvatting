@@ -19,4 +19,5 @@
 | Molariteit           | Mol/kg uitgedrukt in **molaal**                                |
 | Molfractie           | Mol/totaal mol                                                 |
 | Molaire concentratie | Mol/L                                                          |
-|                      |                                                                |
+| Zuur                 | Stof die in water H<sup>+</sup> kan afsplitsen                 |
+| Base                 | Stof die in water OH<sup>-</sup> kan afsplitsen                |
