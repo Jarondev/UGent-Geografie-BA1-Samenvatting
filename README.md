@@ -1,2 +1,2 @@
-# Samenvattingen van vakken voor 1e Bachelor Geografie aan de UGent
-(Summaries of courses for 1st Bachelor Geography at Ghent University)
+# Samenvattingen van vakken voor Bachelor Geografie aan de UGent
+(Summaries of courses for Bachelor Geography at Ghent University)
