@@ -1,6 +1,10 @@
 {
   "accentColor": "",
+<<<<<<< HEAD
   "cssTheme": "Minimal",
+=======
+  "cssTheme": "Mado 11",
+>>>>>>> origin/main
   "nativeMenus": true,
   "baseFontSize": 15,
   "theme": "obsidian",

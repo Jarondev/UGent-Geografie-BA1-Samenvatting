@@ -35,6 +35,7 @@
   "sanctum@@file-line-width": 50,
   "sanctum@@colorful-active-nav": false,
   "sanctum@@nav-folder-indicators": true,
+<<<<<<< HEAD
   "minimal-style@@h1-variant": "small-caps",
   "minimal-style@@h1-l": true,
   "minimal-style@@h1-size": "1.5em",
@@ -70,4 +71,20 @@
   "minimal-style@@tx2@@dark": "#D3D3D3",
   "minimal-style@@tx1@@dark": "#F5F5DC",
   "minimal-style@@tx3@@dark": "#D3D3D3"
+=======
+  "sanctum@@dark-mode-contrast-mode": "sanctum-default-dark",
+  "sanctum@@bold-color@@dark": "#171981",
+  "sanctum@@italic-color@@dark": "#22D882",
+  "sanctum@@highlight@@light": "#B7FF29",
+  "sanctum@@highlight@@dark": "#B7FF29",
+  "id@@colorblind_protan-deutan": false,
+  "id@@colorblind_tritan": false,
+  "id@@callout-on": true,
+  "id@@h1-underline": false,
+  "id@@h2-underline": false,
+  "id@@headers-one-color": true,
+  "id@@kanban-variant": "kanban-full",
+  "mado-11@@theme-color": "theme-daisy-blue",
+  "mado-11@@bold-color@@dark": "#32A6BD"
+>>>>>>> origin/main
 }

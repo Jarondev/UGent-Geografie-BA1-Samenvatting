@@ -18,8 +18,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "d39bc54663f67137",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "conflict-files-obsidian-git.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -97,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "GIS/GIS.md",
+                "file": "conflict-files-obsidian-git.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "GIS/GIS.md",
+                "file": "conflict-files-obsidian-git.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +139,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "GIS/GIS.md"
+                "file": "conflict-files-obsidian-git.md"
               }
             }
           },
@@ -174,10 +187,11 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "a8cdb31dd2a1d8f0",
+  "active": "d39bc54663f67137",
   "lastOpenFiles": [
-    "GIS/Begrippenlijst GIS.md",
+    "conflict-files-obsidian-git.md",
     "GIS/GIS.md",
+    "GIS/Begrippenlijst GIS.md",
     "GIS/GIS Mindmap.canvas",
     "SEG/Summary.canvas",
     "Economie/Begrippenlijst.md",
@@ -188,7 +202,6 @@
     "Untitled.md",
     "SEG/Begrippenlijst.md",
     "SEG/Hoofdstuk 5.md",
-    "conflict-files-obsidian-git.md",
     "SEG/Pasted image 20240722211640.png",
     "SEG/Hoofdstuk 3.md",
     "SEG/Hoofdstuk 2.md",
