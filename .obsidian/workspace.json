@@ -11,8 +11,12 @@
             "id": "1b84f8bf864cd61c",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Geologie/Hoofdstuk 1.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -92,6 +96,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Geologie/Hoofdstuk 1.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -108,6 +113,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Geologie/Hoofdstuk 1.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +124,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Geologie/Hoofdstuk 1.md"
+              }
             }
           },
           {
@@ -138,7 +146,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
@@ -160,6 +168,11 @@
   },
   "active": "1b84f8bf864cd61c",
   "lastOpenFiles": [
+    "Economie/Pasted image 20240714190644.png",
+    "Economie/Economie.md",
+    "Chemie/Chemie.md",
+    "Chemie/Begrippenlijst.md",
+    "Economie/Begrippenlijst.md",
     "Topografie/Topografie.md",
     "SEG/Summary.canvas",
     "SEG/Hoofdstuk 2.md",
@@ -174,10 +187,6 @@
     "SEG/Definities/Hoofdstuk 2/Grootschalige migraties.md",
     "SEG/Definities/Hoofdstuk 2/Demografische parameters.md",
     "GIS/GIS Mindmap.canvas",
-    "Chemie/Begrippenlijst.md",
-    "Economie/Economie.md",
-    "Economie/Begrippenlijst.md",
-    "Chemie/Chemie.md",
     "GIS/GIS.md",
     "SEG/Definities/Hoofdstuk 3/Economische globalisering en productieregimes/Fordisme.md",
     "Chemie",
@@ -192,7 +201,6 @@
     "Geologie/Hoofdstuk 5.md",
     "Geologie/Partim S. Louwye.md",
     "canvas-export.html",
-    "GIS/Definities/Spatial data.md",
     "GIS/Definities/Kaarten",
     "GIS/Pasted image 20240721135020.png",
     "GIS/Pasted image 20240721132402.png",

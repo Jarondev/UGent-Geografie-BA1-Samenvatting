@@ -34,5 +34,10 @@
   "sanctum@@sticky-view-actions": false,
   "sanctum@@file-line-width": 50,
   "sanctum@@colorful-active-nav": false,
-  "sanctum@@nav-folder-indicators": true
+  "sanctum@@nav-folder-indicators": true,
+  "sanctum@@dark-mode-contrast-mode": "sanctum-default-dark",
+  "sanctum@@bold-color@@dark": "#171981",
+  "sanctum@@italic-color@@dark": "#22D882",
+  "sanctum@@highlight@@light": "#B7FF29",
+  "sanctum@@highlight@@dark": "#B7FF29"
 }
