@@ -1,5 +1,3 @@
-ENG Below
-
 # Samenvattingen bachelor Geografie aan de UGent
 Gemaakt in Obsidian, aangeraden om Obsidian te downloaden om de .canvas files te bekijken (mindmaps)
 
