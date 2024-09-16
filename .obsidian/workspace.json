@@ -11,28 +11,11 @@
             "id": "a8cdb31dd2a1d8f0",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "GIS/GIS.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "d39bc54663f67137",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "conflict-files-obsidian-git.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -110,7 +93,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "conflict-files-obsidian-git.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +109,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "conflict-files-obsidian-git.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,9 +119,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "conflict-files-obsidian-git.md"
-              }
+              "state": {}
             }
           },
           {
@@ -187,13 +166,13 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "d39bc54663f67137",
+  "active": "a8cdb31dd2a1d8f0",
   "lastOpenFiles": [
-    "conflict-files-obsidian-git.md",
-    "GIS/GIS.md",
-    "GIS/Begrippenlijst GIS.md",
-    "GIS/GIS Mindmap.canvas",
     "SEG/Summary.canvas",
+    "GIS/GIS Mindmap.canvas",
+    "GIS/GIS.md",
+    "conflict-files-obsidian-git.md",
+    "GIS/Begrippenlijst GIS.md",
     "Economie/Begrippenlijst.md",
     "Geologie/Hoofdstuk 3.md",
     "Geologie/Hoofdstuk 4.md",
