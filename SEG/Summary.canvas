@@ -256,106 +256,24 @@
 			"label":"Ontwikkeling"
 		},
 		{
-<<<<<<< HEAD
-			"id":"1fd9fd05fdcea9a9",
-			"type":"file",
-			"file":"SEG/Definities/Hoofdstuk 2/Spreidingspatroon.md",
-			"styleAttributes":{},
-			"x":1391,
-			"y":-480,
-			"width":398,
-			"height":340
-		},
-		{
-			"id":"93ecd739650e2c48",
-			"type":"file",
-			"file":"SEG/Definities/Hoofdstuk 2/Oorsprong mens.md",
-			"styleAttributes":{},
-			"x":931,
-			"y":-480,
-			"width":380,
-			"height":340
-		},
-		{
-			"id":"be6b88f251bad1b2",
-=======
 			"id":"114c1602cc1b177f",
->>>>>>> origin/main
 			"type":"file",
-			"file":"SEG/Definities/Hoofdstuk 2/Hedendaagse bevolkingsmix.md",
+			"file":"SEG/Definities/Hoofdstuk 3/Relaties/Perspectieven/Internaliseren externe kosten.md",
 			"styleAttributes":{},
-			"x":1811,
-			"y":-240,
-			"width":398,
-			"height":275
-		},
-		{
-			"id":"74170909457c3541",
-			"type":"file",
-			"file":"SEG/Definities/Hoofdstuk 2/The great opening of China.md",
-			"styleAttributes":{},
-			"x":1811,
-			"y":440,
-			"width":398,
+			"x":1248,
+			"y":1760,
+			"width":400,
 			"height":140
 		},
 		{
-			"id":"ab2eb961cc1c8f06",
+			"id":"2e46204c8f343549",
 			"type":"file",
-			"file":"SEG/Definities/Hoofdstuk 2/Demografische transitie.md",
+			"file":"SEG/Definities/Hoofdstuk 3/Relaties/Perspectieven/Politieke ecologie.md",
 			"styleAttributes":{},
-			"x":2370,
-			"y":190,
+			"x":1248,
+			"y":1949,
 			"width":400,
-<<<<<<< HEAD
-			"height":377
-=======
-			"height":140
->>>>>>> origin/main
-		},
-		{
-			"id":"f518ae2ca9f2ec04",
-			"type":"file",
-			"file":"SEG/Definities/Hoofdstuk 2/Groei en draagkracht (r en K).md",
-			"styleAttributes":{},
-			"x":2370,
-			"y":-210,
-			"width":400,
-<<<<<<< HEAD
-			"height":340
-		},
-		{
-			"id":"6dc1a2cab641c64c",
-			"type":"file",
-			"file":"SEG/Definities/Hoofdstuk 2/Demografische parameters.md",
-			"styleAttributes":{},
-			"x":2370,
-			"y":-440,
-			"width":400,
-			"height":180
-		},
-		{
-			"id":"af76222748b562a6",
-			"type":"file",
-			"file":"SEG/Definities/Hoofdstuk 2/Hedendaagse differentiatie binnen mens.md",
-			"styleAttributes":{},
-			"x":391,
-			"y":-480,
-			"width":380,
-			"height":440
-		},
-		{
-			"id":"5f2b189384ae29c2",
-			"type":"file",
-			"file":"SEG/Definities/Hoofdstuk 2/Hypotheses oorsprong mens.md",
-			"styleAttributes":{},
-			"x":391,
-			"y":20,
-			"width":380,
-			"height":360
-=======
 			"height":186
->>>>>>> origin/main
 		},
 		{
 			"id":"85d8fb2215d2c25b",
@@ -375,40 +293,23 @@
 			"x":2910,
 			"y":2627,
 			"width":400,
-<<<<<<< HEAD
-			"height":298
-=======
 			"height":129
->>>>>>> origin/main
 		},
 		{
 			"id":"39ddedce76a79011",
 			"type":"file",
 			"file":"SEG/Definities/Hoofdstuk 3/Landbouw/Rol van de overheid.md",
 			"styleAttributes":{},
-<<<<<<< HEAD
-			"x":1311,
-			"y":-40,
-			"width":380,
-			"height":460
-=======
 			"x":2910,
 			"y":2294,
 			"width":400,
 			"height":297
->>>>>>> origin/main
 		},
 		{
 			"id":"0d5f2ee79c77be29",
 			"type":"file",
 			"file":"SEG/Definities/Hoofdstuk 3/Landbouw/Vrijhandel beste weg naar economische ontwikkeling.md",
 			"styleAttributes":{},
-<<<<<<< HEAD
-			"x":871,
-			"y":83,
-			"width":360,
-			"height":335
-=======
 			"x":2470,
 			"y":2426,
 			"width":400,
@@ -433,43 +334,25 @@
 			"y":1640,
 			"width":350,
 			"height":160
->>>>>>> origin/main
 		},
 		{
-			"id":"f7e7fd5c330fbe44",
+			"id":"a1b764086fda6a1a",
 			"type":"file",
-			"file":"SEG/Definities/Hoofdstuk 3/Relaties/Perspectieven/Cornucopia.md",
+			"file":"SEG/Definities/Hoofdstuk 3/Relaties/Perspectieven/Ecotransitie.md",
 			"styleAttributes":{},
 			"x":829,
-			"y":1620,
+			"y":1980,
 			"width":400,
-<<<<<<< HEAD
-			"height":103
-=======
 			"height":155
->>>>>>> origin/main
 		},
 		{
-			"id":"675daca106a39a21",
+			"id":"7539c6694c26e063",
 			"type":"file",
-			"file":"SEG/Definities/Hoofdstuk 3/Relaties/Neo-Malthusianisme.md",
+			"file":"SEG/Definities/Hoofdstuk 3/Relaties/Perspectieven/Ecoscarcity.md",
 			"styleAttributes":{},
-			"x":821,
-			"y":940,
+			"x":829,
+			"y":1760,
 			"width":400,
-<<<<<<< HEAD
-			"height":523
-		},
-		{
-			"id":"6e8d4a23da6fb0a8",
-			"type":"file",
-			"file":"SEG/Definities/Hoofdstuk 2/The Age of Migration (Castles & Miller, 2003).md",
-			"styleAttributes":{},
-			"x":1811,
-			"y":83,
-			"width":398,
-			"height":300
-=======
 			"height":175
 		},
 		{
@@ -481,70 +364,42 @@
 			"y":1620,
 			"width":400,
 			"height":287
->>>>>>> origin/main
 		},
 		{
 			"id":"730310e0da338b05",
 			"type":"file",
 			"file":"SEG/Definities/Hoofdstuk 3/Technologie en transport.md",
 			"styleAttributes":{},
-<<<<<<< HEAD
-			"x":140,
-			"y":1520,
-			"width":420,
-			"height":241
-=======
 			"x":1870,
 			"y":1620,
 			"width":400,
 			"height":408
->>>>>>> origin/main
 		},
 		{
 			"id":"828bd4bc41055736",
 			"type":"file",
 			"file":"SEG/Definities/Hoofdstuk 3/Industriele productie en dienstverlening.md",
 			"styleAttributes":{},
-<<<<<<< HEAD
-			"x":140,
-			"y":940,
-			"width":420,
-			"height":108
-=======
 			"x":1870,
 			"y":2170,
 			"width":400,
 			"height":412
->>>>>>> origin/main
 		},
 		{
 			"id":"48f52247adcf31ee",
 			"type":"file",
 			"file":"SEG/Definities/Hoofdstuk 3/Landbouw/Belangrijke evoluties.md",
 			"styleAttributes":{},
-<<<<<<< HEAD
-			"x":140,
-			"y":1086,
-			"width":420,
-			"height":189
-=======
 			"x":2470,
 			"y":2071,
 			"width":400,
 			"height":305
->>>>>>> origin/main
 		},
 		{
 			"id":"b8285e616e7e6ee0",
 			"type":"file",
 			"file":"SEG/Definities/Hoofdstuk 3/Landbouw/Onevenwicht tussen productie en consumptie.md",
 			"styleAttributes":{},
-<<<<<<< HEAD
-			"x":140,
-			"y":1318,
-			"width":420,
-			"height":171
-=======
 			"x":2910,
 			"y":2071,
 			"width":400,
@@ -569,7 +424,6 @@
 			"y":3543,
 			"width":400,
 			"height":445
->>>>>>> origin/main
 		},
 		{
 			"id":"a41ea3103f27fef0",
@@ -579,11 +433,7 @@
 			"x":760,
 			"y":3139,
 			"width":400,
-<<<<<<< HEAD
-			"height":165
-=======
 			"height":499
->>>>>>> origin/main
 		},
 		{
 			"id":"6732625c07e26465",
@@ -593,11 +443,7 @@
 			"x":760,
 			"y":3680,
 			"width":400,
-<<<<<<< HEAD
-			"height":355
-=======
 			"height":263
->>>>>>> origin/main
 		},
 		{
 			"id":"aa0e272dcf107e49",
@@ -607,9 +453,6 @@
 			"x":2600,
 			"y":3100,
 			"width":400,
-<<<<<<< HEAD
-			"height":213
-=======
 			"height":412
 		},
 		{
@@ -621,7 +464,6 @@
 			"y":3720,
 			"width":400,
 			"height":623
->>>>>>> origin/main
 		},
 		{
 			"id":"135882a9738b3908",
@@ -631,11 +473,7 @@
 			"x":-350,
 			"y":3140,
 			"width":400,
-<<<<<<< HEAD
-			"height":528
-=======
 			"height":529
->>>>>>> origin/main
 		},
 		{
 			"id":"b5aa8485c05a217d",
@@ -645,11 +483,7 @@
 			"x":110,
 			"y":3140,
 			"width":400,
-<<<<<<< HEAD
-			"height":287
-=======
 			"height":996
->>>>>>> origin/main
 		},
 		{
 			"id":"9acbd2b68fbe5b39",
@@ -659,49 +493,6 @@
 			"x":2080,
 			"y":3140,
 			"width":400,
-<<<<<<< HEAD
-			"height":309
-		},
-		{
-			"id":"828bd4bc41055736",
-			"type":"file",
-			"file":"SEG/Definities/Hoofdstuk 3/Industriele productie en dienstverlening.md",
-			"styleAttributes":{},
-			"x":1870,
-			"y":2170,
-			"width":400,
-			"height":412
-		},
-		{
-			"id":"4356a206e96507d3",
-			"type":"file",
-			"file":"SEG/Definities/Hoofdstuk 3/Economische globalisering en productieregimes/Fordisme.md",
-			"styleAttributes":{},
-			"x":1860,
-			"y":880,
-			"width":400,
-			"height":264
-		},
-		{
-			"id":"6d4c2084ef34e6e2",
-			"type":"file",
-			"file":"SEG/Definities/Hoofdstuk 3/Economische globalisering en productieregimes/Post-Fordisme.md",
-			"styleAttributes":{},
-			"x":1870,
-			"y":1200,
-			"width":400,
-			"height":264
-		},
-		{
-			"id":"730310e0da338b05",
-			"type":"file",
-			"file":"SEG/Definities/Hoofdstuk 3/Technologie en transport.md",
-			"styleAttributes":{},
-			"x":1870,
-			"y":1620,
-			"width":400,
-			"height":408
-=======
 			"height":787
 		},
 		{
@@ -823,19 +614,12 @@
 			"y":1100,
 			"width":400,
 			"height":213
->>>>>>> origin/main
 		},
 		{
 			"id":"dac89e2cc1cc27df",
 			"type":"file",
 			"file":"SEG/Definities/Hoofdstuk 3/Typologieen/Herdersvolkeren.md",
 			"styleAttributes":{},
-<<<<<<< HEAD
-			"x":-460,
-			"y":-480,
-			"width":280,
-			"height":280
-=======
 			"x":-320,
 			"y":1181,
 			"width":350,
@@ -850,19 +634,12 @@
 			"y":1200,
 			"width":400,
 			"height":264
->>>>>>> origin/main
 		},
 		{
 			"id":"28ae114b689c70f8",
 			"type":"file",
 			"file":"SEG/Definities/Hoofdstuk 3/Mijnbouw/Impact ontwikkeling op energieverbruik.md",
 			"styleAttributes":{},
-<<<<<<< HEAD
-			"x":-140,
-			"y":-480,
-			"width":300,
-			"height":360
-=======
 			"x":2450,
 			"y":1272,
 			"width":400,
@@ -877,90 +654,42 @@
 			"y":83,
 			"width":398,
 			"height":300
->>>>>>> origin/main
 		},
 		{
 			"id":"be6b88f251bad1b2",
 			"type":"file",
 			"file":"SEG/Definities/Hoofdstuk 2/Hedendaagse bevolkingsmix.md",
 			"styleAttributes":{},
-<<<<<<< HEAD
-			"x":-460,
-			"y":-170,
-			"width":280,
-			"height":420
-=======
 			"x":1811,
 			"y":-240,
 			"width":398,
 			"height":275
->>>>>>> origin/main
 		},
 		{
 			"id":"74170909457c3541",
 			"type":"file",
 			"file":"SEG/Definities/Hoofdstuk 2/The great opening of China.md",
 			"styleAttributes":{},
-<<<<<<< HEAD
-			"x":-140,
-			"y":-80,
-			"width":300,
-			"height":330
-		},
-		{
-			"id":"06bfaaf61f739646",
-			"type":"file",
-			"file":"SEG/Definities/Hoofdstuk 5/Regionale geografie/Definitie.md",
-			"styleAttributes":{},
-			"x":3080,
-			"y":3140,
-			"width":400,
-			"height":155
-		},
-		{
-			"id":"6348513379105fcf",
-			"type":"file",
-			"file":"SEG/Definities/Hoofdstuk 3/Landbouw/Onevenwicht in consumptie.md",
-			"styleAttributes":{},
-			"x":2910,
-			"y":2627,
-			"width":400,
-			"height":129
-=======
 			"x":1811,
 			"y":440,
 			"width":398,
 			"height":140
->>>>>>> origin/main
 		},
 		{
 			"id":"af76222748b562a6",
 			"type":"file",
 			"file":"SEG/Definities/Hoofdstuk 2/Hedendaagse differentiatie binnen mens.md",
 			"styleAttributes":{},
-<<<<<<< HEAD
-			"x":-350,
-			"y":3720,
-			"width":400,
-			"height":623
-=======
 			"x":391,
 			"y":-480,
 			"width":380,
 			"height":440
->>>>>>> origin/main
 		},
 		{
 			"id":"5f2b189384ae29c2",
 			"type":"file",
 			"file":"SEG/Definities/Hoofdstuk 2/Hypotheses oorsprong mens.md",
 			"styleAttributes":{},
-<<<<<<< HEAD
-			"x":-350,
-			"y":3140,
-			"width":400,
-			"height":529
-=======
 			"x":391,
 			"y":20,
 			"width":380,
@@ -975,7 +704,6 @@
 			"y":190,
 			"width":400,
 			"height":377
->>>>>>> origin/main
 		},
 		{
 			"id":"f518ae2ca9f2ec04",
@@ -985,9 +713,6 @@
 			"x":2370,
 			"y":-210,
 			"width":400,
-<<<<<<< HEAD
-			"height":571
-=======
 			"height":340
 		},
 		{
@@ -999,53 +724,32 @@
 			"y":-440,
 			"width":400,
 			"height":180
->>>>>>> origin/main
 		},
 		{
 			"id":"1fd9fd05fdcea9a9",
 			"type":"file",
 			"file":"SEG/Definities/Hoofdstuk 2/Spreidingspatroon.md",
 			"styleAttributes":{},
-<<<<<<< HEAD
-			"x":760,
-			"y":3680,
-			"width":400,
-			"height":263
-=======
 			"x":1391,
 			"y":-480,
 			"width":398,
 			"height":340
->>>>>>> origin/main
 		},
 		{
 			"id":"795fc8872be5900a",
 			"type":"file",
 			"file":"SEG/Definities/Hoofdstuk 2/Grootschalige migraties.md",
 			"styleAttributes":{},
-<<<<<<< HEAD
-			"x":1360,
-			"y":3139,
-			"width":400,
-			"height":341
-=======
 			"x":1311,
 			"y":-40,
 			"width":380,
 			"height":460
->>>>>>> origin/main
 		},
 		{
 			"id":"93ecd739650e2c48",
 			"type":"file",
 			"file":"SEG/Definities/Hoofdstuk 2/Oorsprong mens.md",
 			"styleAttributes":{},
-<<<<<<< HEAD
-			"x":1360,
-			"y":3543,
-			"width":400,
-			"height":445
-=======
 			"x":931,
 			"y":-480,
 			"width":380,
@@ -1060,39 +764,12 @@
 			"y":83,
 			"width":360,
 			"height":335
->>>>>>> origin/main
 		},
 		{
 			"id":"fe95d498a76ac133",
 			"type":"file",
 			"file":"SEG/Definities/Hoofdstuk 3/Typologieen/Agrarische samenleving.md",
 			"styleAttributes":{},
-<<<<<<< HEAD
-			"x":110,
-			"y":3140,
-			"width":400,
-			"height":996
-		},
-		{
-			"id":"a41ea3103f27fef0",
-			"type":"file",
-			"file":"SEG/Definities/Hoofdstuk 4/Volkeren/Types.md",
-			"styleAttributes":{},
-			"x":760,
-			"y":3139,
-			"width":400,
-			"height":499
-		},
-		{
-			"id":"9acbd2b68fbe5b39",
-			"type":"file",
-			"file":"SEG/Definities/Hoofdstuk 5/Aard relatie tussen mens en fysisch milieu.md",
-			"styleAttributes":{},
-			"x":2080,
-			"y":3140,
-			"width":400,
-			"height":787
-=======
 			"x":-320,
 			"y":1380,
 			"width":350,
@@ -1117,106 +794,35 @@
 			"y":-480,
 			"width":280,
 			"height":280
->>>>>>> origin/main
 		},
 		{
 			"id":"d3425092363f309b",
 			"type":"file",
 			"file":"SEG/Definities/Hoofdstuk 1/Vlaamse tweespalt.md",
 			"styleAttributes":{},
-<<<<<<< HEAD
-			"x":-320,
-			"y":2080,
-			"width":400,
-			"height":462
-=======
 			"x":-460,
 			"y":-170,
 			"width":280,
 			"height":420
->>>>>>> origin/main
 		},
 		{
 			"id":"f9a55ed1c8191658",
 			"type":"file",
 			"file":"SEG/Definities/Hoofdstuk 1/Belgie.md",
 			"styleAttributes":{},
-<<<<<<< HEAD
-			"x":110,
-			"y":2080,
-			"width":400,
-			"height":531
-=======
 			"x":-140,
 			"y":-480,
 			"width":300,
 			"height":360
->>>>>>> origin/main
 		},
 		{
 			"id":"f6b8c26d0e6b0f23",
 			"type":"file",
 			"file":"SEG/Definities/Hoofdstuk 1/Vlaanderen.md",
 			"styleAttributes":{},
-<<<<<<< HEAD
-			"x":1051,
-			"y":2286,
-			"width":400,
-			"height":274
-		},
-		{
-			"id":"114c1602cc1b177f",
-			"type":"file",
-			"file":"SEG/Definities/Hoofdstuk 3/Relaties/Perspectieven/Internaliseren externe kosten.md",
-			"styleAttributes":{},
-			"x":1248,
-			"y":1760,
-			"width":400,
-			"height":140
-		},
-		{
-			"id":"2e46204c8f343549",
-			"type":"file",
-			"file":"SEG/Definities/Hoofdstuk 3/Relaties/Perspectieven/Politieke ecologie.md",
-			"styleAttributes":{},
-			"x":1248,
-			"y":1949,
-			"width":400,
-			"height":186
-		},
-		{
-			"id":"a1b764086fda6a1a",
-			"type":"file",
-			"file":"SEG/Definities/Hoofdstuk 3/Relaties/Perspectieven/Ecotransitie.md",
-			"styleAttributes":{},
-			"x":829,
-			"y":1980,
-			"width":400,
-			"height":155
-		},
-		{
-			"id":"7539c6694c26e063",
-			"type":"file",
-			"file":"SEG/Definities/Hoofdstuk 3/Relaties/Perspectieven/Ecoscarcity.md",
-			"styleAttributes":{},
-			"x":829,
-			"y":1760,
-			"width":400,
-			"height":175
-		},
-		{
-			"id":"0d5f2ee79c77be29",
-			"type":"file",
-			"file":"SEG/Definities/Hoofdstuk 3/Landbouw/Vrijhandel beste weg naar economische ontwikkeling.md",
-			"styleAttributes":{},
-			"x":2470,
-			"y":2426,
-			"width":400,
-=======
 			"x":-140,
 			"y":-80,
 			"width":300,
->>>>>>> origin/main
 			"height":330
 		},
 		{
@@ -1224,108 +830,40 @@
 			"type":"file",
 			"file":"SEG/Definities/Hoofdstuk 3/Typologieen/Markteconomie.md",
 			"styleAttributes":{},
-<<<<<<< HEAD
-			"x":2600,
-			"y":3100,
-			"width":400,
-			"height":412
-=======
 			"x":140,
 			"y":1520,
 			"width":420,
 			"height":241
->>>>>>> origin/main
 		},
 		{
 			"id":"65a9985ce0776284",
 			"type":"file",
 			"file":"SEG/Definities/Hoofdstuk 3/Typologieen/Maagschap (bloedverwant).md",
 			"styleAttributes":{},
-<<<<<<< HEAD
-			"x":2910,
-			"y":2071,
-			"width":400,
-			"height":180
-=======
 			"x":140,
 			"y":940,
 			"width":420,
 			"height":108
->>>>>>> origin/main
 		},
 		{
 			"id":"e040fd6979c10149",
 			"type":"file",
 			"file":"SEG/Definities/Hoofdstuk 3/Typologieen/Op tribuut gebaseerd.md",
 			"styleAttributes":{},
-<<<<<<< HEAD
-			"x":2470,
-			"y":2071,
-			"width":400,
-			"height":305
-=======
 			"x":140,
 			"y":1086,
 			"width":420,
 			"height":189
->>>>>>> origin/main
 		},
 		{
 			"id":"d79532e14180fa5f",
 			"type":"file",
 			"file":"SEG/Definities/Hoofdstuk 3/Typologieen/Centraal geleide planeconomie.md",
 			"styleAttributes":{},
-<<<<<<< HEAD
-			"x":2910,
-			"y":2294,
-			"width":400,
-			"height":297
-		},
-		{
-			"id":"b557816f6a27cb15",
-			"type":"file",
-			"file":"SEG/Definities/Hoofdstuk 3/Typologieen/Stedelijke samenleving.md",
-			"styleAttributes":{},
-			"x":-320,
-			"y":1640,
-			"width":350,
-			"height":160
-		},
-		{
-			"id":"d5881598abb251de",
-			"type":"file",
-			"file":"SEG/Definities/Hoofdstuk 3/Typologieen/Jagers & verzamelaars.md",
-			"styleAttributes":{},
-			"x":-320,
-			"y":940,
-			"width":350,
-			"height":191
-		},
-		{
-			"id":"dac89e2cc1cc27df",
-			"type":"file",
-			"file":"SEG/Definities/Hoofdstuk 3/Typologieen/Herdersvolkeren.md",
-			"styleAttributes":{},
-			"x":-320,
-			"y":1181,
-			"width":350,
-			"height":160
-		},
-		{
-			"id":"fe95d498a76ac133",
-			"type":"file",
-			"file":"SEG/Definities/Hoofdstuk 3/Typologieen/Agrarische samenleving.md",
-			"styleAttributes":{},
-			"x":-320,
-			"y":1380,
-			"width":350,
-			"height":217
-=======
 			"x":140,
 			"y":1318,
 			"width":420,
 			"height":171
->>>>>>> origin/main
 		}
 	],
 	"edges":[

@@ -11,8 +11,10 @@
             "id": "a8cdb31dd2a1d8f0",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "image",
+              "state": {
+                "file": "SEG/Summary.png"
+              }
             }
           }
         ]
@@ -93,6 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "SEG/Summary.png",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -109,6 +112,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "SEG/Summary.png",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -119,7 +123,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "SEG/Summary.png"
+              }
             }
           },
           {
@@ -166,9 +172,12 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "a8cdb31dd2a1d8f0",
+  "active": "fd4359023a3f4657",
   "lastOpenFiles": [
     "SEG/Summary.canvas",
+    "SEG/Hoofdstuk 5.md",
+    "SEG/Summary.png",
+    "GIS/GIS Mindmap.png",
     "GIS/GIS Mindmap.canvas",
     "GIS/GIS.md",
     "conflict-files-obsidian-git.md",
@@ -180,7 +189,6 @@
     "Economie/Economie.md",
     "Untitled.md",
     "SEG/Begrippenlijst.md",
-    "SEG/Hoofdstuk 5.md",
     "SEG/Pasted image 20240722211640.png",
     "SEG/Hoofdstuk 3.md",
     "SEG/Hoofdstuk 2.md",
@@ -213,8 +221,6 @@
     "Economie/Pasted image 20240709165919.png",
     "Geologie/Pasted image 20240715190411.png",
     "Pasted image 20240722211640.png",
-    "GIS/Pasted image 20240721135020.png",
-    "GIS/Pasted image 20240721132257.png",
-    "GIS/Pasted image 20240721122906.png"
+    "GIS/Pasted image 20240721135020.png"
   ]
 }
