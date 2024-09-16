@@ -39,5 +39,14 @@
   "sanctum@@bold-color@@dark": "#171981",
   "sanctum@@italic-color@@dark": "#22D882",
   "sanctum@@highlight@@light": "#B7FF29",
-  "sanctum@@highlight@@dark": "#B7FF29"
+  "sanctum@@highlight@@dark": "#B7FF29",
+  "id@@colorblind_protan-deutan": false,
+  "id@@colorblind_tritan": false,
+  "id@@callout-on": true,
+  "id@@h1-underline": false,
+  "id@@h2-underline": false,
+  "id@@headers-one-color": true,
+  "id@@kanban-variant": "kanban-full",
+  "mado-11@@theme-color": "theme-daisy-blue",
+  "mado-11@@bold-color@@dark": "#32A6BD"
 }

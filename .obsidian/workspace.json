@@ -69,7 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 254.99999618530273
+    "width": 251
   },
   "right": {
     "id": "97e66b02ee2fc326",
@@ -146,7 +146,7 @@
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
@@ -166,7 +166,7 @@
       "pdf-plus:PDF++: Toggle auto-paste": false
     }
   },
-  "active": "1b84f8bf864cd61c",
+  "active": "2d78668dba397484",
   "lastOpenFiles": [
     "Economie/Pasted image 20240714190644.png",
     "Economie/Economie.md",
