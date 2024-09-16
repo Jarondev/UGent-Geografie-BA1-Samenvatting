@@ -4,35 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "f01be7f09e988b3c",
+        "id": "a03a1b04e0946cfa",
         "type": "tabs",
         "children": [
           {
-            "id": "dc1aa9e729023c3b",
+            "id": "a8cdb31dd2a1d8f0",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Economie/Economie.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "c7d720676def5ca8",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Untitled.md",
+                "file": "GIS/GIS.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -91,6 +78,7 @@
       {
         "id": "e019e15ba0437956",
         "type": "tabs",
+        "dimension": 33.229166666666664,
         "children": [
           {
             "id": "166e6358eca6f684",
@@ -109,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Untitled.md",
+                "file": "GIS/GIS.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -126,7 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Untitled.md",
+                "file": "GIS/GIS.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,16 +126,8 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Untitled.md"
+                "file": "GIS/GIS.md"
               }
-            }
-          },
-          {
-            "id": "019731891b4917ca",
-            "type": "leaf",
-            "state": {
-              "type": "git-view",
-              "state": {}
             }
           },
           {
@@ -160,10 +140,25 @@
           }
         ],
         "currentTab": 4
+      },
+      {
+        "id": "5462a3b84a95081b",
+        "type": "tabs",
+        "dimension": 66.77083333333333,
+        "children": [
+          {
+            "id": "019731891b4917ca",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {}
+            }
+          }
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 471
+    "width": 449.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -179,26 +174,34 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "c7d720676def5ca8",
+  "active": "a8cdb31dd2a1d8f0",
   "lastOpenFiles": [
+    "GIS/Begrippenlijst GIS.md",
+    "GIS/GIS.md",
+    "GIS/GIS Mindmap.canvas",
+    "SEG/Summary.canvas",
+    "Economie/Begrippenlijst.md",
+    "Geologie/Hoofdstuk 3.md",
+    "Geologie/Hoofdstuk 4.md",
+    "SEG/Hoofdstuk 1.md",
     "Economie/Economie.md",
     "Untitled.md",
+    "SEG/Begrippenlijst.md",
+    "SEG/Hoofdstuk 5.md",
+    "conflict-files-obsidian-git.md",
+    "SEG/Pasted image 20240722211640.png",
+    "SEG/Hoofdstuk 3.md",
+    "SEG/Hoofdstuk 2.md",
     "Chemie/Begrippenlijst.md",
     "Chemie/Chemie.md",
     "Geologie/Hoofdstuk 1.md",
-    "GIS/GIS Mindmap.canvas",
-    "GIS/GIS.md",
     "Topografie/Topografie.md",
     "Maplestory/Private server.md",
     "Maplestory/Bbokims.md",
     "Maplestory Lore.md",
     "Maplestory",
     "Geologie/Partim S. Louwye.md",
-    "Geologie/Hoofdstuk 4.md",
-    "Geologie/Hoofdstuk 3.md",
     "Geologie/Hoofdstuk 2.md",
-    "GIS/Begrippenlijst GIS.md",
-    "SEG/Summary.canvas",
     "Chemie",
     "canvas-export.html",
     "GIS/Definities/Spatial data.md",
@@ -206,14 +209,6 @@
     "GIS/Definities/Kaarten",
     "GIS/Definities/Spatial Data.md",
     "GIS/Definities",
-    "GIS/Begrippenlijst.md",
-    "SEG/Definities/Hoofdstuk 3/Relaties/Perspectieven/Politieke ecologie.md",
-    "SEG/Definities/Hoofdstuk 3/Relaties/Perspectieven/Internaliseren externe kosten.md",
-    "SEG/Definities/Hoofdstuk 3/Relaties/Perspectieven/Ecotransitie.md",
-    "SEG/Definities/Hoofdstuk 3/Relaties/Perspectieven/Incompatibiliteitscrisis.md",
-    "SEG/Definities/Hoofdstuk 3/Relaties/Perspectieven/Ecoscarcity.md",
-    "SEG/Definities/Hoofdstuk 3/Relaties/Perspectieven/Cornucopia.md",
-    "SEG/Definities/Hoofdstuk 5/Regionale geografie/Definitie.md",
     "SEG/Definities/Hoofdstuk 3/Relaties/Perspectieven",
     "SEG/Definities/Hoofdstuk 5/Regionale geografie",
     "SEG/Definities/Hoofdstuk 4/Staten",
@@ -223,7 +218,6 @@
     "Topografie/Pasted image 20240822203013.png",
     "Topografie/Pasted image 20240822202928.png",
     "Topografie/Pasted image 20240822202836.png",
-    "SEG/Pasted image 20240722211640.png",
     "Economie/Pasted image 20240709165919.png",
     "Geologie/Pasted image 20240715190411.png",
     "Pasted image 20240722211640.png",

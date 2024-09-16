@@ -1,9 +1,9 @@
 {
   "accentColor": "",
-  "cssTheme": "Neo",
+  "cssTheme": "Minimal",
   "nativeMenus": true,
   "baseFontSize": 15,
-  "theme": "system",
+  "theme": "obsidian",
   "showViewHeader": false,
   "enabledCssSnippets": [
     "Colored Sidebar Items"

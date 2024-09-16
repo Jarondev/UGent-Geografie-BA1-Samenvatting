@@ -304,7 +304,7 @@
 | **Spatial moving average** | Lokaal <br>benaderend <br>gradueel<br>deterministisch  | ![[Pasted image 20240721132330.png\|175]] |
 |     **Trendoppervlak**     | Globaal <br>benaderend <br>gradueel<br>deterministisch | ![[Pasted image 20240721132402.png]]      |
 ## Surface Analysis
--> oppervlakken van interpolatie kunnen worden geanalyseerd (vaak in 2,5D ipv 3D)
+-> oppervlakken van *interpolatie* kunnen worden geanalyseerd (vaak in 2,5D ipv 3D)
 ### Factoren
 - **Helling** (steilte gemeten in graden of %)
 - **Aspect** (richting, gemeten in graden tov noorden)
