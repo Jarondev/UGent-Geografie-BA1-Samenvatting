@@ -4,22 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "458da3e107ae216e",
+        "id": "33c1af6d75a987e3",
         "type": "tabs",
         "children": [
           {
-            "id": "c57129ad9ad93f59",
+            "id": "1b84f8bf864cd61c",
             "type": "leaf",
             "state": {
-              "type": "canvas",
-              "state": {
-                "file": "SEG/Summary.canvas",
-                "viewState": {
-                  "x": 553.7375669046462,
-                  "y": 534.9643637734898,
-                  "zoom": -1.1159957062093044
-                }
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -99,7 +92,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "SEG/Summary.canvas",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -116,7 +108,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "SEG/Summary.canvas",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -127,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "SEG/Summary.canvas"
-              }
+              "state": {}
             }
           },
           {
@@ -169,15 +158,16 @@
       "pdf-plus:PDF++: Toggle auto-paste": false
     }
   },
-  "active": "2d78668dba397484",
+  "active": "1b84f8bf864cd61c",
   "lastOpenFiles": [
+    "Topografie/Topografie.md",
+    "SEG/Summary.canvas",
+    "SEG/Hoofdstuk 2.md",
+    "SEG/Pasted image 20240722211640.png",
     "SEG/Hoofdstuk 5.md",
     "SEG/Hoofdstuk 4.md",
     "SEG/Hoofdstuk 3.md",
-    "SEG/Hoofdstuk 2.md",
     "SEG/Begrippenlijst.md",
-    "SEG/Summary.canvas",
-    "SEG/Pasted image 20240722211640.png",
     "SEG/Hoofdstuk 1.md",
     "Geologie/Hoofdstuk 2.md",
     "SEG/Definities/Hoofdstuk 2/Hedendaagse differentiatie binnen mens.md",
@@ -203,7 +193,6 @@
     "Geologie/Partim S. Louwye.md",
     "canvas-export.html",
     "GIS/Definities/Spatial data.md",
-    "GIS/Definities/Kaarten/Types kaarten.md",
     "GIS/Definities/Kaarten",
     "GIS/Pasted image 20240721135020.png",
     "GIS/Pasted image 20240721132402.png",
