@@ -64,5 +64,10 @@
   "minimal-style@@bold-modifier": 300,
   "minimal-advanced@@styled-scrollbars": false,
   "minimal-advanced@@animations": "fast-animations",
-  "minimal-advanced@@cursor": "default"
+  "minimal-advanced@@cursor": "default",
+  "minimal-style@@ax1@@dark": "#885F4E",
+  "minimal-style@@icon-color-focused@@dark": "#885F4E",
+  "minimal-style@@tx2@@dark": "#D3D3D3",
+  "minimal-style@@tx1@@dark": "#F5F5DC",
+  "minimal-style@@tx3@@dark": "#D3D3D3"
 }
