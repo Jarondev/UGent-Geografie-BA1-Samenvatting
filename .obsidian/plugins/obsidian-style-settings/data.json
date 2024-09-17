@@ -101,7 +101,7 @@
   "Appearance-dark@@theme-dark-style-select": "theme-dark-background-brighter",
   "Editor@@callout-style-select": "callout-style-customize",
   "Appearance-light@@theme-light-style-select": "theme-light-background-default",
-  "Editor@@h1-weight": 400,
+  "Editor@@h1-weight": 500,
   "Editor@@h2-size": "1.8em",
   "Editor@@h2-weight": 350,
   "Editor@@h2-color-select": "h2-color-designated",
