@@ -76,6 +76,20 @@
     "type": "split",
     "children": [
       {
+        "id": "7934b75378b63f27",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "444150abfb21c5f9",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
+          }
+        ]
+      },
+      {
         "id": "e019e15ba0437956",
         "type": "tabs",
         "children": [
@@ -134,14 +148,6 @@
             "type": "leaf",
             "state": {
               "type": "git-view",
-              "state": {}
-            }
-          },
-          {
-            "id": "444150abfb21c5f9",
-            "type": "leaf",
-            "state": {
-              "type": "calendar",
               "state": {}
             }
           }

@@ -17,6 +17,9 @@ Some text
 
 Some text
 
-> [!warning] 
+> [!Info] 
 > More info here
 
+List
+- Item 1
+- Item 2
