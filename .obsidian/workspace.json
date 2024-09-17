@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Style-test.md",
+                "file": "GIS/GIS.md",
                 "mode": "source",
                 "source": false
               }
@@ -110,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Style-test.md",
+                "file": "GIS/GIS.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Style-test.md",
+                "file": "GIS/GIS.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -139,7 +139,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Style-test.md"
+                "file": "GIS/GIS.md"
               }
             }
           },
@@ -174,8 +174,8 @@
   },
   "active": "a188854047f1a39d",
   "lastOpenFiles": [
-    "GIS/GIS.md",
     "Style-test.md",
+    "GIS/GIS.md",
     "Economie/Economie.md",
     "Ruimtelijke Analyse",
     "Economie/Begrippenlijst.md",
