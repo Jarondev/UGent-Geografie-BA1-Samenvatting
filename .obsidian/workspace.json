@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Ruimtelijke Analyse/Untitled.md",
+                "file": "Ruimtelijke Analyse/Hoofdstuk 1.md",
                 "mode": "source",
                 "source": false
               }
@@ -110,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Ruimtelijke Analyse/Untitled.md",
+                "file": "Ruimtelijke Analyse/Hoofdstuk 1.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Ruimtelijke Analyse/Untitled.md",
+                "file": "Ruimtelijke Analyse/Hoofdstuk 1.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -139,7 +139,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Ruimtelijke Analyse/Untitled.md"
+                "file": "Ruimtelijke Analyse/Hoofdstuk 1.md"
               }
             }
           },
@@ -174,7 +174,7 @@
   },
   "active": "8b165ed8c88e8977",
   "lastOpenFiles": [
-    "Ruimtelijke Analyse/Untitled.md",
+    "Ruimtelijke Analyse/Hoofdstuk 1.md",
     "SEG/Summary.canvas",
     "GIS/GIS.md",
     "Style-test.md",
