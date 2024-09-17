@@ -4,22 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "defca8c8bf0f91c4",
+        "id": "435f7926e5e32191",
         "type": "tabs",
         "children": [
           {
-            "id": "a188854047f1a39d",
+            "id": "8b165ed8c88e8977",
             "type": "leaf",
             "state": {
-              "type": "canvas",
-              "state": {
-                "file": "SEG/Summary.canvas",
-                "viewState": {
-                  "x": 254.830629652473,
-                  "y": -72.04345294928083,
-                  "zoom": -0.1478044444399802
-                }
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -113,7 +106,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "SEG/Summary.canvas",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -130,7 +122,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "SEG/Summary.canvas",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -141,9 +132,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "SEG/Summary.canvas"
-              }
+              "state": {}
             }
           },
           {
@@ -175,8 +164,9 @@
       "pdf-plus:PDF++: Toggle auto-paste": false
     }
   },
-  "active": "a188854047f1a39d",
+  "active": "8b165ed8c88e8977",
   "lastOpenFiles": [
+    "SEG/Summary.canvas",
     "GIS/GIS.md",
     "Style-test.md",
     "Economie/Economie.md",
@@ -185,7 +175,6 @@
     "Chemie/Chemie.md",
     "Chemie/Begrippenlijst.md",
     "SEG/Summary.png",
-    "SEG/Summary.canvas",
     "README.md",
     "GIS/GIS Mindmap.canvas",
     "Geologie/Hoofdstuk 1.md",
