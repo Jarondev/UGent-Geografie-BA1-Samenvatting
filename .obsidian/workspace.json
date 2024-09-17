@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "435f7926e5e32191",
+        "id": "b02f8e2c6c71a91b",
         "type": "tabs",
         "children": [
           {
-            "id": "8b165ed8c88e8977",
+            "id": "a47189e1b57f13ee",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Ruimtelijke Analyse/Hoofdstuk 1.md",
+                "file": "Ruimtelijke Analyse/Hoofdstuk 2.md",
                 "mode": "source",
                 "source": false
               }
@@ -110,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Ruimtelijke Analyse/Hoofdstuk 1.md",
+                "file": "Ruimtelijke Analyse/Hoofdstuk 2.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Ruimtelijke Analyse/Hoofdstuk 1.md",
+                "file": "Ruimtelijke Analyse/Hoofdstuk 2.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -139,7 +139,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Ruimtelijke Analyse/Hoofdstuk 1.md"
+                "file": "Ruimtelijke Analyse/Hoofdstuk 2.md"
               }
             }
           },
@@ -172,11 +172,12 @@
       "pdf-plus:PDF++: Toggle auto-paste": false
     }
   },
-  "active": "8b165ed8c88e8977",
+  "active": "a47189e1b57f13ee",
   "lastOpenFiles": [
-    "Ruimtelijke Analyse/Begrippenlijst.md",
     "Ruimtelijke Analyse/Hoofdstuk 1.md",
+    "Ruimtelijke Analyse/Hoofdstuk 2.md",
     "Ruimtelijke Analyse/Pasted image 20240917173129.png",
+    "Ruimtelijke Analyse/Begrippenlijst.md",
     "SEG/Summary.canvas",
     "GIS/GIS.md",
     "Style-test.md",
