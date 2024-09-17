@@ -106,5 +106,6 @@
   "Editor@@h2-weight": 350,
   "Editor@@h2-color-select": "h2-color-designated",
   "Editor@@h2-divider-on": false,
-  "Editor@@h3-weight": 300
+  "Editor@@h3-weight": 300,
+  "Editor@@h3-size": "1.6em"
 }
