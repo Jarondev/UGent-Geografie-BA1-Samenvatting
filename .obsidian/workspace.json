@@ -8,12 +8,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "1acb66e34cd653e1",
+            "id": "a188854047f1a39d",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
+                "file": "Style-test.md",
                 "mode": "source",
                 "source": false
               }
@@ -96,7 +96,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
+                "file": "Style-test.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,7 +113,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "README.md",
+                "file": "Style-test.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "README.md"
+                "file": "Style-test.md"
               }
             }
           },
@@ -166,20 +166,21 @@
       "pdf-plus:PDF++: Toggle auto-paste": false
     }
   },
-  "active": "1acb66e34cd653e1",
+  "active": "a188854047f1a39d",
   "lastOpenFiles": [
-    "Untitled.md",
-    "README.md",
-    "SEG/Summary.canvas",
-    "GIS/GIS Mindmap.canvas",
-    "Geologie/Hoofdstuk 1.md",
-    "SEG/Summary.png",
-    "GIS/GIS Mindmap.png",
-    "Economie/Pasted image 20240714190644.png",
     "Economie/Economie.md",
+    "Style-test.md",
+    "Ruimtelijke Analyse",
+    "Economie/Begrippenlijst.md",
     "Chemie/Chemie.md",
     "Chemie/Begrippenlijst.md",
-    "Economie/Begrippenlijst.md",
+    "SEG/Summary.png",
+    "SEG/Summary.canvas",
+    "README.md",
+    "GIS/GIS Mindmap.canvas",
+    "Geologie/Hoofdstuk 1.md",
+    "GIS/GIS Mindmap.png",
+    "Economie/Pasted image 20240714190644.png",
     "Topografie/Topografie.md",
     "SEG/Hoofdstuk 2.md",
     "SEG/Pasted image 20240722211640.png",
@@ -202,7 +203,6 @@
     "Geologie/Begrippenlijst.md",
     "GIS/Pasted image 20240719152605.png",
     "GIS/Pasted image 20240718201616.png",
-    "Geologie/Hoofdstuk 5.md",
     "canvas-export.html",
     "GIS/Definities/Kaarten",
     "GIS/Pasted image 20240721135020.png",
@@ -215,7 +215,6 @@
     "SEG/Definities/Hoofdstuk 4/Sociale leefgemeenschappen",
     "SEG/Definities/Hoofdstuk 4/Volkeren",
     "SEG/Definities/Hoofdstuk 4/Staten",
-    "SEG/Definities/Hoofdstuk 4",
     "Untitled 1.canvas",
     "Untitled.canvas"
   ]
