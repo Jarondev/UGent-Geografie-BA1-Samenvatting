@@ -103,7 +103,7 @@
   "Appearance-light@@theme-light-style-select": "theme-light-background-default",
   "Editor@@h1-weight": 450,
   "Editor@@h2-size": "1.8em",
-  "Editor@@h2-weight": 400,
+  "Editor@@h2-weight": 450,
   "Editor@@h2-color-select": "h2-color-designated",
   "Editor@@h2-divider-on": false,
   "Editor@@h3-weight": 400,
