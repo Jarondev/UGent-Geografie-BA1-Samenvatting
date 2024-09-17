@@ -113,5 +113,7 @@
   "Editor@@h4-color-select": "h4-color-designated",
   "Editor@@h4-weight": 300,
   "Editor@@h5-weight": 300,
-  "Editor@@h5-color-select": "h5-color-designated"
+  "Editor@@h5-color-select": "h5-color-designated",
+  "Editor@@h6-color-select": "h6-color-designated",
+  "Editor@@h6-weight": 300
 }
