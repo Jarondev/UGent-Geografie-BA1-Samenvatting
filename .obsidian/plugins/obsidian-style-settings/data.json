@@ -111,5 +111,6 @@
   "Editor@@h3-color-select": "h3-color-designated",
   "Editor@@h4-size": "1.4em",
   "Editor@@h4-color-select": "h4-color-designated",
-  "Editor@@h4-weight": 3
+  "Editor@@h4-weight": 300,
+  "Editor@@h5-weight": 300
 }
