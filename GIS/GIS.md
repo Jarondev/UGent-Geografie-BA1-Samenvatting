@@ -52,7 +52,7 @@
 	8. **Topologie**: eigenschappen objecten in de ruimte (geometrische relaties)
 		→ 4-intersection matrix
 		![[Pasted image 20240718201616.png]]
-## KARAKTERISTI
+## Karakteristiek
 ### Attributen
 - **Nominaal**: gegevens zonder rangorde of volgorde (bv. geslacht)
 - **Ordinaal**: gegevens met inherente volgorde (bv. rangen in een wedstrijd)
