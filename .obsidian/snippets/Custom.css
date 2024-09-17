@@ -1,0 +1,10 @@
+body {
+  --bold-color: cornflowerblue;
+  --italic-color: lightgreen;
+  --h1-variant: small-caps;
+  --h2-variant: small-caps;
+  --h3-variant: small-caps;
+  --h4-variant: small-caps;
+  --h5-variant:small-caps;
+  --h6-variant: small-caps;
+}

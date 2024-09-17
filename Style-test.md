@@ -1,12 +1,12 @@
 # Header 1
 
-Some text
+Some **text** *text* ***Text***
 ## Header 2
 
-Some text
+Some *text*
 ### Header 3
 
-Some text
+Some ***text***
 #### Header 4
 
 Some text
