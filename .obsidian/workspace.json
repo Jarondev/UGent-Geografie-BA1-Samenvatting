@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Ruimtelijke Analyse/Hoofdstuk 3.md",
+                "file": "Ruimtelijke Analyse/Hoofdstuk 2.md",
                 "mode": "source",
                 "source": false
               }
@@ -110,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Ruimtelijke Analyse/Hoofdstuk 3.md",
+                "file": "Ruimtelijke Analyse/Hoofdstuk 2.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Ruimtelijke Analyse/Hoofdstuk 3.md",
+                "file": "Ruimtelijke Analyse/Hoofdstuk 2.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -139,7 +139,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Ruimtelijke Analyse/Hoofdstuk 3.md"
+                "file": "Ruimtelijke Analyse/Hoofdstuk 2.md"
               }
             }
           },
@@ -172,40 +172,41 @@
       "pdf-plus:PDF++: Toggle auto-paste": false
     }
   },
-  "active": "a47189e1b57f13ee",
+  "active": "2d78668dba397484",
   "lastOpenFiles": [
-    "Ruimtelijke Analyse/Hoofdstuk 2.md",
+    "Topografie/Afbeeldingen/Pasted image 20240822203013.png",
+    "Topografie/Afbeeldingen/Pasted image 20240822202928.png",
+    "Topografie/Afbeeldingen/Pasted image 20240822202836.png",
+    "Topografie/Afbeeldingen",
+    "SEG/Afbeeldingen/Pasted image 20240722211640.png",
+    "SEG/Afbeeldingen",
     "Ruimtelijke Analyse/Hoofdstuk 3.md",
-    "Ruimtelijke Analyse/Hoofdstuk 1.md",
-    "GIS/GIS Mindmap.canvas",
-    "SEG/Summary.canvas",
-    "Style-test.md",
-    "Topografie/Topografie.md",
-    "Economie/Afbeeldingen",
+    "Ruimtelijke Analyse/Afbeeldingen/Pasted image 20240919163643.png",
+    "Ruimtelijke Analyse/Afbeeldingen/Pasted image 20240919133106.png",
+    "Ruimtelijke Analyse/Afbeeldingen/Pasted image 20240919163623.png",
+    "Ruimtelijke Analyse/Afbeeldingen/Pasted image 20240919134517.png",
+    "Ruimtelijke Analyse/Afbeeldingen/Pasted image 20240919123626.png",
+    "Ruimtelijke Analyse/Afbeeldingen/Pasted image 20240917173129.png",
+    "Ruimtelijke Analyse/Afbeeldingen",
+    "Geologie/Afbeeldingen/Pasted image 20240715190411.png",
     "Geologie/Afbeeldingen",
     "GIS/Afbeeldingen",
-    "SEG/Afbeeldingen",
-    "Topografie/Afbeeldingen",
-    "Ruimtelijke Analyse/Afbeeldingen/Pasted image 20240919163643.png",
-    "Ruimtelijke Analyse/Afbeeldingen/Pasted image 20240919163623.png",
-    "Ruimtelijke Analyse/Afbeeldingen",
-    "Ruimtelijke Analyse/Afbeeldingen/Pasted image 20240919134517.png",
-    "Pasted image 20240919134937.png",
-    "Ruimtelijke Analyse/Afbeeldingen/Pasted image 20240919123626.png",
-    "Ruimtelijke Analyse/Afbeeldingen/Pasted image 20240919133106.png",
-    "Ruimtelijke Analyse/Afbeeldingen/Pasted image 20240917173129.png",
+    "Economie/Afbeeldingen",
+    "Ruimtelijke Analyse/Hoofdstuk 1.md",
+    "Ruimtelijke Analyse/Hoofdstuk 2.md",
     "Ruimtelijke Analyse/Begrippenlijst.md",
+    "SEG/Summary.canvas",
     "GIS/GIS.md",
+    "Style-test.md",
     "Economie/Economie.md",
     "Ruimtelijke Analyse",
     "Economie/Begrippenlijst.md",
     "Chemie/Chemie.md",
     "Chemie/Begrippenlijst.md",
-    "SEG/Summary.png",
     "README.md",
+    "GIS/GIS Mindmap.canvas",
     "Geologie/Hoofdstuk 1.md",
-    "GIS/GIS Mindmap.png",
-    "Economie/Afbeeldingen/Pasted image 20240714190644.png",
+    "Topografie/Topografie.md",
     "SEG/Hoofdstuk 2.md",
     "SEG/Hoofdstuk 5.md",
     "SEG/Hoofdstuk 4.md",
@@ -219,7 +220,6 @@
     "SEG/Definities/Hoofdstuk 3/Economische globalisering en productieregimes/Fordisme.md",
     "Chemie",
     "Geologie/Hoofdstuk 4.md",
-    "Geologie/Hoofdstuk 3.md",
     "canvas-export.html",
     "GIS/Definities/Kaarten",
     "Untitled 1.canvas",
