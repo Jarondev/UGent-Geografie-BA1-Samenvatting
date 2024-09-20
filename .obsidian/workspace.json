@@ -65,8 +65,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 251,
-    "collapsed": true
+    "width": 251
   },
   "right": {
     "id": "97e66b02ee2fc326",
@@ -165,7 +164,7 @@
       "pdf-plus:PDF++: Toggle auto-paste": false
     }
   },
-  "active": "a47189e1b57f13ee",
+  "active": "2d78668dba397484",
   "lastOpenFiles": [
     "Ruimtelijke Analyse/Hoofdstuk 3.md",
     "Ruimtelijke Analyse/Afbeeldingen/OptimalGrowth.webp",
