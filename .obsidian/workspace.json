@@ -11,12 +11,8 @@
             "id": "a47189e1b57f13ee",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Ruimtelijke Analyse/Hoofdstuk 3.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -69,7 +65,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 251
+    "width": 251,
+    "collapsed": true
   },
   "right": {
     "id": "97e66b02ee2fc326",
@@ -110,7 +107,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Ruimtelijke Analyse/Hoofdstuk 3.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +123,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Ruimtelijke Analyse/Hoofdstuk 3.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,9 +133,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Ruimtelijke Analyse/Hoofdstuk 3.md"
-              }
+              "state": {}
             }
           },
           {
@@ -174,8 +167,9 @@
   },
   "active": "a47189e1b57f13ee",
   "lastOpenFiles": [
-    "Ruimtelijke Analyse/Hoofdstuk 2.md",
     "Ruimtelijke Analyse/Hoofdstuk 3.md",
+    "Ruimtelijke Analyse/Afbeeldingen/OptimalGrowth.webp",
+    "Ruimtelijke Analyse/Hoofdstuk 2.md",
     "Ruimtelijke Analyse/Hoofdstuk 1.md",
     "GIS/GIS Mindmap.canvas",
     "SEG/Summary.canvas",
@@ -205,7 +199,6 @@
     "README.md",
     "Geologie/Hoofdstuk 1.md",
     "GIS/GIS Mindmap.png",
-    "Economie/Afbeeldingen/Pasted image 20240714190644.png",
     "SEG/Hoofdstuk 2.md",
     "SEG/Hoofdstuk 5.md",
     "SEG/Hoofdstuk 4.md",
@@ -219,7 +212,6 @@
     "SEG/Definities/Hoofdstuk 3/Economische globalisering en productieregimes/Fordisme.md",
     "Chemie",
     "Geologie/Hoofdstuk 4.md",
-    "Geologie/Hoofdstuk 3.md",
     "canvas-export.html",
     "GIS/Definities/Kaarten",
     "Untitled 1.canvas",
