@@ -13,3 +13,24 @@ Geheel aan **mogelijke uitkomsten** en **bijhorende kansen**
 ### Discrete Kansverdeling
 
 Kansvariabele kan slechts een ***beperkt aantal mogelijke waarden*** aannemen
+
+> [!Example] Voorbeeld
+> Met **1 dobbelsteen**:
+> Kans om 1 specifiek cijfer te gooien is 1/6
+>
+> Met **2 dobbelstenen**:  
+> Kans om een specifieke combinatie van 2 dobbelstenen te gooien: 1/36
+> Kans om >= 9 te gooien: 10 combinaties dus 10/36 = 27%
+> 
+
+#### Binomiale Kansverdeling
+
+##### Kenmerken
+- Vast aantal pogingen
+- Onafhankelijke pogingen (vorige pogingen hebben geen invloed)
+- Twee mogelijke uitkomsten (succes & mislukking)
+- Constante kans van succes (kans op succes blijft hetzelfde voor elke poging)
+
+### Continue Kansverdeling
+
+Kansvariabele heeft ***oneindig aantal mogelijke waarden*** binnen een bepaald interval
