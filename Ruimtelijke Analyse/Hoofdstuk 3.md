@@ -25,11 +25,24 @@ Kansvariabele kan slechts een ***beperkt aantal mogelijke waarden*** aannemen
 
 #### Binomiale Kansverdeling
 
+**Binomiaal proces**: vast aantal onafhankelijke pogingen 
+**Binomiale variabele**: aantal keren succes of mislukkeling (*X*)
+**Binomiale verdeling**: kans dat binomiale variabele een bepaalde waarde aanneemt
 ##### Kenmerken
 - Vast aantal pogingen
 - Onafhankelijke pogingen (vorige pogingen hebben geen invloed)
 - Twee mogelijke uitkomsten (succes & mislukking)
 - Constante kans van succes (kans op succes blijft hetzelfde voor elke poging)
+##### Typevoorbeelden
+- Stemgedrag
+- Ruimtelijke spreiding van ziektes
+- Kwaliteit landgebruik voor specifieke toepassing
+- Natuurrampen
+
+> [!Info]
+> ![[Pasted image 20240922102701.png]]
+
+#### Geometrische Kansverdeling
 
 ### Continue Kansverdeling
 
