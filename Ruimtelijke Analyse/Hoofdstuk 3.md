@@ -44,8 +44,17 @@ Kansvariabele kan slechts een ***beperkt aantal mogelijke waarden*** aannemen
 
 #### Geometrische Kansverdeling
 
+**Duur tot succes** bereikt wordt, **hoeveel pogingen** nodig
+Kenmerken zelfde als binomiaal
 
+#### Poissonverdeling
 
+**Zeldzame gebeurtenissen** in een **vast tijdsinterval** of **vast ruimtelijk gebied** modelleren
+
+##### Kenmerken
+- Discrete waarden (enkel natuurlijke getallen)
+- Onafhankelijke gebeurtenissen
+- Constante gemiddelde frequentie
 ### Continue Kansverdeling
 
 Kansvariabele heeft ***oneindig aantal mogelijke waarden*** binnen een bepaald interval
