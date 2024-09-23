@@ -44,6 +44,8 @@ Kansvariabele kan slechts een ***beperkt aantal mogelijke waarden*** aannemen
 
 #### Geometrische Kansverdeling
 
+
+
 ### Continue Kansverdeling
 
 Kansvariabele heeft ***oneindig aantal mogelijke waarden*** binnen een bepaald interval
