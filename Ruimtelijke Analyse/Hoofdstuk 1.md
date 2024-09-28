@@ -15,6 +15,8 @@ Irrationaliteit = *alternatieve* theorieen vaak met inherente tegenstrijdigheid
 - Mondiale menselijke inspanning
 # Wetenschappelijke Methode
 
+**Empirisch onderzoek**: gebaseerd op experimeten (*observaties*)
+
 1. Voorbereiding
 2. Observatie
 3. Probleemherkenning
@@ -32,7 +34,7 @@ Irrationaliteit = *alternatieve* theorieen vaak met inherente tegenstrijdigheid
 Methode van *verschillende werkhypotheses* (Chamberlin, 1890; 1897)
 Hypothese is niet juist of fout: **schaalgebonden** aan **kwaliteit/sterkte/kracht** van hypothese
 
-![[Pasted image 20240917173129.png|450]]
+![[Pasted image 20240917173129.png|675]]
 
 >[!Info]
 >Verschillende manieren om een hypothese te benaderen.
@@ -41,6 +43,12 @@ Hypothese is niet juist of fout: **schaalgebonden** aan **kwaliteit/sterkte/krac
 >(b) waarbij verschillende hypotheses **sequentieel 1 op 1** worden getest, dit is echter tijdrovend en kan leiden tot tunnelvisie
 >(c) Meerdere hypotheses worden **tegelijk** getest om bredere blik te behouden
 >(d) Verklaren van een fenomeen door een **combinatie van meerdere hypotheses**
+### Aanvaarding Hypothese
+
+Op basis van **ratio** tussen **aantal juiste** vs **foute cases**
+
+> [!Example] Voorbeeld
+> - 20:1: we aanvaarden onze hypothees niet, met de kans 1/20 dat we toch fout zijn (**Type 1-fout**)
 ### Hypothese -> Theorie
 
 1. **Concept**: *kankerverspreiding* in een regio 
@@ -54,6 +62,9 @@ Hypothese is niet juist of fout: **schaalgebonden** aan **kwaliteit/sterkte/krac
 > Andere factoren kunnen van belang zijn! (meerdere hypotheses)
 
 ### Aandachtspunten
+
+**Corellatie**: tonen hetzelfde patroon (voorbeeld ice cream sales & shark attacks)
+**Causaliteit**: ene factor is oorzaak voor de ander
 
 1. Statistische methodes spreken nooit voor zichzelf
 	-> moeten altijd in een **theoretisch kader** vervat zijn dat de processen beschrijft om bruikbaar te zijn

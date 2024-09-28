@@ -1,12 +1,19 @@
 # Datatypes
 ## Kwantitatief
 
-- **Interval/Continu**: meetbare verschillen zonder nulpunt (temperatuur, IQ)
-- **Ratio/Discreet**: meetbare verschillen met absoluut nulpunt (neerslag, afstand)
+### Numeriek
+
+- **Interval**: meetbare verschillen zonder nulpunt (temperatuur, IQ)
+- **Ratio**: meetbare waarden met absoluut nulpunt en zinvolle verhoudingen (neerslag, afstand
+
+### Op basis van de aard van de waarden
+
+- **Discreet**: telbaar, met "onderbrekingen" (aantal regendagen, aantal kinderen in een gezin)
+- **Continu**: Niet telbaar, kan elke waarde aannemen binnen bepaald interval (temperatuur, hoogte)
 ## Kwalitatief
 
 - **Nominaal**: unieke, aparte observaties (bodemtype, nationaliteit,..)
-- **Ordinaal**: observaties met rangorde groter/kleiner
+- **Ordinaal**: observaties met rangorde groter/kleiner/opvolgend
 # Steekproef
 
 - Meestal **onmogelijk** om over **volledige populatie** iets te weten te komen
@@ -18,7 +25,7 @@
 - **Twee of meer populaties** verschillen in karakteristiek
 - **Willekeurige steekproef** wordt genomen uit beide
 ### Voordeel
-- Individu wordt geobserveerd zoals ze in werkelijkheid zijn
+- Individu wordt geobserveerd zoals ze in *werkelijkheid* zijn
 ### Nadeel
 - Oorzaak en gevolg moeilijk te onderscheiden
 - Mogelijkse invloed storende variabelen (**confounding factors**)
@@ -31,7 +38,7 @@
 - Twee of meer steekproeven worden **uit 1 populatie** genomen
 - **Verschillende experimenten** op beide steekproeven toegepast
 ### Voordeel
-- Oorzaak en gevolg worden duidelijk uitgeklaard
+- *Oorzaak en gevolg* worden heel duidelijk uitgeklaard
 ### Nadeel
 - Steekproeven vertegenwoordigen niet volledige populatie
 - Kunstmatige setting kan effect hebben op resultaten
