@@ -22,7 +22,7 @@ H2O, CO2, CH4 -> **Broeikasgassen**: vangen een deel van de *uitgaande energie*
 O3 -> bescherming tegen zonnestraling
 Aerosolen -> smalle partikels in atmosfeer
 
-> [!Warning] Waarschuwing
+> [!Error] Waarschuwing
 > Lage concentratie (broeikasgassen) betekent niet dat het onbelangrijk is
 
 # Meteorologische Parameters
@@ -72,7 +72,6 @@ Aantal botsingen gasmolecules tegen een muur
 - **Specific heat** of substance: warmtecapaciteit per eenheidsmassa
 - **Latent heat**: energie die nodig is/vrijkomt bij verandering staat
 	-> *temperatuur onveranderd*
-- 
 
 Specific heat voor lucht minder energie nodig dan water -> warmer in Kempen dan aan zee
 
@@ -96,17 +95,90 @@ Specific heat voor lucht minder energie nodig dan water -> warmer in Kempen dan 
 ## Convectie
 
 - Overdracht hitte door **massabeweging**
-	=> *warme lucht stijgt* door lage densiteit dus *hitte gaat naar boven*
+	=> *warme lucht stijgt* door lage densiteit dus *hitte gaat naar boven*  
 
 > [!Info]
 > ![[Pasted image 20240929161123.png]]
+> 
+> ***Convectie***: **verticale** warmtewisseling
+> ***Thermal***: stijgende **warmtebubbel**
+> ***Advectie***: **horizontale** warmtewisseling
 ## Radiatie
-## Variabelen
 
-Lokale verandering: verwarming
-Netto flux: netto verplaatsing van deeltjes
+- Overdracht energie door **radiatie** van ene naar andere object
+	- Radiatieobject: *zon*
+		- **Electromagnetische radiatie**
+	- Bestraalde object: *aarde*
+	- Tussenruimte: atmosfeer
+- ***Black body***: 
+	- Object die alle radiatie kan opnemen; geen reflectie
+	- Object die alle mogelijke radiatie uitzendt
+	- Wet van **Stefann-Boltzmann**:
+		E = sT<sup>4</sup>
+		- E = aantal uitgezonden radiatie
+		- s = Stefann-Boltzmann constante
+		- T = temperatuur of black body (meestal oppervlak) in Kelvin
+			-> <sup>4</sup> dus **verschil aarde en zon gigantisch**
+- ***Solar constante***: hoeveelheid radiatie zon uitzendt in alle richtingen
+### Atmosfeer
 
-Klein deel van CO2 stopt terugzending straling aarde na stralign zon -> stuurt terug naar aarde -> aarde neemt meer op -> stijging temperatuur
-CO2 en SF6 stopt met doorlaten straling op bepaalde frequentie (toevallig degene die aarde uitzend)
+*Selectieve opname & uitzending* radiatie:
+- Enkel op bepaalde golflengtes
+- Wet van **Kirchoff**: object die selectief absorbeert, zendt ook selectief uit op dezelfde golflengte
+**CO2** absorbeert veel en zendt terug naar aarde op bepaalde golflengte; ook SF6
+	=> aanleiding broeikaseffect
 
-Bij wind: rotatiebeweging naar beneden: lucht mengt en warme lucht blijft bewegen
+>[!Info]
+>![[Pasted image 20240929165438.png]]
+><sup>Verschil geen broeikas tegenover broeikas</sup>
+
+**Verstrooiing** (*scattering*): deflectie lichtpartikels in alle richtingen; afhankelijk van golflengte
+	=> ***blauwe lucht***!
+**Reflectie**: speciaal geval scattering
+- Afhankelijk van oppervlak, wolken
+	- **Meer** bij *dichtbewolkt*, meer op *ijs*
+	- **Minder** op *water & continenten*
+	- Gemiddeld 30%
+### Energiebalans
+
+Inkomende radiatie: **shortwave**
+Uitgaande radiatie: **longwave**
+*"What comes in, must go out"* -> anders: koeling/opwarming aarde
+
+>[!Error] Waarschuwing
+>Irradiatie is niet uniform! Meer op evenaar, minder op polen..
+
+> [!Info]
+> ![[Pasted image 20240929170844.png]]
+# Temperatuur
+
+- Meten op 1,5m hoogte boven grond in weerhut:
+	- Vrije luchtcirculatie
+	- *Geen neerslag*
+	- *Geen directe straling*
+- **Energiebalans bepaalt temperatuur**
+	- *Behoudswet* beschrijft energiebalans:
+		- Instroom = Opslag - Uitstroom
+		- Eerste hoofdwet thermodynamica
+
+> [!Info] 
+> **Groter oppervlak** zorgt voor **minder snelle stijging** temperatuur (minder geconcentreerd)
+> -> daarom kouder bij polen
+> 
+> ![[Pasted image 20240929172733.png]]
+
+## Dagelijkse Gang
+
+*Bij wind*: rotatiebeweging naar beneden: lucht mengt en warme lucht blijft bewegen, beter behoudt van temperatuur
+
+Overdag is **hoger gelegen lucht kouder**; 's nachts warmer:
+- *Overdag*: zonnewarmte + temperatuurdaling op hoogte omdat warmte van oppervlak komt
+- *Nacht*: warmteverlies van de grond + warmtelagen liggen op hoogte
+
+>[!Info]
+>![[Pasted image 20240929174119.png]]
+>Minimum temperatuur wordt bereikt na zonsopgang, maxima voor zonsondergang
+
+
+
+
