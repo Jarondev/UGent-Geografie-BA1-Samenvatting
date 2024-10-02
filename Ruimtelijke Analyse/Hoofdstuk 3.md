@@ -1,3 +1,8 @@
+# Frequentiestatistiek
+
+***Waarschijnlijkheid***: frequentie gebeurtenissen bij herhaling
+***Parameter***: vaste maar onbekende waarde die uit steekproef wordt afgeleid
+***Hypothesetest***: waarschijnlijkheid dat we observatie maken onder bepaalde nulhypothese
 # Kansvariabele & verdeling
 ## Kansvariabele
 
@@ -25,6 +30,7 @@ Kansvariabele kan slechts een ***beperkt aantal mogelijke waarden*** aannemen
 
 #### Binomiale Kansverdeling
 
+*Kans op succes*
 **Binomiaal proces**: vast aantal onafhankelijke pogingen 
 **Binomiale variabele**: aantal keren succes of mislukkeling (*X*)
 **Binomiale verdeling**: kans dat binomiale variabele een bepaalde waarde aanneemt

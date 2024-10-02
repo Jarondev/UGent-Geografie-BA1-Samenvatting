@@ -107,7 +107,8 @@ flexGrow=1
 ## Numerieke Methodes
 ### Centraliteitsmaten
 
-- **Gemiddelde** (gevoelig voor extreme waarden, goed bij symmetrische verdeling)
+- **Gemiddelde** (gevoelig voor *extreme waarden*, goed bij symmetrische verdeling)
+	-> uitschieters worden vaak genegeerd
 - **Mediaan**: Te verkiezen boven gemiddelde bij assymetrische verdeling
 - **Modus**: meest voorkomende waarde
 - **Gegroepeerd gemiddelde**: 
@@ -123,7 +124,7 @@ flexGrow=1
 - **Variantie** (s<sup>2</sup>): maat voor afwijking tegenover gemiddelde
 - **Standaardafwijking** s
 - **Variatiecoefficient**: vergelijking variabiliteit tussen verschillende verdelingen
-- **Scheefheid/skewness**: helling histogram
+- **Scheefheid/skewness**: assymetrie van data
 - **Kurtosis**: platheid/puntigheid histogram
 	-> leptokurtosis: >3
 	-> platykurtosis: <3
@@ -133,14 +134,12 @@ flexGrow=1
 *Euclidische* (Pythagoras) of *Manhattan*-afstand
 ## Afstanden op Mondiale Schaal
 *Grootcirkelafstanden*: boog of astand op een bol tussen 2 punten P1(a1, b1) en P2(a2, b2)
-
 ## Zwaartepunt of Centroid
 **Gemiddelde X en Y**, eventueel met gewichten
 ## Standaardafstand
 Ruimtelijke *variatie* van locaties rond centraal punt (ruimtelijke standaarddeviatie)
-
 ## Hoekgegevens
-*Circulair* **histogram of roosdiagram** indien relevant voor data
+*Circulair* **histogram of roosdiagram** indien relevant voor data (bv voor windrichtingen)
 
 > [!Example] Voorbeeld
 > Windrichting o.b.v. 146 observaties
