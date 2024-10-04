@@ -176,9 +176,107 @@ Overdag is **hoger gelegen lucht kouder**; 's nachts warmer:
 - *Nacht*: warmteverlies van de grond + warmtelagen liggen op hoogte
 
 >[!Info]
->![[Pasted image 20240929174119.png]]
+>![[Pasted image 20240929174119.png|500]]
 >Minimum temperatuur wordt bereikt na zonsopgang, maxima voor zonsondergang
 
+# Vochtigheid
 
+Bij condensatie komt warmte vrij, bij verdampen neemt warmte op
+-> opwarming vd aarde: meer moleculen in dampfase: meer wolken
 
+Condensatie en verdamping gebeuren tergelijk 
+	-> natuur probeert evenwicht te bereiken
+		-> bij storing: uitzoeken als evenwicht veranderd is
+## concepten
+### Air parcel
 
+- Zelfde groep molecules volgen
+	- Klein genoeg om uniformiteit van waarden te hebben
+	- Groot genoeg voor het concept 'no in/out'
+### Vapour pressure
+
+- Druk van air parcels op de omgeving
+### Saturated Vapour Pressure
+
+Hoe warmer, hoe meer damp, hoe meer druk, hoe meer regen
+
+Exponentiele curve die aantoont dat waterverdamping exponentieel toeneemt naar mate van temperatuur
+
+> [!Error] Wet van Clapeyron-Clausis
+> ![[Pasted image 20241004142822.png]]
+
+## Parameters
+
+### Absolute Humidity
+
+- Dichtheid van waterdamp: massa waterdamp/volume lucht
+### Dampdruk
+
+- Meer molecules ->  meer collisies -> meer druk
+### Specifieke Vochtigheid
+
+- Ratio tussen damp en totale dichtheid air parcel
+### Humidity Mixing Ratio
+
+- Ratio tussen dampdichtheid en totale dichtheid droge lucht in air parcel
+### Relatieve Vochtigheid
+
+- Wordt gebruikt in metingen: percentage
+- Bij lagere temperatuur stijgt relatieve vochtigheid
+### Dauwpuntstemperatuur
+
+- Temperatuur die nodig is om equilibrium tussen verdamping en condensatie te bereiken
+- Mist ontstaan bij bereiken temperatuur
+### Natte bol temperaturen
+
+Temperatuur gemeten door nat doek onderaan thermometer te doen
+Energie nodig om water van doek te verdampen -> thermometer staat lager
+Wanneer atmosfeer zo verzadigd is dat er geen damp meer kan komen, verdampt doek niet meer, geen energie gebruikt dus temperatuur thermometers zelfde
+# Condensatiemist
+
+## Condensatiekern
+
+- Wolken zijn verzameling druppels
+- Verzadegingsdampdruk boven druppel is groter dan boven vlak oppervlak
+- Condensatiekernen spelen als catalysator om faseovergang te laten plaatsvinden
+	-> zonder kernen geen regen
+
+> [!Info] Groene curve is zonder condensatiekernen
+> ![[Pasted image 20241004154153.png]]
+
+- Condensatiekern: fijn in de lucht zwevend, wateraantrekkend stofdeeltje
+	- Zand, rook, stof, zeezout...
+## Dauw
+
+- Neerslag water op een oppervlak
+- Temperatuur oppervlak < = dauwpunt water
+
+## Nevel
+
+- Gecondenseerde waterdamp met meer zicht (visibility) dan mist
+- Meestal 's nachts en 's ochtends
+
+## Droge Nevel (Dry Haze)
+
+- Nevel door stof, rook of zout (smog)
+
+## Mist
+### Stralingsmist
+- Door nachtelijke straling wordt oppervlak afgekoeld
+- Dikke mist = hoogte mist
+- In vallei: koude lucht blijft onderaan -> verzadiging onderaan vallei
+### Advectiemist
+- Warme lucht boven koud zeeoppervlak
+- Wind blaast mist richting kust
+### Hellingsmist
+- Lucht wordt gedwongen te stijgen
+	-> koelt af, bereikt dauwpunt -> mistvorming
+### Frontale mist
+- dsf
+## Disperal of FOg
+# Wolken
+## Stabiliteit
+- Stabiel: zal terug gaan naar evenwichtstoestand
+- Onstabiel: geen terugkeer naar evenwichtstoestand
+
+Zolang deeltje warmer is dan omgeving blijft het stijgen -> dikkere wolk
