@@ -51,3 +51,34 @@ By **date**: old/historical, actual
 - *Human-map interaction*: low/high
 # Cartographic Process
 ## Model
+**Kolacny's model**: most used
+
+### Cartographic design
+1. **Projection** (flatten 3D surface to 2D)
+2. **Symbolization**
+3. **Generalization**
+# Geographic Data and Phenomena
+## Phenomena Types
+- **Geographic**: features that are mapped
+	- *Point*: house, tv tower
+	- *Line*: river
+	- *Areal*: farm, lake
+	- *Volume*
+- **Physical**:
+	- Tangible: buildings, rivers,...
+	- Intangible: air masses, temperature...
+	- Transient: earthquakes
+- **Abstract**: concepts (population density)
+- **Process-based**: changes (eg. land use evolution)
+## Data Types
+- **Qualitative**
+	- *Nominal*: no order or ranking
+	- *Ordinal*: ranked categories (eg. small, medium, large)
+- **Quantitative**
+	- *Interval*: no real zero point
+	- *Ratio*: fixed origin or zero point
+
+> [!Info]
+> ### Usage in portraying data
+>![[{0E9BF39F-6A50-466C-85F9-AD6308539D14}.png]]
+> 
