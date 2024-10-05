@@ -15,4 +15,3 @@
 ## Functions
 
 - Recording and storing **information**
-	- 

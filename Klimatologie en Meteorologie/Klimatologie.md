@@ -1,21 +1,12 @@
 # Inleiding
-
 ## Meteorologie Factoren
-
 - **Zonnestraling**
 - **Atmosfeer**:
 	- *Bescherming UV-stralen*
 	- Zorgt voor water
 	- Heeft gassen voor bio-processen
 - **Zwaartekracht**
-
 ## Samenstelling Atmosfeer
-
-78% N
-21% O
-0.93% Ar
-0.035% CO2
-
 H2O, CO2, CH4 -> **Broeikasgassen**: vangen een deel van de *uitgaande energie*
 - H2O -> belangrijk voor *leven*
 - CO2 -> *fotosynthese*
@@ -26,7 +17,6 @@ Aerosolen -> smalle partikels in atmosfeer
 > Lage concentratie (broeikasgassen) betekent niet dat het onbelangrijk is
 
 # Meteorologische Parameters
-
 - **Temperatuur** *T*:
 	- *Curve verandert* naar mate van **hoogte**: kouder - warmer - kouder - warmer
 - **Luchtdruk** *p*
@@ -46,17 +36,14 @@ Verandering per plaats **analyseren** met behulp van **limieten** en **different
 =>uitstroom - instroom
 # Energie
 ## Definitie
-
 - Capaciteit om werk te verrichten
 	=> verplaatsen deeltjes
 ## Vormen
-
 - **Kinetisch**: beweging
 - **Potentiele**
 - **Radiatie**
--  **Interne**: energie binnen een systeem van partikels => kinetisch + potentieel op microscopisch level
+- **Interne**: energie binnen een systeem van partikels => kinetisch + potentieel op microscopisch level
 ### Temperatuur
-
 - Meten van *gemiddelde kinetische energie* van atomen & moleculen lucht
 - Eenheid:
 	- **Celsius**: 0 = vriespunt water; 100 = kookpunt water
@@ -87,13 +74,11 @@ Specific heat voor lucht minder energie nodig dan water -> warmer in Kempen dan 
 
 # Hitte-uitwisseling in atmosfeer
 ## Geleiding
-
 - Overdracht hitte door **botsingen molecules**
 - Van warme naar koude regio's
 - Gelaadbaarheid *hangt af van materie*
 	=> lucht is slechte geleider
 ## Convectie
-
 - Overdracht hitte door **massabeweging**
 	=> *warme lucht stijgt* door lage densiteit dus *hitte gaat naar boven*  
 
@@ -104,7 +89,6 @@ Specific heat voor lucht minder energie nodig dan water -> warmer in Kempen dan 
 > ***Thermal***: stijgende **warmtebubbel**
 > ***Advectie***: **horizontale** warmtewisseling
 ## Radiatie
-
 - Overdracht energie door **radiatie** van ene naar andere object
 	- Radiatieobject: *zon*
 		- **Electromagnetische radiatie**
@@ -121,7 +105,6 @@ Specific heat voor lucht minder energie nodig dan water -> warmer in Kempen dan 
 			-> <sup>4</sup> dus **verschil aarde en zon gigantisch**
 - ***Solar constante***: hoeveelheid radiatie zon uitzendt in alle richtingen
 ### Atmosfeer
-
 *Selectieve opname & uitzending* radiatie:
 - Enkel op bepaalde golflengtes
 - Wet van **Kirchoff**: object die selectief absorbeert, zendt ook selectief uit op dezelfde golflengte
@@ -140,7 +123,6 @@ Specific heat voor lucht minder energie nodig dan water -> warmer in Kempen dan 
 	- **Minder** op *water & continenten*
 	- Gemiddeld 30%
 ### Energiebalans
-
 Inkomende radiatie: **shortwave**
 Uitgaande radiatie: **longwave**
 *"What comes in, must go out"* -> anders: koeling/opwarming aarde
@@ -151,7 +133,6 @@ Uitgaande radiatie: **longwave**
 > [!Info]
 > ![[Pasted image 20240929170844.png]]
 # Temperatuur
-
 - Meten op 1,5m hoogte boven grond in weerhut:
 	- Vrije luchtcirculatie
 	- *Geen neerslag*
@@ -180,100 +161,103 @@ Overdag is **hoger gelegen lucht kouder**; 's nachts warmer:
 >Minimum temperatuur wordt bereikt na zonsopgang, maxima voor zonsondergang
 
 # Vochtigheid
+= Hoeveelheid waterdamp in atmosfeer
 
-Bij condensatie komt warmte vrij, bij verdampen neemt warmte op
--> opwarming vd aarde: meer moleculen in dampfase: meer wolken
+Bij **condensatie** komt **warmte vrij**, bij **verdampen** neemt **warmte op**
+-> *opwarming vd aarde*: meer moleculen in dampfase: *meer wolken*
 
-Condensatie en verdamping gebeuren tergelijk 
-	-> natuur probeert evenwicht te bereiken
-		-> bij storing: uitzoeken als evenwicht veranderd is
+Condensatie en verdamping gebeuren **tergelijk** 
+	-> natuur probeert ***evenwicht*** te bereiken
+			-> bij storing: uitzoeken als *evenwicht veranderd* is
 ## concepten
-### Air parcel
-
-- Zelfde groep molecules volgen
+- **Air parcel**: zelfde groep molecules volgen
 	- Klein genoeg om uniformiteit van waarden te hebben
 	- Groot genoeg voor het concept 'no in/out'
-### Vapour pressure
-
-- Druk van air parcels op de omgeving
-### Saturated Vapour Pressure
-
-Hoe warmer, hoe meer damp, hoe meer druk, hoe meer regen
-
-Exponentiele curve die aantoont dat waterverdamping exponentieel toeneemt naar mate van temperatuur
+- **Vapour pressure**: *Druk* van air parcels op *de omgeving*
+- **Saturated Vapour Pressure**: 
+	- **Verzadigingsdampdruk**: snelheid verdamping is gelijk aan snelheid condensatie bij T
+		=> *Warmer => meer damp => meer regen*
 
 > [!Error] Wet van Clapeyron-Clausis
-> ![[Pasted image 20241004142822.png]]
+> ![[Pasted image 20241004142822.png|500]]
 
 ## Parameters
-
-### Absolute Humidity
-
-- Dichtheid van waterdamp: massa waterdamp/volume lucht
-### Dampdruk
-
-- Meer molecules ->  meer collisies -> meer druk
-### Specifieke Vochtigheid
-
-- Ratio tussen damp en totale dichtheid air parcel
-### Humidity Mixing Ratio
-
-- Ratio tussen dampdichtheid en totale dichtheid droge lucht in air parcel
-### Relatieve Vochtigheid
-
-- Wordt gebruikt in metingen: percentage
-- Bij lagere temperatuur stijgt relatieve vochtigheid
-### Dauwpuntstemperatuur
-
-- Temperatuur die nodig is om equilibrium tussen verdamping en condensatie te bereiken
-- Mist ontstaan bij bereiken temperatuur
-### Natte bol temperaturen
-
-Temperatuur gemeten door nat doek onderaan thermometer te doen
-Energie nodig om water van doek te verdampen -> thermometer staat lager
-Wanneer atmosfeer zo verzadigd is dat er geen damp meer kan komen, verdampt doek niet meer, geen energie gebruikt dus temperatuur thermometers zelfde
+- **Absolute Humidity**: dichtheid van waterdamp: massa waterdamp/volume lucht
+- **Dampdruk**: meer molecules ->  meer collisies -> meer druk
+- **Specifieke Vochtigheid**: ratio tussen damp en totale dichtheid air parcel
+- **Humidity Mixing Ratio**: ratio tussen dampdichtheid en totale dichtheid droge lucht in air parcel
+- **Relatieve vochtigheid**:
+	- *Percentage* die gebruikt wordt in metingen
+	- Bij lage temperatuur stijgt relatieve vochtigheid
+- **Dauwpuntstemperatuur**:
+	- *Temperatuur* die nodig is om *equilibrium tussen verdamping en condensatie* te bereiken
+	- Mist ontstaat bij bereiken equilibrium
+- **Natte bol temperaturen**
+	- Temperatuur gemeten door *nat doek rond thermometer* te doen
+		- Energie nodig om water van doek te verdampen -> thermometer staat lager
+		- Wanneer atmosfeer verzadigd is -> geen verdamping -> geen energiegebruik -> temperatuur zelfde tussen beide thermometers
+	- Wordt geruikt om *dauwpuntstemperatuur te berekenen*
+# Fasetransities
+- **Condensatie**: neerslag water door condensatiekern en daling T 
+	- In natuur:
+		- Koeling door **stijgende luchtbeweging**: *wolkvorming*
+		- Koeling door **radiatie**: vorming *mist/haze/stratuswolken*
+- **Verdamping**: vloeibaar -> gas door wind & T
+- **Bevriezing**: vloeibaar -> vast; laat warmte vrij
+- **Smelten**: vast -> vloeibaar
+	- In natuur:
+		- Verwarming door subsidentie, *zonnestraling*, contact met warmer object
+- **Sublimatie**: vast -> gas; bij heel koud & droog weer, traag proces
+- **Depositie**: gas -> vast; bij heel koud & droog weer, vooral op koude objecten
 # Condensatiemist
-
+- Bij **condensatie** ontsnappen moleculen **meer uit druppel** door **gekromd oppervlak**; minder buurmoleculen
+- Wolken zijn **verzameling druppels**
 ## Condensatiekern
+***= fijn, in de lucht zwevend wateraantrekkend partikel*** (zand, stof, zeezout..)
 
-- Wolken zijn verzameling druppels
-- Verzadegingsdampdruk boven druppel is groter dan boven vlak oppervlak
-- Condensatiekernen spelen als catalysator om faseovergang te laten plaatsvinden
+- Condensatiekernen spelen als **catalysator** om faseovergang te laten plaatsvinden
+	- *Waterdamp klontert samen rond partikels* bij zakking onderdauwpunt
 	-> zonder kernen geen regen
 
 > [!Info] Groene curve is zonder condensatiekernen
 > ![[Pasted image 20241004154153.png]]
-
-- Condensatiekern: fijn in de lucht zwevend, wateraantrekkend stofdeeltje
-	- Zand, rook, stof, zeezout...
 ## Dauw
-
-- Neerslag water op een oppervlak
+- **Condensatie water op een oppervlak**
 - Temperatuur oppervlak < = dauwpunt water
+- Belangrijk voor vegetatie regios met weinig neerslag
 
 ## Nevel
-
-- Gecondenseerde waterdamp met meer zicht (visibility) dan mist
+- **Gecondenseerde waterdamp** met *meer zicht* (visibility) *dan mist*
 - Meestal 's nachts en 's ochtends
-
-## Droge Nevel (Dry Haze)
-
+- Hoge relatieve humiditeit
+### Dry Haze
 - Nevel door stof, rook of zout (smog)
+- Regio's met **weinig luchtcirculatie**
 
-## Mist
-### Stralingsmist
-- Door nachtelijke straling wordt oppervlak afgekoeld
+## Fog (mist)
+- **Microscopische waterdruppels in suspensie** dichtbij oppervlak
+- Door *koeling omgevingstemperatuur* of *toename verdamping en menging waterdamp*
 - Dikke mist = hoogte mist
+### Stralingsmist
+- Door **nachtelijke straling** wordt oppervlak afgekoeld
+- *Heldere + lange nacht*, *koud en nat* oppervlak, heel *lichte wind*
 - In vallei: koude lucht blijft onderaan -> verzadiging onderaan vallei
 ### Advectiemist
-- Warme lucht boven koud zeeoppervlak
-- Wind blaast mist richting kust
+- Warme lucht boven **koud zeeoppervlak**
+	-> RH gaat omhoog
+- **Wind blaast mist** richting kust
 ### Hellingsmist
-- Lucht wordt gedwongen te stijgen
+- **Stijging lucht** bij helling
 	-> koelt af, bereikt dauwpunt -> mistvorming
 ### Frontale mist
-- dsf
-## Disperal of FOg
+- **Koude lucht** komt **in aanraking met warme**, vochtige **lucht**
+	-> warme lucht koelt af -> condenseert -> mistvorming
+## Disperal of Fog
+- **Turbulentie**
+- **Zonnestraling**
+	- In winter minder door lage hoek
+	- Wolkenlagen 
+- **Subsidentie**: dalende luchtstromen
 # Wolken
 ## Stabiliteit
 - Stabiel: zal terug gaan naar evenwichtstoestand
