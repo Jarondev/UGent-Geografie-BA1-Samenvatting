@@ -48,16 +48,12 @@ Transportkosten worden altijd betaald door iemand
 - Belgie centraal gelegen: handelskern Europa -> veel files (**transitverkeer**)
 
 ## Huisvesting
-
 Mensen willen vaker dicht bij hun werk wonen, in steden
 ## Sociaal 
-
 Vergoedingen bejaarden openbaar vervoer
 ## Juridisch 
-
 Recht om te verplaatsen in gevangenissen
-
-# Karakteristiek
+# Karakteristieken
 ## Spatial FLow
 Interactie tussen nabije entiteiten is groter (***distance decay***)
 -> soms van *productie, attractie & spreiding*
@@ -79,10 +75,12 @@ Infrastructuur is aangelegd op basis van zo snel mogelijk ter plaatse te zijn: v
 Goederen en services zijn **prijsafhankelijk van locatie** (bv. restaurant op korenmarkt)
 -> reden dat goederen worden verplaatst
 ## Motief en nood van transport
+**Situatiegebonden** (slecht weer, vervoer mensen, comfort..)
 ## Variaties in transportaanbod
-Charter vs lijnvlucht
-Charter vertrekt op basis van vraag
-Lijnvlucht vertrekt altijd op vaste uren
+Bij luchtvaart:
+- **Charter vs lijnvlucht**
+	- Charter vertrekt op basis van vraag
+	- Lijnvlucht vertrekt altijd op vaste uren
 ## Prijs/kwaliteit
 Hoe *meer volume*, hoe *goedkoper* per eenheid: **schaalvoordeel**
 -> *grotere logistieke* kost (bv. stockagekost; container neemt plaats in beslag)
