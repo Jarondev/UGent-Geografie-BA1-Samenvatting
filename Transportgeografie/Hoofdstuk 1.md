@@ -1,13 +1,10 @@
 # Examenvraag
-
 Krantartikel op dag van examen over mobiliteit analyseren
 # Doel
-
 **Verplaatsing**: overbruggen afstand in zo weinig mogelijk tijdverlies
 -  Tijd zo klein mogelijk maken
 	-> meer **snelheid**
 # Definitie
-
 - **Travel**: verplaatsing
 - **Transport**: vervoer
 - **Traffic**: verkeer
@@ -68,7 +65,7 @@ Interactie tussen nabije entiteiten is groter (***distance decay***)
 ## Derived Demand
 **Potential path area**: tot hoe ver men kan gaan om nog terug thuis te zijn binnen bepaalde tijd
 
-Infrastructuur is aangelegd op basis van zo snel mogelijk ter plaatse te zijn: verplaatsing zelf is onnuttig
+Infrastructuur is aangelegd op basis van *zo snel mogelijk ter plaatse te zijn*: **verplaatsing zelf is onnuttig**
 -> ***gift of travel time***: positieve nuttigheden koppelen aan verplaatsing
 	-> bv. tot rust komen, joyriding, avontuur, sport
 ## Place utility
@@ -85,3 +82,7 @@ Bij luchtvaart:
 Hoe *meer volume*, hoe *goedkoper* per eenheid: **schaalvoordeel**
 -> *grotere logistieke* kost (bv. stockagekost; container neemt plaats in beslag)
 
+
+
+> [!Error] Waarschuwing
+> Vanaf dia 57 niet kennen, is informatief
