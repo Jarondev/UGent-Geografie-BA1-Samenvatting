@@ -3,13 +3,9 @@
 
 ### Numeriek
 
-- **Interval**: meetbare verschillen zonder nulpunt (temperatuur, IQ)
-- **Ratio**: meetbare waarden met absoluut nulpunt en zinvolle verhoudingen (neerslag, afstand
-
-### Op basis van de aard van de waarden
-
-- **Discreet**: telbaar, met "onderbrekingen" (aantal regendagen, aantal kinderen in een gezin)
-- **Continu**: Niet telbaar, kan elke waarde aannemen binnen bepaald interval (temperatuur, hoogte)
+- **Interval**: gegevens met zinvolle verhoudingen zonder nulpunt (temperatuur, IQ)
+- **Ratio**: gegevens met absoluut nulpunt en zinvolle verhoudingen (lengte, gewicht)
+- **Discreet**: gegevens die alleen *vaste waarden* aannemen (aantal regendagen, aantal kinderen in een gezin)
 ## Kwalitatief
 
 - **Nominaal**: unieke, aparte observaties (bodemtype, nationaliteit,..)

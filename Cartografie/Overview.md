@@ -77,6 +77,7 @@ By **date**: old/historical, actual
 - **Quantitative**
 	- *Interval*: no real zero point
 	- *Ratio*: fixed origin or zero point
+	- *Discrete*: 
 
 > [!Info]
 > ### Usage in portraying data
